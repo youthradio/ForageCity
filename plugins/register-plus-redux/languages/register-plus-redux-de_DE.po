@@ -1,0 +1,1350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Register Plus Redux 3.6.21\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/register-plus-redux\n"
+"POT-Creation-Date: 2010-11-05 15:12+0000\n"
+"PO-Revision-Date: 2010-12-16 17:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: dashboard_invitation_tracking_widget.php:9
+#@ register-plus-redux
+msgid "Invitation Code Tracking"
+msgstr "Tracking des Einladungscodes"
+
+#: register-plus-redux.php:160
+#: register-plus-redux.php:161
+#: register-plus-redux.php:651
+#@ register-plus-redux
+msgid "Remove Code"
+msgstr "Code entfernen"
+
+#: register-plus-redux.php:187
+#: register-plus-redux.php:796
+#: register-plus-redux.php:824
+#@ register-plus-redux
+msgid "Text Field"
+msgstr "Textfeld"
+
+#: register-plus-redux.php:188
+#: register-plus-redux.php:797
+#: register-plus-redux.php:825
+#@ register-plus-redux
+msgid "Select Field"
+msgstr "Auswahlfeld"
+
+#: register-plus-redux.php:189
+#: register-plus-redux.php:798
+#: register-plus-redux.php:826
+#@ register-plus-redux
+msgid "Checkbox Fields"
+msgstr "Checkbox Felder"
+
+#: register-plus-redux.php:190
+#: register-plus-redux.php:799
+#: register-plus-redux.php:827
+#@ register-plus-redux
+msgid "Radio Fields"
+msgstr "Radiobuttons"
+
+#: register-plus-redux.php:191
+#: register-plus-redux.php:800
+#: register-plus-redux.php:828
+#@ register-plus-redux
+msgid "Text Area"
+msgstr "Textbereich"
+
+#: register-plus-redux.php:192
+#: register-plus-redux.php:801
+#: register-plus-redux.php:829
+#@ register-plus-redux
+msgid "Date Field"
+msgstr "Datumsfeld"
+
+#: register-plus-redux.php:193
+#: register-plus-redux.php:802
+#: register-plus-redux.php:830
+#@ register-plus-redux
+msgid "URL Field"
+msgstr "URL Feld"
+
+#: register-plus-redux.php:194
+#: register-plus-redux.php:803
+#: register-plus-redux.php:831
+#@ register-plus-redux
+msgid "Hidden Field"
+msgstr "Verstecktes Feld"
+
+#: register-plus-redux.php:249
+#: register-plus-redux.php:250
+#: register-plus-redux.php:813
+#: register-plus-redux.php:841
+#@ register-plus-redux
+msgid "Remove Field"
+msgstr "Feld entfernen"
+
+#: register-plus-redux.php:257
+#: register-plus-redux.php:258
+#: register-plus-redux.php:814
+#: register-plus-redux.php:842
+#@ register-plus-redux
+msgid "Move this Field Up"
+msgstr "Dieses Feld nach oben rücken"
+
+#: register-plus-redux.php:265
+#: register-plus-redux.php:266
+#: register-plus-redux.php:815
+#: register-plus-redux.php:843
+#@ register-plus-redux
+msgid "Move this Field Down"
+msgstr "Dieses Feld nach unten rücken"
+
+#: register-plus-redux.php:285
+#@ register-plus-redux
+msgid "The following message will be sent when a user is registered:"
+msgstr "Die folgende Nachricht wird nach der Registrierung an den Benutzer gesendet:"
+
+#: register-plus-redux.php:308
+#@ register-plus-redux
+msgid "No message will be sent to user whether they are registered or created by an administrator."
+msgstr "Es wird keine Nachricht nach der Registrierung oder nach der Erzeugung durch den Administrator an den Benutzer gesendet."
+
+#: register-plus-redux.php:311
+#: register-plus-redux.php:353
+#@ register-plus-redux
+msgid "The following message will be sent when a user is "
+msgstr "Die folgende Nachricht wird an den Benutzer gesendet beim Erreichen des Status  "
+
+#: register-plus-redux.php:312
+#: register-plus-redux.php:354
+#@ register-plus-redux
+msgid "registered"
+msgstr "registriert"
+
+#: register-plus-redux.php:313
+#: register-plus-redux.php:355
+#@ register-plus-redux
+msgid " or "
+msgstr " oder "
+
+#: register-plus-redux.php:314
+#: register-plus-redux.php:356
+#@ register-plus-redux
+msgid "created"
+msgstr "erstellt"
+
+#: register-plus-redux.php:315
+#@ register-plus-redux
+msgid " after "
+msgstr " nach "
+
+#: register-plus-redux.php:318
+#@ register-plus-redux
+msgid " and/or "
+msgstr " und/oder "
+
+#: register-plus-redux.php:320
+#@ register-plus-redux
+msgid "an administrator has approved the new user"
+msgstr "der Administrator hat den neuen Benutzer bestätigt"
+
+#: register-plus-redux.php:298
+#: register-plus-redux.php:334
+#: register-plus-redux.php:370
+#@ register-plus-redux
+msgid "To: "
+msgstr "An: "
+
+#: register-plus-redux.php:299
+#: register-plus-redux.php:335
+#: register-plus-redux.php:371
+#@ register-plus-redux
+msgid "From: "
+msgstr "Von: "
+
+#: register-plus-redux.php:300
+#: register-plus-redux.php:336
+#: register-plus-redux.php:372
+#@ register-plus-redux
+msgid "Subject: "
+msgstr "Betreff: "
+
+#: register-plus-redux.php:301
+#: register-plus-redux.php:337
+#: register-plus-redux.php:373
+#@ register-plus-redux
+msgid "Content-Type: "
+msgstr "Content-Typ: "
+
+#: register-plus-redux.php:350
+#@ register-plus-redux
+msgid "No message will be sent to administrator whether a user is registered or created."
+msgstr "Der Administrator erhält keine Nachricht wenn ein Benutzer sich registriert oder erzeugt wird."
+
+#: register-plus-redux.php:469
+#@ register-plus-redux
+msgid "Settings Saved"
+msgstr "Einstellungen gespeichert"
+
+#: register-plus-redux.php:131
+#: register-plus-redux.php:473
+#@ register-plus-redux
+msgid "Register Plus Redux Settings"
+msgstr "Register Plus Redux Einstellungen"
+
+#: register-plus-redux.php:479
+#@ register-plus-redux
+msgid "Custom Logo URL"
+msgstr "URL des eigenen Logos"
+
+#: register-plus-redux.php:482
+#@ register-plus-redux
+msgid "Upload a new logo:"
+msgstr "Lade ein neues Logo hoch:"
+
+#: register-plus-redux.php:483
+#@ register-plus-redux
+msgid "You must Save Changes to upload logo."
+msgstr "Du musst die Einstellungen speichern, um ein neues Logo hochzuladen."
+
+#: register-plus-redux.php:484
+#@ register-plus-redux
+msgid "Custom Logo will be shown on Registration and Login Forms in place of the default Wordpress logo. For the best results custom logo should not exceed 350px width."
+msgstr "Das eigene Logo wird in der Registrierungs- und der Login-Maske anstelle des Standard-Wordpress-Logos angezeigt. Für beste Ergebnisse sollte das Logo eine Breite von 350px nicht überschreiten."
+
+#: register-plus-redux.php:489
+#@ register-plus-redux
+msgid "Remove Logo"
+msgstr "Logo entfernen"
+
+#: register-plus-redux.php:490
+#@ register-plus-redux
+msgid "You must Save Changes to remove logo."
+msgstr "Du musst die Einstellungen speichern, um das Logo zu entfernen."
+
+#: register-plus-redux.php:495
+#@ register-plus-redux
+msgid "Email Verification"
+msgstr "E-Mail-Überprüfung"
+
+#: register-plus-redux.php:497
+#@ register-plus-redux
+msgid "Verify all new users email address..."
+msgstr "Überprüfe die E-Mail-Adressen aller neuen Benutzer..."
+
+#: register-plus-redux.php:498
+#@ register-plus-redux
+msgid "A verification code will be sent to any new users email address, new users will not be able to login or reset their password until they have completed the verification process. Administrators may authorize new users from the Unverified Users Page at their own discretion."
+msgstr "Eine Überprüfungsmail wird an alle neuen Benutzer gesendet. Neue Benutzer können sich nicht einloggen oder ihr Passwort ändern, solange sie nicht den Überprüfungsprozess beendet haben. Administratoren können Benutzer jederzeit direkt über die Benutzerseite freischalten. "
+
+#: register-plus-redux.php:500
+#@ register-plus-redux
+msgid "The following message will be shown to users after registering. You may include HTML in this message."
+msgstr "Die folgende Nachricht wird allen Benutzern gezeigt, nachdem sie sich registriert haben. Du kannst in der Nachricht HTML nutzen."
+
+#: register-plus-redux.php:506
+#@ register-plus-redux
+msgid "Admin Verification"
+msgstr "Admin Überprüfung"
+
+#: register-plus-redux.php:508
+#@ register-plus-redux
+msgid "Moderate all new user registrations..."
+msgstr "Moderiere alle neu registrierten Benutzer..."
+
+#: register-plus-redux.php:509
+#@ register-plus-redux
+msgid "New users will not be able to login or reset their password until they have been authorized by an administrator from the Unverified Users Page. If both verification options are enabled, users will not be able to login until an administrator authorizes them, regardless of whether they complete the email verification process."
+msgstr "Neue Benutzer können sich nicht einloggen oder ihr Passwort ändern, solange sie nicht durch den Administrator auf der Benutzerseite freigeschaltet wurden. Wenn beide Überprüfungsoptionen eingeschaltet sind, können sich Benutzer nicht einloggen bis der Administrator sie freigeschaltet hat - unabhängig davon, ob sie den Überprüfungsprozess abschließen."
+
+#: register-plus-redux.php:511
+#@ register-plus-redux
+msgid "The following message will be shown to users after registering (or verifying their email if both verification options are enabled). You may include HTML in this message."
+msgstr "Die folgende Nachricht wird Benutzern nach der Registrierung angezeigt (oder nach der E-Mail-Überprüfung, wenn beide Überprüfungsoptionen eingeschaltet wurden). Du kann in der Nachricht HTML nutzen."
+
+#: register-plus-redux.php:517
+#@ register-plus-redux
+msgid "Grace Period"
+msgstr "Meldefrist"
+
+#: register-plus-redux.php:519
+#@ register-plus-redux
+msgid "days"
+msgstr "Tage"
+
+#: register-plus-redux.php:520
+#@ register-plus-redux
+msgid "All unverified users will automatically be deleted after the Grace Period specified, to disable this process enter 0 to never automatically delete unverified users."
+msgstr "Alle nicht verifizierten Benutzer werden automatisch nach Ablauf der Meldefrist gelöscht. Um diesen Prozess auszuschalten, gib 0 ein, um unverifizierte Benutzer niemals zu löschen."
+
+#: register-plus-redux.php:538
+#@ register-plus-redux
+msgid "Registration Page"
+msgstr "Registrierungsseite"
+
+#: register-plus-redux.php:539
+#@ register-plus-redux
+msgid "Select which fields to show on the Registration Page. Users will not be able to register without completing any fields marked required."
+msgstr "Wähle die Felder aus, die auf der Registrierungsseite angezeigt werden sollen. Benutzer können sich nicht registrieren, ohne alle als Pflichtfeld markierten Felder ausgefüllt zu haben."
+
+#: register-plus-redux.php:546
+#@ register-plus-redux
+msgid "Confirm Email"
+msgstr "E-Mail-Adresse bestätigen"
+
+#: register-plus-redux.php:547
+#@ register-plus-redux
+msgid "Require new users to enter e-mail address twice during registration."
+msgstr "Zwinge neue Benutzer, ihre E-Mailadresse während der Registrierung zweimal einzugeben."
+
+#: register-plus-redux.php:550
+#@ register-plus-redux
+msgid "Profile Fields"
+msgstr "Profilfelder"
+
+#: register-plus-redux.php:555
+#@ register-plus-redux
+msgid "Show"
+msgstr "Zeige"
+
+#: register-plus-redux.php:556
+#: register-plus-redux.php:784
+#@ register-plus-redux
+msgid "Require"
+msgstr "Pflichtfeld"
+
+#: register-plus-redux.php:562
+#: register-plus-redux.php:1597
+#@ register-plus-redux
+msgid "First Name"
+msgstr "Vorname"
+
+#: register-plus-redux.php:567
+#: register-plus-redux.php:1605
+#@ register-plus-redux
+msgid "Last Name"
+msgstr "Nachname"
+
+#: register-plus-redux.php:572
+#: register-plus-redux.php:1613
+#@ register-plus-redux
+msgid "Website"
+msgstr "Webseite"
+
+#: register-plus-redux.php:577
+#: register-plus-redux.php:1621
+#@ register-plus-redux
+msgid "AIM"
+msgstr "AIM"
+
+#: register-plus-redux.php:582
+#: register-plus-redux.php:1629
+#@ register-plus-redux
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: register-plus-redux.php:587
+#: register-plus-redux.php:1637
+#@ register-plus-redux
+msgid "Jabber / Google Talk"
+msgstr "Jabber / Google Talk"
+
+#: register-plus-redux.php:592
+#: register-plus-redux.php:1645
+#@ register-plus-redux
+msgid "About Yourself"
+msgstr "Über Dich"
+
+#: register-plus-redux.php:601
+#@ register-plus-redux
+msgid "User Set Password"
+msgstr "Benutzer-Passwortänderung"
+
+#: register-plus-redux.php:603
+#@ register-plus-redux
+msgid "Require new users enter a password during registration..."
+msgstr "Zwinge neue Benutzer, während der Registrierung ein neues Passwort einzugeben..."
+
+#: register-plus-redux.php:605
+#@ register-plus-redux
+msgid "Minimum password length: "
+msgstr "Mindestlänge des Passworts: "
+
+#: register-plus-redux.php:606
+#@ register-plus-redux
+msgid "Show password strength meter..."
+msgstr "Zeige den Passwort-Strengthmeter"
+
+#: register-plus-redux.php:610
+#@ register-plus-redux
+msgid "Empty"
+msgstr "Passwortstärke"
+
+#: register-plus-redux.php:614
+#@ register-plus-redux
+msgid "Short"
+msgstr "Zu kurz"
+
+#: register-plus-redux.php:618
+#@ register-plus-redux
+msgid "Bad"
+msgstr "Schlechtes Passwort"
+
+#: register-plus-redux.php:622
+#@ register-plus-redux
+msgid "Good"
+msgstr "Gutes Passwort"
+
+#: register-plus-redux.php:626
+#@ register-plus-redux
+msgid "Strong"
+msgstr "Starkes Passwort"
+
+#: register-plus-redux.php:630
+#@ register-plus-redux
+msgid "Mismatch"
+msgstr "Passwörter sind unterschiedlich"
+
+#: register-plus-redux.php:639
+#: register-plus-redux.php:1758
+#: register-plus-redux.php:2069
+#@ register-plus-redux
+msgid "Invitation Code"
+msgstr "Falscher Einladungscode"
+
+#: register-plus-redux.php:641
+#@ register-plus-redux
+msgid "Use invitation codes to track or authorize new user registration..."
+msgstr "Benutze Einladungscodes, um neue Benutzerregistrierungen zu tracken oder freizuschalten..."
+
+#: register-plus-redux.php:643
+#@ register-plus-redux
+msgid "Require new user enter one of the following invitation codes to register."
+msgstr "Zwinge neue Benutzer einen der folgenden Einladungscodes bei der Registrieung zu nutzen."
+
+#: register-plus-redux.php:644
+#@ register-plus-redux
+msgid "Enforce case-sensitivity of invitation codes."
+msgstr "Erzwinge die Groß-/Kleinschreibungsprüfung der Einladungscodes."
+
+#: register-plus-redux.php:645
+#@ register-plus-redux
+msgid "Show Invitation Code Tracking widget on Dashboard."
+msgstr "Zeige das Widget zum Einladungscode-Tracking im Dashboard."
+
+#: register-plus-redux.php:654
+#@ register-plus-redux
+msgid "Add Code"
+msgstr "Code hinzufügen"
+
+#: register-plus-redux.php:654
+#@ register-plus-redux
+msgid "Add a new invitation code"
+msgstr "Füge neuen Einladungscode hinzu"
+
+#: register-plus-redux.php:659
+#@ register-plus-redux
+msgid "Disclaimer"
+msgstr "Disclaimer"
+
+#: register-plus-redux.php:661
+#@ register-plus-redux
+msgid "Show Disclaimer during registration..."
+msgstr "Zeige den Disclaimer während der Registrierung..."
+
+#: register-plus-redux.php:666
+#@ register-plus-redux
+msgid "Disclaimer Title"
+msgstr "Titel des Disclaimers"
+
+#: register-plus-redux.php:674
+#@ register-plus-redux
+msgid "Disclaimer Content"
+msgstr "Inhalt des Disclaimers"
+
+#: register-plus-redux.php:680
+#: register-plus-redux.php:712
+#: register-plus-redux.php:744
+#@ register-plus-redux
+msgid "Require Agreement"
+msgstr "Erzwinge Einverständnis"
+
+#: register-plus-redux.php:691
+#@ register-plus-redux
+msgid "License Agreement"
+msgstr "Einverständnis zu Nutzungsbedingungen"
+
+#: register-plus-redux.php:693
+#@ register-plus-redux
+msgid "Show License Agreement during registration..."
+msgstr "Zeige die Nutzungsbedingungen während der Registrierung..."
+
+#: register-plus-redux.php:698
+#@ register-plus-redux
+msgid "License Agreement Title"
+msgstr "Titel der Nutzungsbedingungen"
+
+#: register-plus-redux.php:706
+#@ register-plus-redux
+msgid "License Agreement Content"
+msgstr "Inhalt der Nutzungsbedingungen"
+
+#: register-plus-redux.php:723
+#@ register-plus-redux
+msgid "Privacy Policy"
+msgstr "Datenschutzerklärung"
+
+#: register-plus-redux.php:725
+#@ register-plus-redux
+msgid "Show Privacy Policy during registration..."
+msgstr "Zeige die Datenschutzerklärung während der Registrierung..."
+
+#: register-plus-redux.php:730
+#@ register-plus-redux
+msgid "Privacy Policy Title"
+msgstr "Titel der Datenschutzerklärung"
+
+#: register-plus-redux.php:738
+#@ register-plus-redux
+msgid "Privacy Policy Content"
+msgstr "Inhalt der Datenschutzerklärung"
+
+#: register-plus-redux.php:755
+#@ register-plus-redux
+msgid "Use Default Style Rules"
+msgstr "Nutze die Standard-Stil-Regeln"
+
+#: register-plus-redux.php:756
+#@ register-plus-redux
+msgid "Apply default Wordpress 3.0.1 styling to all fields."
+msgstr "Nutze die Standard-Wordpress 3.0.1-Stilelemente bei allen Feldern."
+
+#: register-plus-redux.php:759
+#@ register-plus-redux
+msgid "Required Fields Style Rules"
+msgstr "Gewünschte Stil-Regeln für Felder"
+
+#: register-plus-redux.php:763
+#@ register-plus-redux
+msgid "Required Fields Asterisk"
+msgstr "Stern bei Pflichtfeldern"
+
+#: register-plus-redux.php:764
+#@ register-plus-redux
+msgid "Add asterisk to left of all required field's name."
+msgstr "Füge einen Stern an der linken Seite bei allen Pflichtfeldern hinzu."
+
+#: register-plus-redux.php:767
+#@ register-plus-redux
+msgid "Starting Tabindex"
+msgstr "Startnummer des Tabindex"
+
+#: register-plus-redux.php:774
+#@ register-plus-redux
+msgid "Additional Fields"
+msgstr "Weitere Felder"
+
+#: register-plus-redux.php:778
+#@ register-plus-redux
+msgid "Name"
+msgstr "Name"
+
+#: register-plus-redux.php:779
+#@ register-plus-redux
+msgid "Type"
+msgstr "Typ"
+
+#: register-plus-redux.php:780
+#@ register-plus-redux
+msgid "Options"
+msgstr "Optionen"
+
+#: register-plus-redux.php:782
+#@ register-plus-redux
+msgid "Profile"
+msgstr "Profil"
+
+#: register-plus-redux.php:783
+#@ register-plus-redux
+msgid "Registration"
+msgstr "Registrierung"
+
+#: register-plus-redux.php:785
+#@ register-plus-redux
+msgid "Actions"
+msgstr "Aktionen"
+
+#: register-plus-redux.php:850
+#@ register-plus-redux
+msgid "Add Field"
+msgstr "Feld hinzufügen"
+
+#: register-plus-redux.php:850
+#@ register-plus-redux
+msgid "Add a new custom field."
+msgstr "Neues benutzerdefiniertes Feld hinzufügen"
+
+#: register-plus-redux.php:853
+#@ register-plus-redux
+msgid "Date Field Settings"
+msgstr "Datumsfeld Einstellungen"
+
+#: register-plus-redux.php:855
+#@ register-plus-redux
+msgid "First Day of the Week"
+msgstr "Erster Tag der Woche"
+
+#: register-plus-redux.php:857
+#@ register-plus-redux
+msgid "Monday"
+msgstr "Montag"
+
+#: register-plus-redux.php:858
+#@ register-plus-redux
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: register-plus-redux.php:859
+#@ register-plus-redux
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: register-plus-redux.php:860
+#@ register-plus-redux
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: register-plus-redux.php:861
+#@ register-plus-redux
+msgid "Friday"
+msgstr "Freitag"
+
+#: register-plus-redux.php:862
+#@ register-plus-redux
+msgid "Saturday"
+msgstr "Samstag"
+
+#: register-plus-redux.php:863
+#@ register-plus-redux
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: register-plus-redux.php:865
+#@ register-plus-redux
+msgid "Date Format"
+msgstr "Datumsformat"
+
+#: register-plus-redux.php:866
+#@ register-plus-redux
+msgid "First Selectable Date"
+msgstr "Erstes wählbares Datum"
+
+#: register-plus-redux.php:867
+#@ register-plus-redux
+msgid "Default Year"
+msgstr "Voreinstellung Jahr"
+
+#: register-plus-redux.php:868
+#@ register-plus-redux
+msgid "Default Month"
+msgstr "Voreinstellung Monat"
+
+#: register-plus-redux.php:870
+#@ register-plus-redux
+msgid "Current Month"
+msgstr "Aktueller Monat"
+
+#: register-plus-redux.php:871
+#@ register-plus-redux
+msgid "Jan"
+msgstr "Jan"
+
+#: register-plus-redux.php:872
+#@ register-plus-redux
+msgid "Feb"
+msgstr "Feb"
+
+#: register-plus-redux.php:873
+#@ register-plus-redux
+msgid "Mar"
+msgstr "Mär"
+
+#: register-plus-redux.php:874
+#@ register-plus-redux
+msgid "Apr"
+msgstr "Apr"
+
+#: register-plus-redux.php:875
+#@ register-plus-redux
+msgid "May"
+msgstr "Mai"
+
+#: register-plus-redux.php:876
+#@ register-plus-redux
+msgid "Jun"
+msgstr "Jun"
+
+#: register-plus-redux.php:877
+#@ register-plus-redux
+msgid "Jul"
+msgstr "Jul"
+
+#: register-plus-redux.php:878
+#@ register-plus-redux
+msgid "Aug"
+msgstr "Aug"
+
+#: register-plus-redux.php:879
+#@ register-plus-redux
+msgid "Sep"
+msgstr "Sep"
+
+#: register-plus-redux.php:880
+#@ register-plus-redux
+msgid "Oct"
+msgstr "Okt"
+
+#: register-plus-redux.php:881
+#@ register-plus-redux
+msgid "Nov"
+msgstr "Nov"
+
+#: register-plus-redux.php:882
+#@ register-plus-redux
+msgid "Dec"
+msgstr "Dez"
+
+#: register-plus-redux.php:887
+#@ register-plus-redux
+msgid "Auto-Complete Queries"
+msgstr "Autom. Vervollständigung der Queries"
+
+#: register-plus-redux.php:888
+#@ register-plus-redux
+msgid "You can now link to the registration page with queries to autocomplete specific fields for the user. I have included the query keys below and an example of a query URL."
+msgstr "Du kannst jetzt Queries auf die Registrierungsseite verlinken, um bestimmte Benutzerfelder automatisch zu befüllen. Ich habe die unten stehenden Query-Keys und ein Beispiel einer Query-URL hinzugefügt."
+
+#: register-plus-redux.php:896
+#, php-format
+#@ register-plus-redux
+msgid "For any custom fields, use your custom field label with the text all lowercase, using underscores instead of spaces. For example if your custom field was \"Middle Name\" your query key would be %middle_name%"
+msgstr "Für alle benutzerdefinierten Felder gilt: Nutze kleingeschriebene Namen und benutze Unterstriche anstatt Leerzeichen. Beispiel: Wenn dein benutzerdefiniertes Feld \"Weiterer Name\" ist, dann wäre dein Abfrageschlüssel %weiterer_name%"
+
+#: register-plus-redux.php:897
+#@ register-plus-redux
+msgid "Example Query URL"
+msgstr "Query URL Beispiel"
+
+#: register-plus-redux.php:899
+#@ register-plus-redux
+msgid "New User Message Settings"
+msgstr "Einstellungen der Nachrichten für neue Benutzer"
+
+#: register-plus-redux.php:902
+#@ register-plus-redux
+msgid "New User Message"
+msgstr "Nachricht für neue Benutzer"
+
+#: register-plus-redux.php:904
+#@ register-plus-redux
+msgid "Do NOT send user an email after they are registered"
+msgstr "Sende Benutzern KEINE E-Mail nach der Registrierung"
+
+#: register-plus-redux.php:905
+#@ register-plus-redux
+msgid "Do NOT send user an email when created by an administrator"
+msgstr "Sende Benutzern KEINE E-Mail, wenn ihr Account durch den Administrator erzeugt wurde"
+
+#: register-plus-redux.php:909
+#@ register-plus-redux
+msgid "Custom New User Message"
+msgstr "Benutzerdefinierte Nachricht für neue Benutzer "
+
+#: register-plus-redux.php:911
+#: register-plus-redux.php:949
+#: register-plus-redux.php:996
+#@ register-plus-redux
+msgid "Enable..."
+msgstr "Einschalten..."
+
+#: register-plus-redux.php:915
+#: register-plus-redux.php:953
+#: register-plus-redux.php:1000
+#@ register-plus-redux
+msgid "From Email"
+msgstr "Absender E-Mail"
+
+#: register-plus-redux.php:916
+#: register-plus-redux.php:920
+#: register-plus-redux.php:924
+#: register-plus-redux.php:929
+#: register-plus-redux.php:954
+#: register-plus-redux.php:958
+#: register-plus-redux.php:962
+#: register-plus-redux.php:967
+#: register-plus-redux.php:1001
+#: register-plus-redux.php:1005
+#: register-plus-redux.php:1009
+#: register-plus-redux.php:1014
+#@ register-plus-redux
+msgid "Restore Default"
+msgstr "Standardeinstellungen wiederherstellen"
+
+#: register-plus-redux.php:919
+#: register-plus-redux.php:957
+#: register-plus-redux.php:1004
+#@ register-plus-redux
+msgid "From Name"
+msgstr "Absender Name"
+
+#: register-plus-redux.php:923
+#: register-plus-redux.php:961
+#: register-plus-redux.php:1008
+#@ register-plus-redux
+msgid "Subject"
+msgstr "Betreff"
+
+#: register-plus-redux.php:928
+#: register-plus-redux.php:966
+#@ register-plus-redux
+msgid "User Message"
+msgstr "Benutzernachricht"
+
+#: register-plus-redux.php:930
+#: register-plus-redux.php:968
+#: register-plus-redux.php:1015
+#@ register-plus-redux
+msgid "Replacement Keywords"
+msgstr "Ersatz-Keywords"
+
+#: register-plus-redux.php:931
+#: register-plus-redux.php:969
+#: register-plus-redux.php:1016
+#@ register-plus-redux
+msgid "Send as HTML"
+msgstr "Als HTML senden"
+
+#: register-plus-redux.php:932
+#: register-plus-redux.php:970
+#: register-plus-redux.php:1017
+#@ register-plus-redux
+msgid "Convert new lines to &lt;br /&gt; tags (HTML only)"
+msgstr "Konvertiere neue Zeilen zu &lt;br /&gt; tags (nur in HTML)"
+
+#: register-plus-redux.php:936
+#@ register-plus-redux
+msgid "Login URL"
+msgstr "Login URL"
+
+#: register-plus-redux.php:939
+#@ register-plus-redux
+msgid "This will redirect the users login after registration."
+msgstr "Dies wird die Benutzer nach der Registrierung umleiten."
+
+#: register-plus-redux.php:947
+#@ register-plus-redux
+msgid "Custom Verification Message"
+msgstr "Benutzerdefinierte Verifikationsnachricht"
+
+#: register-plus-redux.php:978
+#: register-plus-redux.php:1025
+#@ register-plus-redux
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: register-plus-redux.php:984
+#@ register-plus-redux
+msgid "Admin Notification Settings"
+msgstr "Admin Benachrichtigungs-Einstellungen"
+
+#: register-plus-redux.php:987
+#@ register-plus-redux
+msgid "Admin Notification"
+msgstr "Admin Benachrichtigung"
+
+#: register-plus-redux.php:989
+#@ register-plus-redux
+msgid "Do NOT send administrator an email whenever a new user registers"
+msgstr "Sende dem Administrator KEINE E-Mail, wenn sich ein neuer Benutzer registriert"
+
+#: register-plus-redux.php:990
+#@ register-plus-redux
+msgid "Do NOT send administrator an email whenever a new user is created by an administrator"
+msgstr "Sende dem Administrator KEINE E-Mail, wenn ein neuer Benutzer durch den Administrator erstellt wurde"
+
+#: register-plus-redux.php:994
+#@ register-plus-redux
+msgid "Custom Admin Notification"
+msgstr "Benutzerdefinierte Admin-Meldung"
+
+#: register-plus-redux.php:1013
+#@ register-plus-redux
+msgid "Admin Message"
+msgstr "Admin Nachricht"
+
+#: register-plus-redux.php:1032
+#@ register-plus-redux
+msgid "Custom CSS for Register & Login Pages"
+msgstr "Benutzerdefiniertes CSS für Registrierungs- und Login-Seiten"
+
+#: register-plus-redux.php:1033
+#@ register-plus-redux
+msgid "CSS Rule Example:"
+msgstr "Beispiel CSS-Regel:"
+
+#: register-plus-redux.php:1036
+#@ register-plus-redux
+msgid "Custom Register CSS"
+msgstr "Benutzerdefiniertes Registrierungs-CSS"
+
+#: register-plus-redux.php:1040
+#@ register-plus-redux
+msgid "Custom Login CSS"
+msgstr "Benutzerdefiniertes Login-CSS"
+
+#: register-plus-redux.php:1045
+#@ register-plus-redux
+msgid "Hacks & Fixes"
+msgstr "Hacks & Fixes"
+
+#: register-plus-redux.php:1048
+#@ register-plus-redux
+msgid "Non-English Custom Fields"
+msgstr "Nicht-Englische benutzerdefinierte Felder"
+
+#: register-plus-redux.php:1050
+#@ register-plus-redux
+msgid "Do not sanitize keys."
+msgstr "Schlüssel nicht bereinigen (do not sanitize keys)"
+
+#: register-plus-redux.php:1051
+#@ register-plus-redux
+msgid "Custom fields with non-english characters may not work, this hack will stop sanitizing the custom field name which may resolve this issue."
+msgstr "Benutzerdefinierte Felder mit nicht-englischen Wörtern funktionieren manchmal nicht. Dieser Hack stoppt das Bereinigen des Namens der benutzerdefinierten Felder, was eventuell das Problem löst."
+
+#: register-plus-redux.php:1055
+#@ register-plus-redux
+msgid "URL File Access is Disabled"
+msgstr "URL-Datei-Zugriff ist ausgeschaltet"
+
+#: register-plus-redux.php:1057
+#@ register-plus-redux
+msgid "Do not open URL files."
+msgstr "Keine URL-Dateien öffnen."
+
+#: register-plus-redux.php:1058
+#@ register-plus-redux
+msgid "Some PHP configurations do not allow accessing URL objects like files (allow_url_fopen=disabled in php.ini), this hack will stop trying to open URL files as if they were local files. Custom logo must be exactly 326x67 with this hack enabled, otherwise it will be cropped."
+msgstr "Einige PHP-Konfigurationen erlauben nicht den Zugriff auf URL-Objekte wie z.B. Dateien (allow_url_fopen=disabled in php.ini). Dieser Hack stopt die Vorgehensweise URL-Dateien wie lokale Dateien zu öffnen. Wenn dieser Hack eingeschaltet ist, muss das benutzerdefinierte Logo exakt 326x67 px groß sein. Anderenfalls wird es abgeschnitten."
+
+#: register-plus-redux.php:1063
+#@ register-plus-redux
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: register-plus-redux.php:1220
+#@ register-plus-redux
+msgid "You cannot edit that user."
+msgstr "Du kannst diesen Benutzer nicht editieren."
+
+#: register-plus-redux.php:1240
+#@ register-plus-redux
+msgid "Users approved."
+msgstr "Benutzer bestätigt."
+
+#: register-plus-redux.php:1243
+#@ register-plus-redux
+msgid "Verification emails sent."
+msgstr "Verifikations-E-Mails gesendet."
+
+#: register-plus-redux.php:1246
+#@ register-plus-redux
+msgid "Users deleted."
+msgstr "Alle Benutzer gelöscht."
+
+#: register-plus-redux.php:137
+#: register-plus-redux.php:1252
+#@ register-plus-redux
+msgid "Unverified Users"
+msgstr "Nichtverifizierte Benutzer"
+
+#: register-plus-redux.php:1257
+#@ register-plus-redux
+msgid "Bulk Actions"
+msgstr "Massenaktion"
+
+#: register-plus-redux.php:1258
+#@ register-plus-redux
+msgid "Approve"
+msgstr "Bestätigen"
+
+#: register-plus-redux.php:1259
+#@ register-plus-redux
+msgid "Send E-mail Verification"
+msgstr "Sende Nachricht zur E-Mail-Verifikation"
+
+#: register-plus-redux.php:1260
+#: register-plus-redux.php:1295
+#@ register-plus-redux
+msgid "Delete"
+msgstr "Löschen"
+
+#: register-plus-redux.php:1262
+#@ register-plus-redux
+msgid "Apply"
+msgstr "Anwenden"
+
+#: register-plus-redux.php:1272
+#@ register-plus-redux
+msgid "Username"
+msgstr "Username"
+
+#: register-plus-redux.php:1273
+#@ register-plus-redux
+msgid "Temp Username"
+msgstr "Temp Username"
+
+#: register-plus-redux.php:1274
+#@ register-plus-redux
+msgid "E-mail"
+msgstr "E-Mail"
+
+#: register-plus-redux.php:1275
+#@ register-plus-redux
+msgid "Registered"
+msgstr "Registriert"
+
+#: register-plus-redux.php:1276
+#@ register-plus-redux
+msgid "Verification Sent"
+msgstr "Verifikationsnachricht gesendet"
+
+#: register-plus-redux.php:1277
+#@ register-plus-redux
+msgid "Verified"
+msgstr "Verifiziert"
+
+#: register-plus-redux.php:1294
+#@ register-plus-redux
+msgid "Edit"
+msgstr "Editieren"
+
+#: register-plus-redux.php:1299
+#@ register-plus-redux
+msgid "E-mail: "
+msgstr "E-Mail: "
+
+#: register-plus-redux.php:1310
+#@ register-plus-redux
+msgid "Approve Selected Users"
+msgstr "Ausgewählte Benutzer freischalten"
+
+#: register-plus-redux.php:1311
+#@ register-plus-redux
+msgid "Send E-mail Verification to Selected Users"
+msgstr "Sende E-Mail zur Verifikation an die ausgewählten Benutzer"
+
+#: register-plus-redux.php:1312
+#@ register-plus-redux
+msgid "Delete Selected Users"
+msgstr "Ausgewählte Benutzer löschen"
+
+#: register-plus-redux.php:1587
+#@ register-plus-redux
+msgid "Confirm E-mail"
+msgstr "E-Mail-Bestätigung"
+
+#: register-plus-redux.php:1646
+#@ register-plus-redux
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr "Erzähle ein wenig über dich, um dein Profil zu vervollständigen. Diese Informationen können öffentlich angezeigt werden."
+
+#: register-plus-redux.php:1741
+#@ register-plus-redux
+msgid "Password"
+msgstr "Passwort"
+
+#: register-plus-redux.php:1746
+#@ register-plus-redux
+msgid "Confirm Password"
+msgstr "Passwort-Bestätigung"
+
+#: register-plus-redux.php:1751
+#, php-format
+#@ register-plus-redux
+msgid "Your password must be at least %d characters long. To make your password stronger, use upper and lower case letters, numbers, and the following symbols !@#$%%^&amp;*()"
+msgstr "Dein Passwort muss mindestens %d Zeichen lang sein. Um ein starkes Passwort zu erhalten, solltest du Groß- und Kleinschreibung, Zahlen sowie die Symbole !@#$%%^&amp;*() benutzen."
+
+#: register-plus-redux.php:1762
+#@ register-plus-redux
+msgid "This website is currently closed to public registrations. You will need an invitation code to register."
+msgstr "Diese Webseite ist momentan für die öffentliche Registrierung geschlossen. Du brauchst einen Einladungscode, um dich zu registrieren."
+
+#: register-plus-redux.php:1764
+#@ register-plus-redux
+msgid "Have an invitation code? Enter it here. (This is not required)"
+msgstr "Du hast einen Einladungscode? Gib ihn hier ein. (Kein Pflichtfeld)"
+
+#: register-plus-redux.php:1817
+#: register-plus-redux.php:1926
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr "<strong>Fehler:</strong> Dieser Benutzername ist bereits vergeben. Bitte wähle einen anderen."
+
+#: register-plus-redux.php:1822
+#: register-plus-redux.php:1931
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please confirm your e-mail address."
+msgstr "<strong>Fehler:</strong> Bitte bestätige deine E-Mail-Adresse."
+
+#: register-plus-redux.php:1824
+#: register-plus-redux.php:1933
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Your e-mail address does not match."
+msgstr "<strong>Fehler:</strong> Die eingegebenen E-Mail-Adressen stimmen nicht überein."
+
+#: register-plus-redux.php:1831
+#: register-plus-redux.php:1940
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please enter your first name."
+msgstr "<strong>Fehler:</strong> Bitte gebe deinen Vornamen ein."
+
+#: register-plus-redux.php:1836
+#: register-plus-redux.php:1945
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please enter your last name."
+msgstr "<strong>Fehler:</strong> Bitte gebe deinen Nachnamen ein."
+
+#: register-plus-redux.php:1841
+#: register-plus-redux.php:1950
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please enter your website URL."
+msgstr "<strong>Fehler:</strong> Bitte gebe die URL deiner Webseite ein."
+
+#: register-plus-redux.php:1846
+#: register-plus-redux.php:1955
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please enter your AIM username."
+msgstr "<strong>Fehler:</strong> Bitte gebe deinen AIM Benutzernamen ein."
+
+#: register-plus-redux.php:1851
+#: register-plus-redux.php:1960
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please enter your Yahoo IM username."
+msgstr "<strong>Fehler:</strong> Bitte gebe deinen Yahoo IM Benutzernamen ein."
+
+#: register-plus-redux.php:1856
+#: register-plus-redux.php:1965
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please enter your Jabber / Google Talk username."
+msgstr "<strong>Fehler:</strong> Bitte gebe deinen Jabber / Google Talk Benutzername ein."
+
+#: register-plus-redux.php:1861
+#: register-plus-redux.php:1970
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please enter some information about yourself."
+msgstr "<strong>Fehler:</strong> Bitte gebe ein paar Informationen über Dich ein."
+
+#: register-plus-redux.php:1869
+#: register-plus-redux.php:1978
+#, php-format
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please complete %s."
+msgstr "<strong>Fehler:</strong> Bitte vervollständige %s."
+
+#: register-plus-redux.php:1877
+#: register-plus-redux.php:1986
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>Fehler:</strong> Bitte gebe ein Passwort ein."
+
+#: register-plus-redux.php:1879
+#: register-plus-redux.php:1988
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Your password does not match."
+msgstr "<strong>Fehler:</strong> Die Passworteingaben stimmen nicht überein."
+
+#: register-plus-redux.php:1881
+#: register-plus-redux.php:1990
+#, php-format
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Your password must be at least %d characters in length."
+msgstr "<strong>Fehler:</strong> Dein Passwort muss mindestens %d Zeichen lang sein."
+
+#: register-plus-redux.php:1888
+#: register-plus-redux.php:1997
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please enter an invitation code."
+msgstr "<strong>Fehler:</strong> Bitte gebe den Einladungscode ein."
+
+#: register-plus-redux.php:1899
+#: register-plus-redux.php:2008
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: That invitation code is invalid."
+msgstr "<strong>Fehler:</strong> Dieser Einladungscode ist nicht gültig."
+
+#: register-plus-redux.php:1905
+#: register-plus-redux.php:1910
+#: register-plus-redux.php:1915
+#: register-plus-redux.php:2014
+#: register-plus-redux.php:2019
+#: register-plus-redux.php:2024
+#, php-format
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please accept the %s"
+msgstr "<strong>Fehler:</strong> Bitte akzeptiere die %s"
+
+#: register-plus-redux.php:2214
+#: register-plus-redux.php:2477
+#@ register-plus-redux
+msgid "Your account will be reviewed by an administrator and you will be notified when it is activated."
+msgstr "Dein Account wird vom Administrator überprüft. Du wirst benachrichtigt, wenn dein Account aktiviert wurde."
+
+#: register-plus-redux.php:2065
+#@ register-plus-redux
+msgid "Additional Information"
+msgstr "Weitere Informationen"
+
+#: register-plus-redux.php:2212
+#@ register-plus-redux
+msgid "Please verify your account using the verification link sent to your email address."
+msgstr "Bitte bestätige deine Registrierung, indem du den Überprüfungs-Link, der an deine E-Mail-Adresse geschickt wurde, anklickst."
+
+#: register-plus-redux.php:2266
+#@ register-plus-redux
+msgid "Your Login Information"
+msgstr "Deine Login-Informationen"
+
+#: register-plus-redux.php:2274
+#@ register-plus-redux
+msgid "Verify Your Account"
+msgstr "Bestätige deine Registrierung"
+
+#: register-plus-redux.php:2284
+#@ register-plus-redux
+msgid "New User Registered"
+msgstr "Neuer Benutzer registriert"
+
+#: register-plus-redux.php:2508
+#@ register-plus-redux
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: register-plus-redux.php:2562
+#, php-format
+#@ register-plus-redux
+msgid "Register Plus Redux requires WordPress 3.0 or greater. You are currently using WordPress %s, please upgrade or deactivate Register Plus Redux."
+msgstr "Register Plus Redux benötigt WordPress 3.0 oder neuer. Du benutzt momentan WordPress %s. Bitte aktualisiere Wordpress oder deaktiviere Register Plus Redux."
+
+#: register-plus-redux.php:195
+#: register-plus-redux.php:804
+#: register-plus-redux.php:832
+#@ register-plus-redux
+msgid "Static Text"
+msgstr "Feststehender Text"
+
+#: register-plus-redux.php:211
+#: register-plus-redux.php:808
+#: register-plus-redux.php:836
+#@ register-plus-redux
+msgid "No help available"
+msgstr "Keine Hilfe verfügbar"
+
+#: register-plus-redux.php:317
+#@ register-plus-redux
+msgid "the user has verified their email address"
+msgstr "Der Benutzer hat seine E-Mail-Adresse verifiziert"
+
+#: register-plus-redux.php:524
+#@ register-plus-redux
+msgid "Registration Redirect"
+msgstr "Umleitung bei Registrierung"
+
+#: register-plus-redux.php:527
+#, php-format
+#@ register-plus-redux
+msgid "By default, after registering, users will be sent to %s/wp-login.php?checkemail=registered, leave this value empty if you do not wish to change this behavior. You may enter another address here, however, if that address is not on the same domain, Wordpress will ignore the redirect."
+msgstr "Standardmäßig werden neue Benutzer nach ihrer Registrierung auf %s/wp-login.php?checkemail=registered geleitet. Lasse dieses Feld leer, wenn du daran nichts ändern möchtest. Du kannst stattdessen auch eine andere Adresse eingeben. Wordpress wird diese Umleitung aber ignorieren, wenn die Adresse nicht in derselben Domain liegt."
+
+#: register-plus-redux.php:531
+#@ register-plus-redux
+msgid "Verification Redirect"
+msgstr "Umleitung bei Verifizierung"
+
+#: register-plus-redux.php:534
+#, php-format
+#@ register-plus-redux
+msgid "By default, after verifing, users will be sent to %s/wp-login.php, leave this value empty if you do not wish to change this behavior. You may enter another address here, however, if that addresses is not on the same domain, Wordpress will ignore the redirect."
+msgstr "Standardmäßig werden neue Benutzer nach ihrer Verifikation auf %s/wp-login.php geleitet. Lasse dieses Feld leer, wenn du daran nichts ändern möchtest. Du kannst stattdessen auch eine andere Adresse eingeben. Wordpress wird diese Umleitung aber ignorieren, wenn die Adresse nicht in derselben Domain liegt."
+
+#: register-plus-redux.php:542
+#@ register-plus-redux
+msgid "Use Email as Username"
+msgstr "Benutze die E-Mail-Adresse als Benutzername"
+
+#: register-plus-redux.php:543
+#@ register-plus-redux
+msgid "New users will not be asked to enter a username, instead their email address will be used as their username."
+msgstr "Neue Benutzer werden nicht nach ihrem Benutzernamen gefragt. Stattdessen wird ihre E-Mail-Adresse als Benutzername verwendet."
+
+#: register-plus-redux.php:770
+#@ register-plus-redux
+msgid "The first field added will have this tabindex, the tabindex will increment by 1 for each additional field. Enter 0 to remove all tabindex's."
+msgstr "Das erste Feld wird dieses Tabindex haben. Für jedes weitere Feld wird der Tabindex um 1 erhöht. Gib 0 ein, um alle Tabindexes zu entfernen."
+
+#: register-plus-redux.php:775
+#@ register-plus-redux
+msgid "Enter additional fields to show on the User Profile and/or Registration Pages. Additional fields will be shown after existing profile fields on User Profile, and after selected profile fields on Registration Page but before Password, Invitation Code, Disclaimer, License Agreement, or Privacy Policy (if any of those fields are enabled). Options must be entered for Select, Checkbox, and Radio fields. Options should be entered with commas separating each possible value. For example, a Radio field named \"Gender\" could have the following options, \"Male,Female\"."
+msgstr "Erstelle zusätzliche Felder, die im Benutzerprofil und/oder auf den Registrierungsseiten erscheinen sollen. Diese Felder werden im Benutzerprofil unterhalb der vorhandenen Felder angezeigt, und unterhalb ausgewählter Felder auf der Registrierungsseite, jedoch dort vor Passworteingabe, Einladungscode, Disclaimer, Nutzungsbedingungen und/oder Datenschutzerklärung (sofern das jeweilige Feld aktiviert ist). Optionen müssen eingegeben werden für die Feldtypen Select, Checkbox und Radio. Optionen müssen durch Kommata getrennt werden, zum Beispiel für eine Radioauswahl namens \\\"Geschlecht\\\" mit den Optionen \"Männlich,Weiblich\"."
+
+#: register-plus-redux.php:1064
+#@ register-plus-redux
+msgid "Preview Registration Page"
+msgstr "Vorschau der Registrierungsseite"
+
+#: register-plus-redux.php:1811
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Email address is not appropriate as a username, please enter another email address."
+msgstr "<strong>Fehler</strong>: Die E-Mail-Adresse ist als Benutzername nicht zugelassen. Bitte gib eine andere E-Mail-Adresse ein."
+
+#: register-plus-redux.php:1872
+#: register-plus-redux.php:1981
+#, php-format
+#@ register-plus-redux
+msgid "<strong>ERROR</strong>: Please enter new value for %s, value specified is not in the correct format."
+msgstr "<strong>Fehler</strong>: Bitte gibt einen neuen Wert für %s ein, der angegebene Wert hat nicht das korrekte Format."
+
+#: register-plus-redux.php:2444
+#@ default
+msgid "Invalid verification code."
+msgstr ""
+
+#: register-plus-redux.php:2472
+#, php-format
+#@ register-plus-redux
+msgid "Thank you %s, your account has been verified, your password will be emailed to you."
+msgstr "Danke %s, dein Account wurde bestätigt und dein Passwort wird dir zugesandt."
+
+#: register-plus-redux.php:2474
+#, php-format
+#@ register-plus-redux
+msgid "Thank you %s, your account has been verified, please login with the password you specified during registration."
+msgstr "Danke %s, dein Account wurde bestätigt. Bitte melde dich mit dem Passwort an, das du im Rahmen der Registrierung angegeben hast."
+
+#: register-plus-redux.php:2557
+#@ register-plus-redux
+msgid "There is another active plugin that is conflicting with Register Plus Redux. The conflicting plugin is creating its own wp_new_user_notification function, this function is used to alter the messages sent out following the creation of a new user. Please refer to <a href=\"http://radiok.info/blog/wp_new_user_notification-conflicts/\">http://radiok.info/blog/wp_new_user_notification-conflicts/</a> for help resolving this issue."
+msgstr "Ein anderes aktives Plugin erzeugt einen Konflikt mit Register Plus Redux. Dieses andere Plugin erzeugt seine eigene wp_new_user_notification Funktion. Diese Funktion wird jedoch benötigt, um die Nachrichten an neue Nutzer nach ihrer Registrierung zu verändern. Bitte wende dich an <a href=\"http://radiok.info/blog/wp_new_user_notification-conflicts/\">http://radiok.info/blog/wp_new_user_notification-conflicts/</a>, um Hilfe für dieses Problem zu erhalten."
+

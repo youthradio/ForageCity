@@ -1,0 +1,1002 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: register plus redux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-29 20:36+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: wp-fa.com <amin3d@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../dash_widget.php:11
+msgid "Invitation Code Tracking"
+msgstr "پیکیری کد دعوت"
+
+#: ../register-plus-redux.php:144
+#: ../register-plus-redux.php:145
+#: ../register-plus-redux.php:609
+msgid "Remove Code"
+msgstr "حذف کد"
+
+#: ../register-plus-redux.php:171
+#: ../register-plus-redux.php:753
+#: ../register-plus-redux.php:779
+msgid "Text Field"
+msgstr "فیلد متنی"
+
+#: ../register-plus-redux.php:172
+#: ../register-plus-redux.php:754
+#: ../register-plus-redux.php:780
+msgid "Select Field"
+msgstr "فیلذ انتخابی"
+
+#: ../register-plus-redux.php:173
+#: ../register-plus-redux.php:755
+#: ../register-plus-redux.php:781
+msgid "Checkbox Fields"
+msgstr "فیلد های checkbox"
+
+#: ../register-plus-redux.php:174
+#: ../register-plus-redux.php:756
+#: ../register-plus-redux.php:782
+msgid "Radio Fields"
+msgstr "فیلد رادیویی"
+
+#: ../register-plus-redux.php:175
+#: ../register-plus-redux.php:757
+#: ../register-plus-redux.php:783
+msgid "Text Area"
+msgstr "محبط متنی"
+
+#: ../register-plus-redux.php:176
+#: ../register-plus-redux.php:758
+#: ../register-plus-redux.php:784
+msgid "Date Field"
+msgstr "فیلد تاریخ"
+
+#: ../register-plus-redux.php:177
+#: ../register-plus-redux.php:759
+#: ../register-plus-redux.php:785
+msgid "URL Field"
+msgstr "فیلد آدرس"
+
+#: ../register-plus-redux.php:178
+#: ../register-plus-redux.php:760
+#: ../register-plus-redux.php:786
+msgid "Hidden Field"
+msgstr "فیلد مخفی"
+
+#: ../register-plus-redux.php:224
+#: ../register-plus-redux.php:225
+#: ../register-plus-redux.php:768
+#: ../register-plus-redux.php:794
+msgid "Remove Field"
+msgstr "حذف فیلد"
+
+#: ../register-plus-redux.php:232
+#: ../register-plus-redux.php:233
+#: ../register-plus-redux.php:769
+#: ../register-plus-redux.php:795
+msgid "Move this Field Up"
+msgstr "بردن این فیلد به بالا"
+
+#: ../register-plus-redux.php:240
+#: ../register-plus-redux.php:241
+#: ../register-plus-redux.php:770
+#: ../register-plus-redux.php:796
+msgid "Move this Field Down"
+msgstr "بردن این فیلد به پائین"
+
+#: ../register-plus-redux.php:260
+msgid "The following message will be sent when a user is registered:"
+msgstr "پیام ذیل هنگامی که کاربر ثبت نام کند ارسال خواهد شد"
+
+#: ../register-plus-redux.php:283
+msgid "No message will be sent to user whether they are registered or created by an administrator."
+msgstr "هیچ پیامی برای کاربر ارسال نخواهد شد حتی اگر کاربر ثبت نام کند و یا توسط مدیریت ایجاد شود"
+
+#: ../register-plus-redux.php:286
+#: ../register-plus-redux.php:328
+msgid "The following message will be sent when a user is "
+msgstr "پیام ذیل ارسال خواهد شد هنگامی که کاربر هست"
+
+#: ../register-plus-redux.php:287
+#: ../register-plus-redux.php:329
+msgid "registered"
+msgstr "ثبت نام کرده است"
+
+#: ../register-plus-redux.php:288
+#: ../register-plus-redux.php:330
+msgid " or "
+msgstr "یا"
+
+#: ../register-plus-redux.php:289
+#: ../register-plus-redux.php:331
+msgid "created"
+msgstr "ساخته شده است"
+
+#: ../register-plus-redux.php:290
+msgid " after "
+msgstr "پس از"
+
+#: ../register-plus-redux.php:293
+msgid " and/or "
+msgstr "و / یا"
+
+#: ../register-plus-redux.php:295
+msgid "an administrator has approved the new user"
+msgstr "مدیر کاربر جدید را تائید نموده است"
+
+#: ../register-plus-redux.php:309
+#: ../register-plus-redux.php:345
+msgid "To: "
+msgstr "به"
+
+#: ../register-plus-redux.php:310
+#: ../register-plus-redux.php:346
+msgid "From: "
+msgstr "از طرف"
+
+#: ../register-plus-redux.php:311
+#: ../register-plus-redux.php:347
+msgid "Subject: "
+msgstr "عنوان"
+
+#: ../register-plus-redux.php:312
+#: ../register-plus-redux.php:348
+msgid "Content-Type: "
+msgstr "نوع محتوا"
+
+#: ../register-plus-redux.php:325
+msgid "No message will be sent to administrator whether a user is registered or created."
+msgstr "هیچ پیامی برای مدیریت ارسال نخواهد شد خواه کاربر ثبت نام کند و یا ایجاد شود"
+
+#: ../register-plus-redux.php:445
+msgid "Settings Saved"
+msgstr "تنظیمات ذخیره شدند"
+
+#: ../register-plus-redux.php:449
+msgid "Register Plus Redux Settings"
+msgstr "تنظیمات رجیستر پلاس"
+
+#: ../register-plus-redux.php:455
+msgid "Custom Logo URL"
+msgstr "مسیر لوگو دلخواه"
+
+#: ../register-plus-redux.php:458
+msgid "Upload a new logo:"
+msgstr "بارگذاری یک لوگو جدید"
+
+#: ../register-plus-redux.php:459
+msgid "You must Save Changes to upload logo."
+msgstr "برای بارگذاری تصویر شما می بایست تنظیمات را ذخیره نمائید"
+
+#: ../register-plus-redux.php:460
+msgid "Custom Logo will be shown on Registration and Login Forms in place of the default Wordpress logo. For the best results custom logo should not exceed 350px width."
+msgstr "لوگو شخصی سازی در فرم  ثبت نام و ورود  به جای لولگو پیش فرض نمایش داده می شود . برای نتیجه بهتر عرض لوگو شما نباید از 350 پیکسل تجاوز کند"
+
+#: ../register-plus-redux.php:465
+msgid "Remove Logo"
+msgstr "حذف لوگو"
+
+#: ../register-plus-redux.php:466
+msgid "You must Save Changes to remove logo."
+msgstr "برای حذف لوگو شما می بایست تنظیمات را ذخیره نمائید"
+
+#: ../register-plus-redux.php:471
+msgid "Email Verification"
+msgstr "تائید رایانامه"
+
+#: ../register-plus-redux.php:473
+msgid "Verify all new users email address..."
+msgstr "تائید همه رایانامه های کاربران جدید......"
+
+#: ../register-plus-redux.php:474
+msgid "A verification code will be sent to any new users email address, new users will not be able to login or reset their password until they have completed the verification process. Administrators may authorize new users from the Unverified Users Page at their own discretion."
+msgstr "کد تائیدیه برای رایانامه هر کاربر جدید ارسال خواهد شد. کاربر جدید تا کامل نکردن عملیات تائید این اجازه را نخواهد داشت تا وارد سیستم شود و یا پسورد خود را ریست نماید."
+
+#: ../register-plus-redux.php:476
+msgid "The following message will be shown to users after registering. You may include HTML in this message."
+msgstr "پیغام آورده شده پس از ثبت نام به کاربر نمایش داده خواهد شد. شما می توانید در پیام از قالب html نیز بهره ببرید."
+
+#: ../register-plus-redux.php:482
+msgid "Admin Verification"
+msgstr "تائید مدیر"
+
+#: ../register-plus-redux.php:484
+msgid "Moderate all new user registrations..."
+msgstr "اداره کردن تمامی کاربران ثبت نامی"
+
+#: ../register-plus-redux.php:485
+msgid "New users will not be able to login or reset their password until they have been authorized by an administrator from the Unverified Users Page. If both verification options are enabled, users will not be able to login until an administrator authorizes them, regardless of whether they complete the email verification process."
+msgstr "کاربر جدید امکان ریست کردن کلمه عبور خود را و یا ورود به سایت تا هنگام اجازه مدیر برای تائید کاربر در صفحه کاربران تائید نشده نخواهد داشت. اگر هر دو اختیار مربوط به تائید فعال باشد صرفنظر از آنکه آیا کاربر عملیات تائید را انجام داده است یا خیر اجازه ورود نحواهد داشت و این منوظ به اجازه دادن مدیر است."
+
+#: ../register-plus-redux.php:487
+msgid "The following message will be shown to users after registering (or verifying their email if both verification options are enabled). You may include HTML in this message."
+msgstr "پیغام آورده شده پس از ثبت نام به کاربر نمایش داده خواهد شد و یا اگر در زمانی که دو اختیار مربوط به تائید انتخاب شده باشد. شما می توانید در پیام از قالب html نیز بهره ببرید."
+
+#: ../register-plus-redux.php:493
+msgid "Grace Period"
+msgstr " دوره مهلت"
+
+#: ../register-plus-redux.php:495
+msgid "days"
+msgstr "روز"
+
+#: ../register-plus-redux.php:496
+msgid "All unverified users will automatically be deleted after the Grace Period specified, to disable this process enter 0 to never automatically delete unverified users."
+msgstr "تمامی کاربران مورد تائید قرار نگرفته بطور خودکار و پس از روزهای تعیین شده در دوره مهلت پاک خواهند شدو برای جلوگیری از این موضوع و عدم مقدار صفر را وارد نمائید"
+
+#: ../register-plus-redux.php:500
+msgid "Registration Page"
+msgstr "صفحه ثبت نام"
+
+#: ../register-plus-redux.php:501
+msgid "Select which fields to show on the Registration Page. Users will not be able to register without completing any fields marked required."
+msgstr "در این بخش تعیین کنید که چه فیلدهایی در صفحه ثبت نام به نمایش درآیند. کاربران نمی توانند ثبت نام خود را کامل کنند مگر این که تمامی فیلدهایی که الزامی است را پرنمایند"
+
+#: ../register-plus-redux.php:504
+msgid "Confirm Email"
+msgstr "تصدیق رایانامه"
+
+#: ../register-plus-redux.php:505
+msgid "Require new users to enter e-mail address twice during registration."
+msgstr "در هنگام عملیات ثبت نام کاربر ملزم می شود تا دوبار رایانامه خود را وارد کند"
+
+#: ../register-plus-redux.php:508
+msgid "Profile Fields"
+msgstr "فیلدهای شناسه"
+
+#: ../register-plus-redux.php:520
+#: ../register-plus-redux.php:1523
+msgid "First Name"
+msgstr "نام"
+
+#: ../register-plus-redux.php:525
+#: ../register-plus-redux.php:1532
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: ../register-plus-redux.php:530
+#: ../register-plus-redux.php:1541
+msgid "Website"
+msgstr "وب سایت"
+
+#: ../register-plus-redux.php:535
+#: ../register-plus-redux.php:1550
+msgid "AIM"
+msgstr "کاربری AIM"
+
+#: ../register-plus-redux.php:540
+#: ../register-plus-redux.php:1559
+msgid "Yahoo IM"
+msgstr "کاربری یاهو"
+
+#: ../register-plus-redux.php:545
+#: ../register-plus-redux.php:1568
+msgid "Jabber / Google Talk"
+msgstr "Jabber / Google Talk"
+
+#: ../register-plus-redux.php:550
+#: ../register-plus-redux.php:1577
+msgid "About Yourself"
+msgstr "در مورد خودتان"
+
+#: ../register-plus-redux.php:559
+msgid "User Set Password"
+msgstr "کاربر کلمه عبور تعیین کند"
+
+#: ../register-plus-redux.php:561
+msgid "Require new users enter a password during registration..."
+msgstr "الزام می کند کاربر را تا هنگام ثبت نام یک کلمه عبور تعیین کند..."
+
+#: ../register-plus-redux.php:563
+msgid "Minimum password length: "
+msgstr "حداقل طول کلمه عبور"
+
+#: ../register-plus-redux.php:564
+msgid "Show password strength meter..."
+msgstr "نمایش سطج قدرت کلمه عبور..."
+
+#: ../register-plus-redux.php:568
+msgid "Empty"
+msgstr "خالی"
+
+#: ../register-plus-redux.php:572
+msgid "Short"
+msgstr "کوتاه"
+
+#: ../register-plus-redux.php:576
+msgid "Bad"
+msgstr "بد"
+
+#: ../register-plus-redux.php:580
+msgid "Good"
+msgstr "خوب"
+
+#: ../register-plus-redux.php:584
+msgid "Strong"
+msgstr "قوی"
+
+#: ../register-plus-redux.php:588
+msgid "Mismatch"
+msgstr "عدم تطابق"
+
+#: ../register-plus-redux.php:597
+#: ../register-plus-redux.php:1705
+#: ../register-plus-redux.php:1929
+msgid "Invitation Code"
+msgstr "کد دعوت نامه"
+
+#: ../register-plus-redux.php:599
+msgid "Use invitation codes to track or authorize new user registration..."
+msgstr "استفاده از کد دعوت نامه برای پیگیری و اجازه برای ثبت نام کاربر جدید"
+
+#: ../register-plus-redux.php:601
+msgid "Require new user enter one of the following invitation codes to register."
+msgstr "این گزینه الزام می کند کاربر را تا یکی از کدهای دعوت ارائه گردیده را در هنگام ثبت نام وارد نماید"
+
+#: ../register-plus-redux.php:602
+msgid "Enforce case-sensitivity of invitation codes."
+msgstr "مجبور می کند که کد دعوت نسبت به برزگی و یا کوچکی حروف حساس باشد"
+
+#: ../register-plus-redux.php:603
+msgid "Show Invitation Code Tracking widget on Dashboard."
+msgstr "نمایش ابزارگ پیگردی کد دعوت در داشبورد"
+
+#: ../register-plus-redux.php:612
+msgid "Add Code"
+msgstr "اضافه کرد کد"
+
+#: ../register-plus-redux.php:612
+msgid "Add a new invitation code"
+msgstr "اضافه کردین یک کد دعوت جدید"
+
+#: ../register-plus-redux.php:617
+msgid "Disclaimer"
+msgstr "رفع مسئولیت"
+
+#: ../register-plus-redux.php:619
+msgid "Show Disclaimer during registration..."
+msgstr "نمایش رفع مسئولیت هنگام ثبت نام ...."
+
+#: ../register-plus-redux.php:624
+msgid "Disclaimer Title"
+msgstr "عنوان رفع مسئولیت"
+
+#: ../register-plus-redux.php:632
+msgid "Disclaimer Content"
+msgstr "محتوای رفع مسئولیت"
+
+#: ../register-plus-redux.php:638
+#: ../register-plus-redux.php:670
+#: ../register-plus-redux.php:702
+msgid "Require Agreement"
+msgstr "توافقنامه الزامی است"
+
+#: ../register-plus-redux.php:649
+msgid "License Agreement"
+msgstr "توافقنامه"
+
+#: ../register-plus-redux.php:651
+msgid "Show License Agreement during registration..."
+msgstr "نمایش توافقنامه هنگام ثبت نام"
+
+#: ../register-plus-redux.php:656
+msgid "License Agreement Title"
+msgstr "عنوان توافقنامه"
+
+#: ../register-plus-redux.php:664
+msgid "License Agreement Content"
+msgstr "محتوای توافقنامه"
+
+#: ../register-plus-redux.php:681
+msgid "Privacy Policy"
+msgstr "حریم شخصی"
+
+#: ../register-plus-redux.php:683
+msgid "Show Privacy Policy during registration..."
+msgstr "نمایش حریم شخصی هنگام ثبت نام"
+
+#: ../register-plus-redux.php:688
+msgid "Privacy Policy Title"
+msgstr "عنوان حریم شخصی"
+
+#: ../register-plus-redux.php:696
+msgid "Privacy Policy Content"
+msgstr "محتوای حریم شخصی"
+
+#: ../register-plus-redux.php:713
+msgid "Use Default Style Rules"
+msgstr "از قواعد پیش فرض شیو نامه ها استفاده شود"
+
+#: ../register-plus-redux.php:714
+msgid "Apply default Wordpress 3.0.1 styling to all fields."
+msgstr "بکاربردن ترکیب ظاهری وردپرس نسخه 3.0.1 برای تمامی فیلدها"
+
+#: ../register-plus-redux.php:717
+msgid "Required Fields Style Rules"
+msgstr "قواعد شیوه نامه برای فیلدهای الزامی"
+
+#: ../register-plus-redux.php:721
+msgid "Required Fields Asterisk"
+msgstr "ستاره فیلدهای الزامی"
+
+#: ../register-plus-redux.php:722
+msgid "Add asterisk to left of all required field's name."
+msgstr "یک ستاره در سمت چپ نام تمامی فیلدهای الزامی اضافه می کند"
+
+#: ../register-plus-redux.php:725
+msgid "Starting Tabindex"
+msgstr "تب ایندکس آغازین"
+
+#: ../register-plus-redux.php:728
+msgid "The first field added will have this tabindex, the tabindex will incriment by 1 for each additional field. Enter 0 to remove all tabindex's."
+msgstr "اولین فلیدی که اضافه شود این تب ایندکس را خواهد داشت. تب ایندکس به ازای هر فیلدی که اضافه می کنید یکی بالا می رود. برای حذف تمامی تب ایندکس ها مقدار صفر را وارد کنید."
+
+#: ../register-plus-redux.php:732
+msgid "Additional Fields"
+msgstr "فیلدهای اضافه"
+
+#: ../register-plus-redux.php:733
+msgid "Enter additional fields to show on the User Profile and/or Registration Pages. Additional fields will be shown after existing profile fields on User Profile, and after selected profile fields on Registration Page but before Password, Invitation Code, Disclaimer, License Agreement, or Privacy Policy (if any of those fields are enabled). Options must be entered for Select, Checkbox, and Radio fields. Options should be entered with commas seperating each possible value. For example, a Radio field named \"Gender\" could have the following options, \"Male,Female\"."
+msgstr "در این بخش می توانید فیلدهای اضافه را برای نمایش در بخش شناسه و همچنین صفحه ثبت نام وارد کنید. فیلدهای اضافه پس از فلیدهای موجود در بخش شناسه نمایش داده می شود و همچنین پس از فلیدهای انتخاب شده پروفایل در صفحه ثبت نام   اما پس از کلمه عبور , کد دعوت , رفع مسئولیت , توافقنامه و یا سیاست حفظ اسرار نمایش داده خواهند شد. اختیار یا option ها می بایست برای  فیلد های Select , Checkbox و Radio وارد گردند. اختیارات می بایست با کاما از یکدیگر جدا شوند . برای مثال یک فلید Radio ای که جنسیت نامیده شده است می تواند دو اختیار مرد و زن داشت باشد که بصورت زیر باید وارد شوند <br />زن , مرد"
+
+#: ../register-plus-redux.php:736
+msgid "Name"
+msgstr "نام"
+
+#: ../register-plus-redux.php:737
+msgid "Type"
+msgstr "نوع"
+
+#: ../register-plus-redux.php:738
+msgid "Options"
+msgstr "اختیارات"
+
+#: ../register-plus-redux.php:739
+msgid "Profile"
+msgstr "شناسه"
+
+#: ../register-plus-redux.php:740
+msgid "Registration"
+msgstr "ثبت نام"
+
+#: ../register-plus-redux.php:741
+msgid "Require"
+msgstr "الزامی"
+
+#: ../register-plus-redux.php:742
+msgid "Actions"
+msgstr "عملیات"
+
+#: ../register-plus-redux.php:803
+msgid "Add Field"
+msgstr "اضافه کردن فیلد"
+
+#: ../register-plus-redux.php:803
+msgid "Add a new custom field."
+msgstr "اضافه کردن یک فیلد دلخواه"
+
+#: ../register-plus-redux.php:806
+msgid "Date Field Settings"
+msgstr "تنظیمات فیلد تاریخ"
+
+#: ../register-plus-redux.php:808
+msgid "First Day of the Week"
+msgstr "اولین روز هفته"
+
+#: ../register-plus-redux.php:810
+msgid "Monday"
+msgstr "دوشنبه"
+
+#: ../register-plus-redux.php:811
+msgid "Tuesday"
+msgstr "سه شنبه"
+
+#: ../register-plus-redux.php:812
+msgid "Wednesday"
+msgstr "چهارشنبه"
+
+#: ../register-plus-redux.php:813
+msgid "Thursday"
+msgstr "پنچ شنبه"
+
+#: ../register-plus-redux.php:814
+msgid "Friday"
+msgstr "جمعه"
+
+#: ../register-plus-redux.php:815
+msgid "Saturday"
+msgstr "شنبه"
+
+#: ../register-plus-redux.php:816
+msgid "Sunday"
+msgstr "یکشنبه"
+
+#: ../register-plus-redux.php:818
+msgid "Date Format"
+msgstr "قالب زمان"
+
+#: ../register-plus-redux.php:819
+msgid "First Selectable Date"
+msgstr "اول تاریخ قابل انتخاب"
+
+#: ../register-plus-redux.php:820
+msgid "Default Year"
+msgstr "سال پیش فرض"
+
+#: ../register-plus-redux.php:821
+msgid "Default Month"
+msgstr "ماه پیش فرض"
+
+#: ../register-plus-redux.php:823
+msgid "Current Month"
+msgstr "ما جاری"
+
+#: ../register-plus-redux.php:824
+msgid "Jan"
+msgstr "دی"
+
+#: ../register-plus-redux.php:825
+msgid "Feb"
+msgstr "بهمن"
+
+#: ../register-plus-redux.php:826
+msgid "Mar"
+msgstr "اسفند"
+
+#: ../register-plus-redux.php:827
+msgid "Apr"
+msgstr "فروردین"
+
+#: ../register-plus-redux.php:828
+msgid "May"
+msgstr "اردیبهشت"
+
+#: ../register-plus-redux.php:829
+msgid "Jun"
+msgstr "خرداد"
+
+#: ../register-plus-redux.php:830
+msgid "Jul"
+msgstr "تیر"
+
+#: ../register-plus-redux.php:831
+msgid "Aug"
+msgstr "مرداد"
+
+#: ../register-plus-redux.php:832
+msgid "Sep"
+msgstr "شهریور"
+
+#: ../register-plus-redux.php:833
+msgid "Oct"
+msgstr "مهر"
+
+#: ../register-plus-redux.php:834
+msgid "Nov"
+msgstr "آبان"
+
+#: ../register-plus-redux.php:835
+msgid "Dec"
+msgstr "آذر"
+
+#: ../register-plus-redux.php:840
+msgid "Auto-Complete Queries"
+msgstr "پرسه جو های خودکار"
+
+#: ../register-plus-redux.php:841
+msgid "You can now link to the registration page with queries to autocomplete specific fields for the user. I have included the query keys below and an example of a query URL."
+msgstr "شما می توانید با استفاده از یک پرسه جو که به صفحه ثبت نام پیوند داده می شود یک فیلد خاص را برای کاربر بطور خودکار پر کنید. کلیدهای پرسه جو به همراه مثالی برای شما آورده شده است"
+
+#: ../register-plus-redux.php:849
+msgid "For any custom fields, use your custom field label with the text all lowercase, using underscores instead of spaces. For example if your custom field was \"Middle Name\" your query key would be %middle_name%"
+msgstr "برای هر فیلد دلخواه , شما می توانید نام برچسب آن را به همه متنی که تمامی حروف آن بصورت کوچک وراد شده است و فاصله هایی که بجای آن زیر خط وارد می شود بهره ببرید. بطور مثال اگر فیلدی با نام\"Middle Name\" دارید , کلید پرسه جوی شما "
+
+#: ../register-plus-redux.php:850
+msgid "Example Query URL"
+msgstr "مثالی از آدرس پرسه جو"
+
+#: ../register-plus-redux.php:852
+msgid "New User Message Settings"
+msgstr "تنظیمات پیغام برای کاربر جدید"
+
+#: ../register-plus-redux.php:855
+msgid "New User Message"
+msgstr "پیام کاربر جدید"
+
+#: ../register-plus-redux.php:857
+msgid "Do NOT send user an email after they are registered"
+msgstr "عدم ارسال رایانامه پس از ثبت نام کاربران"
+
+#: ../register-plus-redux.php:858
+msgid "Do NOT send user an email when created by an administrator"
+msgstr "عدم ارسال پیام پس از ایجاد کاربر توسط مدیریت"
+
+#: ../register-plus-redux.php:862
+msgid "Custom New User Message"
+msgstr "پیام دلخواه برای کاربر جدید"
+
+#: ../register-plus-redux.php:864
+#: ../register-plus-redux.php:902
+#: ../register-plus-redux.php:949
+msgid "Enable..."
+msgstr "فعال کردن ..."
+
+#: ../register-plus-redux.php:868
+#: ../register-plus-redux.php:906
+#: ../register-plus-redux.php:953
+msgid "From Email"
+msgstr "از طرف (رایانامه)"
+
+#: ../register-plus-redux.php:869
+#: ../register-plus-redux.php:873
+#: ../register-plus-redux.php:877
+#: ../register-plus-redux.php:882
+#: ../register-plus-redux.php:907
+#: ../register-plus-redux.php:911
+#: ../register-plus-redux.php:915
+#: ../register-plus-redux.php:920
+#: ../register-plus-redux.php:954
+#: ../register-plus-redux.php:958
+#: ../register-plus-redux.php:962
+#: ../register-plus-redux.php:967
+msgid "Restore Default"
+msgstr "برگرداندن به پیش فرض"
+
+#: ../register-plus-redux.php:872
+#: ../register-plus-redux.php:910
+#: ../register-plus-redux.php:957
+msgid "From Name"
+msgstr "نام فرم"
+
+#: ../register-plus-redux.php:876
+#: ../register-plus-redux.php:914
+#: ../register-plus-redux.php:961
+msgid "Subject"
+msgstr "عنوان"
+
+#: ../register-plus-redux.php:881
+#: ../register-plus-redux.php:919
+msgid "User Message"
+msgstr "پیام ارسالی به کاربر"
+
+#: ../register-plus-redux.php:883
+#: ../register-plus-redux.php:921
+#: ../register-plus-redux.php:968
+msgid "Replacement Keywords"
+msgstr "کلید واژه های جایگزین"
+
+#: ../register-plus-redux.php:884
+#: ../register-plus-redux.php:922
+#: ../register-plus-redux.php:969
+msgid "Send as HTML"
+msgstr "در قالب html ارسال شود "
+
+#: ../register-plus-redux.php:885
+#: ../register-plus-redux.php:923
+#: ../register-plus-redux.php:970
+msgid "Convert new lines to &lt;br /&gt; tags (HTML only)"
+msgstr "تبدیل خطوط جدید به تگ  &lt;br /&gt; این امکان فقط در حالت فعال بودن گزینه  html امکان پذیر است"
+
+#: ../register-plus-redux.php:889
+msgid "Login URL"
+msgstr "آدرس ورود"
+
+#: ../register-plus-redux.php:892
+msgid "This will redirect the users login after registration."
+msgstr "این کاربر را به صفحه ورود پس از ثبت نام ارجاع می دهد"
+
+#: ../register-plus-redux.php:900
+msgid "Custom Verification Message"
+msgstr "پیغام تائید دلخواه"
+
+#: ../register-plus-redux.php:931
+#: ../register-plus-redux.php:978
+msgid "Summary"
+msgstr "خلاصه"
+
+#: ../register-plus-redux.php:937
+msgid "Admin Notification Settings"
+msgstr "تنظیمات اطلاع رسانی مدیریت"
+
+#: ../register-plus-redux.php:940
+msgid "Admin Notification"
+msgstr "اطلاع رسانی مدیریت"
+
+#: ../register-plus-redux.php:942
+msgid "Do NOT send administrator an email whenever a new user registers"
+msgstr "عدم ارسال رایانامه هر زمان که کاربر جدیدی ثبت نام می نماید"
+
+#: ../register-plus-redux.php:943
+msgid "Do NOT send administrator an email whenever a new user is created by an administrator"
+msgstr "عدم ارسال رایانامه هر زمان که کاربر جدیدی توسط مدیریت ایجاد شود"
+
+#: ../register-plus-redux.php:947
+msgid "Custom Admin Notification"
+msgstr "ابلاغ شخصی سازی شده برای مدیریت"
+
+#: ../register-plus-redux.php:966
+msgid "Admin Message"
+msgstr "پیام مدیریت"
+
+#: ../register-plus-redux.php:985
+msgid "Custom CSS for Register & Login Pages"
+msgstr "شیوه نامه شخصی سازی شده  برای صفحات ثبت نام و ورود"
+
+#: ../register-plus-redux.php:986
+msgid "CSS Rule Example:"
+msgstr "مثالی از قواعد شیوه نامه"
+
+#: ../register-plus-redux.php:989
+msgid "Custom Register CSS"
+msgstr "شیوه نامه شخصی سازی شده برای ثبت نام"
+
+#: ../register-plus-redux.php:993
+msgid "Custom Login CSS"
+msgstr "شیوه نامه شخصی سازی شده برای ورود"
+
+#: ../register-plus-redux.php:998
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: ../register-plus-redux.php:999
+msgid "Preview Registraton Page"
+msgstr "پیش نمایش صفحه ثبت نام"
+
+#: ../register-plus-redux.php:1150
+msgid "You cannot edit that user."
+msgstr "شما نمی توانید آن کاربر را ویرایش کنید"
+
+#: ../register-plus-redux.php:1167
+msgid "Users approved."
+msgstr "کاربران تائید شدند"
+
+#: ../register-plus-redux.php:1170
+msgid "Verification emails sent."
+msgstr "رایانامه تائیدیه ارسال شد"
+
+#: ../register-plus-redux.php:1173
+msgid "Users deleted."
+msgstr "کاربران حدف شدند"
+
+#: ../register-plus-redux.php:1179
+msgid "Unverified Users"
+msgstr "کاربران تائید نشد"
+
+#: ../register-plus-redux.php:1184
+msgid "Bulk Actions"
+msgstr "عملیات گروهی"
+
+#: ../register-plus-redux.php:1185
+msgid "Approve"
+msgstr "تائید کردن"
+
+#: ../register-plus-redux.php:1186
+msgid "Send E-mail Verification"
+msgstr "ارسال تائیدیه"
+
+#: ../register-plus-redux.php:1187
+#: ../register-plus-redux.php:1222
+msgid "Delete"
+msgstr "حذف"
+
+#: ../register-plus-redux.php:1189
+msgid "Apply"
+msgstr "بکاربردن"
+
+#: ../register-plus-redux.php:1199
+msgid "Username"
+msgstr "نام کاربری"
+
+#: ../register-plus-redux.php:1200
+msgid "Temp Username"
+msgstr "نام کاربری موقت"
+
+#: ../register-plus-redux.php:1201
+msgid "E-mail"
+msgstr "رایانامه"
+
+#: ../register-plus-redux.php:1202
+msgid "Registered"
+msgstr "عضو شده"
+
+#: ../register-plus-redux.php:1203
+msgid "Verification Sent"
+msgstr "تائیدیه ارسال گردید"
+
+#: ../register-plus-redux.php:1204
+msgid "Verified"
+msgstr "تائید شده"
+
+#: ../register-plus-redux.php:1221
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ../register-plus-redux.php:1226
+msgid "E-mail: "
+msgstr "رایانامه"
+
+#: ../register-plus-redux.php:1237
+msgid "Approve Selected Users"
+msgstr "تائید کاربران انتخابی"
+
+#: ../register-plus-redux.php:1238
+msgid "Send E-mail Verification to Selected Users"
+msgstr "ارسال رایانامه تائید برای کاربران انتخاب شده"
+
+#: ../register-plus-redux.php:1239
+msgid "Delete Selected Users"
+msgstr "حذف کاربران انتخاب شده"
+
+#: ../register-plus-redux.php:1513
+msgid "Confirm E-mail"
+msgstr "تائید رایانامه"
+
+#: ../register-plus-redux.php:1578
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr "قراردادن کمی اطلاعات در مورد خودتان که در بخش شناسه نمایش داده شود. البته ممکن است بصورت عمومی نیز نمایش داده شود"
+
+#: ../register-plus-redux.php:1686
+msgid "Password"
+msgstr "کلمه عبور"
+
+#: ../register-plus-redux.php:1692
+msgid "Confirm Password"
+msgstr "تائید رایانامه"
+
+#: ../register-plus-redux.php:1698
+#, php-format
+msgid "Your password must be at least %d characters long. To make your password stronger, use upper and lower case letters, numbers, and the following symbols !@#$%%^&amp;*()"
+msgstr "کلمه عبور شما می بیاست حداقل %d کاراکتر طول داشته باشد. برای آنکه کلمه عبور قوی تری داشته باشید , از حروف بزرگ , کوچک , اعداد و کاراکترهای که در ادامه می توانید بهره ببرید. !@#$%%^&amp;*()"
+
+#: ../register-plus-redux.php:1710
+msgid "This website is currently closed to public registrations. You will need an invitation code to register."
+msgstr "این وب سایت در حال حاضر برای ثبت نام عمومی بسته شده است. شما به یک کد دعوت برای ثبت نام نیاز دارید."
+
+#: ../register-plus-redux.php:1712
+msgid "Have an invitation code? Enter it here. (This is not required)"
+msgstr "آیا شما یک کد دعوت دارید؟ آن را این جا وارد کنید ( این گزینه الزامی نیست )"
+
+#: ../register-plus-redux.php:1760
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr "<strong>خطا</strong>: با این نام کاربری عضویتی صورت پذیرفته است , لطفا نامی دیگر انتخاب نمائید"
+
+#: ../register-plus-redux.php:1765
+msgid "<strong>ERROR</strong>: Please confirm your e-mail address."
+msgstr "<strong>خطا</strong>: لطفا رایانامه خود را تائید کنید"
+
+#: ../register-plus-redux.php:1767
+msgid "<strong>ERROR</strong>: Your e-mail address does not match."
+msgstr "<strong>خطا</strong>: رایانامه شما تطابق ندارد"
+
+#: ../register-plus-redux.php:1774
+msgid "<strong>ERROR</strong>: Please enter your first name."
+msgstr "<strong>خطا</strong>: لطفا نام خود را وارد کنید"
+
+#: ../register-plus-redux.php:1779
+msgid "<strong>ERROR</strong>: Please enter your last name."
+msgstr "<strong>خطا</strong>: لطفا نام خانوادگی خود را وارد کنید"
+
+#: ../register-plus-redux.php:1784
+msgid "<strong>ERROR</strong>: Please enter your website URL."
+msgstr "<strong>خطا</strong>: لطفل آدرس وب سایت خود را وارد کنید"
+
+#: ../register-plus-redux.php:1789
+msgid "<strong>ERROR</strong>: Please enter your AIM username."
+msgstr "<strong>خطا</strong>:لطفا کاربری AIM خود را وارد کنید"
+
+#: ../register-plus-redux.php:1794
+msgid "<strong>ERROR</strong>: Please enter your Yahoo IM username."
+msgstr "<strong>خطا</strong>:لطفا کاربری یاهو خود را وارد کنید"
+
+#: ../register-plus-redux.php:1799
+msgid "<strong>ERROR</strong>: Please enter your Jabber / Google Talk username."
+msgstr "<strong>خطا</strong>: لطفا کاربری Jabber / Google Talk خود را وارد نمائید"
+
+#: ../register-plus-redux.php:1804
+msgid "<strong>ERROR</strong>: Please enter some information about yourself."
+msgstr "<strong>خطا</strong>: لطفا اطلاعاتی در مورد خودتان وارد نمائید"
+
+#: ../register-plus-redux.php:1813
+#, php-format
+msgid "<strong>ERROR</strong>: Please complete %s."
+msgstr "لطفا %s را کامل کنید"
+
+#: ../register-plus-redux.php:1819
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>خطا</strong>: لطفا کلمه عبور را وارد کنید"
+
+#: ../register-plus-redux.php:1821
+msgid "<strong>ERROR</strong>: Your password does not match."
+msgstr "<strong>خطا</strong>: کلمه عبور شما تطابق ندارد"
+
+#: ../register-plus-redux.php:1823
+#, php-format
+msgid "<strong>ERROR</strong>: Your password must be at least %d characters in length."
+msgstr "<strong>خطا</strong>: شما باید حداقل %d کاراکتر برای کلمه عبور وارد نمائید"
+
+#: ../register-plus-redux.php:1830
+msgid "<strong>ERROR</strong>: Please enter an invitation code."
+msgstr "<strong>خطا</strong>: لطفا کد دعوت را وارد نمائید"
+
+#: ../register-plus-redux.php:1841
+msgid "<strong>ERROR</strong>: That invitation code is invalid."
+msgstr "<strong>خطا</strong>: کد دعوت نامعتبر است"
+
+#: ../register-plus-redux.php:1847
+#: ../register-plus-redux.php:1852
+#: ../register-plus-redux.php:1857
+#, php-format
+msgid "<strong>ERROR</strong>: Please accept the %s"
+msgstr "<strong>خطا</strong>: لطفا %s را قبول کنید"
+
+#: ../register-plus-redux.php:1884
+#, php-format
+msgid "Thank you %s, your account has been verified, please login."
+msgstr "با تشکر %s. کاربری شما مورد تائید قرار گرفت. لطفا وارد شوید."
+
+#: ../register-plus-redux.php:1887
+#: ../register-plus-redux.php:2025
+msgid "Your account will be reviewed by an administrator and you will be notified when it is activated."
+msgstr "کاربری شما توسط مدیریت مورد بازبینی قرار خواهد گرفت و هنگام فعال سازی به شما اطلاع داده خواهد شد"
+
+#: ../register-plus-redux.php:1925
+msgid "Additional Information"
+msgstr "اطلاعات اضافه"
+
+#: ../register-plus-redux.php:2023
+msgid "Please verify your account using the verification link sent to your email address."
+msgstr "لطفا عضویت خود را با کلیک برروی پیوند تائید که به رایانامه شما ارسال گردیده است تائید فرمائید"
+
+#: ../register-plus-redux.php:2076
+msgid "Your Login Information"
+msgstr "اطلاعات ورود شما"
+
+#: ../register-plus-redux.php:2084
+msgid "Verify Your Account"
+msgstr "تائید کاربریتان"
+
+#: ../register-plus-redux.php:2094
+msgid "New User Registered"
+msgstr "کاربری جدید ثبت نام کرد"
+
+#: ../register-plus-redux.php:2224
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ../register-plus-redux.php:2284
+msgid "There is another active plugin that is conflicting with Register Plus Redux. The conflicting plugin is creating its own wp_new_user_notification function, this function is used to alter the messages sent out following the creation of a new user. Please refer to <a href='http://radiok.info/blog/wp_new_user_notification-conflicts/'>http://radiok.info/blog/wp_new_user_notification-conflicts/</a> for help resolving this issue."
+msgstr "یک افزونه فعال دیگر با افزونه ثبت نام پیشرفته تصادم ایجاد کرده است. این افزونه متصادم تابع own wp_new_user_notification خود را ایجاد کرده است. این تابع برای تغییر پیامی که در جریان ایجاد کاربر ارسال می شود مورد استفاده قرار می گیرد . به آدرس  <a href='http://radiok.info/blog/wp_new_user_notification-conflicts/'>http://radiok.info/blog/wp_new_user_notification-conflicts/</a> برای حل این مشکل مراجعه فرمائید."
+
+#: ../register-plus-redux.php:2289
+#, php-format
+msgid "Register Plus Redux requires WordPress 3.0 or greater. You are currently using WordPress %s, please upgrade or deactivate Register Plus Redux."
+msgstr "افزونه ثبت نام پیشرفته به وردپرس نسخه 3 یا بالاتر نیاز مند است. نسخه مورد استفاده شما نسخه %s است. لطفا یا وردپرس خود را برروز رسانی کنید یا این افزونه را غیر فعال کنید."
+
+#~ msgid "Agreement Text"
+#~ msgstr "متن توافقنامه"
+#~ msgid "Strength Indicator"
+#~ msgstr "شاخص قذرت"
+#~ msgid "Too Short"
+#~ msgstr "خیلی کوتاه"
+#~ msgid "Bad Password"
+#~ msgstr "کلمه عبور بد"
+#~ msgid "Good Password"
+#~ msgstr "کلمه عبور خوب"
+#~ msgid "Strong Password"
+#~ msgstr "کلمه عبور قوی"
+#~ msgid "Password Mismatch"
+#~ msgstr "عدم تطابق کلمه عبور"
+#~ msgid "Accept the License Agreement"
+#~ msgstr "من توافقنامه را قبول دارم"
+

@@ -1,0 +1,1209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Register Plus Redux in Romanian\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/register-plus-redux\n"
+"POT-Creation-Date: 2010-11-05 15:12+0000\n"
+"PO-Revision-Date: 2010-11-09 03:43+0200\n"
+"Last-Translator: Florin <florin@drumliber.ro>\n"
+"Language-Team: Florin Arjocu | drumliber.ro <florin[at]drumliber[dot]ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__;esc_html_e;esc_html__\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dash_widget.php:11
+msgid "Invitation Code Tracking"
+msgstr "Urmărire cu invitaţie cu cod"
+
+#: register-plus-redux.php:147
+#: register-plus-redux.php:148
+#: register-plus-redux.php:612
+msgid "Remove Code"
+msgstr "Elimină codul"
+
+#: register-plus-redux.php:174
+#: register-plus-redux.php:756
+#: register-plus-redux.php:782
+msgid "Text Field"
+msgstr "Câmp text"
+
+#: register-plus-redux.php:175
+#: register-plus-redux.php:757
+#: register-plus-redux.php:783
+msgid "Select Field"
+msgstr "Câmp de Selectare"
+
+#: register-plus-redux.php:176
+#: register-plus-redux.php:758
+#: register-plus-redux.php:784
+msgid "Checkbox Fields"
+msgstr "Câmpuri de bifare (checkbox)"
+
+#: register-plus-redux.php:177
+#: register-plus-redux.php:759
+#: register-plus-redux.php:785
+msgid "Radio Fields"
+msgstr "Câmpuri radio"
+
+#: register-plus-redux.php:178
+#: register-plus-redux.php:760
+#: register-plus-redux.php:786
+msgid "Text Area"
+msgstr "Câmp text mare (textarea)"
+
+#: register-plus-redux.php:179
+#: register-plus-redux.php:761
+#: register-plus-redux.php:787
+msgid "Date Field"
+msgstr "Câmp dată"
+
+#: register-plus-redux.php:180
+#: register-plus-redux.php:762
+#: register-plus-redux.php:788
+msgid "URL Field"
+msgstr "Câmp URL"
+
+#: register-plus-redux.php:181
+#: register-plus-redux.php:763
+#: register-plus-redux.php:789
+msgid "Hidden Field"
+msgstr "Câmp ascuns"
+
+#: register-plus-redux.php:227
+#: register-plus-redux.php:228
+#: register-plus-redux.php:771
+#: register-plus-redux.php:797
+msgid "Remove Field"
+msgstr "Elimină câmp"
+
+#: register-plus-redux.php:235
+#: register-plus-redux.php:236
+#: register-plus-redux.php:772
+#: register-plus-redux.php:798
+msgid "Move this Field Up"
+msgstr "Mută în SUS acest câmp"
+
+#: register-plus-redux.php:243
+#: register-plus-redux.php:244
+#: register-plus-redux.php:773
+#: register-plus-redux.php:799
+msgid "Move this Field Down"
+msgstr "Mută în JOS acest câmp"
+
+#: register-plus-redux.php:263
+msgid "The following message will be sent when a user is registered:"
+msgstr "Mesajul următor va fi trimis când un utilizator se înregistrează:"
+
+#: register-plus-redux.php:286
+msgid "No message will be sent to user whether they are registered or created by an administrator."
+msgstr "Nu se trimite email chiar dacă userul a fost creat de administrator sau în urma procesului de înregistrare."
+
+#: register-plus-redux.php:289
+#: register-plus-redux.php:331
+msgid "The following message will be sent when a user is "
+msgstr "Următorul mesaj va fi trimis când utilizatorul "
+
+#: register-plus-redux.php:290
+#: register-plus-redux.php:332
+msgid "registered"
+msgstr "s-a înregistrat"
+
+#: register-plus-redux.php:291
+#: register-plus-redux.php:333
+msgid " or "
+msgstr " sau  "
+
+#: register-plus-redux.php:292
+#: register-plus-redux.php:334
+msgid "created"
+msgstr "a fost creat"
+
+#: register-plus-redux.php:293
+msgid " after "
+msgstr " după "
+
+#: register-plus-redux.php:296
+msgid " and/or "
+msgstr " şi/sau "
+
+#: register-plus-redux.php:298
+msgid "an administrator has approved the new user"
+msgstr "un administrator a probat noul cont de utilizator"
+
+#: register-plus-redux.php:312
+#: register-plus-redux.php:348
+msgid "To: "
+msgstr "Către:"
+
+#: register-plus-redux.php:313
+#: register-plus-redux.php:349
+msgid "From: "
+msgstr "De la:"
+
+#: register-plus-redux.php:314
+#: register-plus-redux.php:350
+msgid "Subject: "
+msgstr "Subiect:"
+
+#: register-plus-redux.php:315
+#: register-plus-redux.php:351
+msgid "Content-Type: "
+msgstr "Conţinut email:"
+
+#: register-plus-redux.php:328
+msgid "No message will be sent to administrator whether a user is registered or created."
+msgstr "Nu trimite email la administrator când se crează un cont nou."
+
+#: register-plus-redux.php:448
+msgid "Settings Saved"
+msgstr "Setările au fost salvate"
+
+#: register-plus-redux.php:452
+msgid "Register Plus Redux Settings"
+msgstr "Setări Register Plus Redux"
+
+#: register-plus-redux.php:458
+msgid "Custom Logo URL"
+msgstr "URL pentru logo customizat"
+
+#: register-plus-redux.php:461
+msgid "Upload a new logo:"
+msgstr "Încarcă un nou logo:"
+
+#: register-plus-redux.php:462
+msgid "You must Save Changes to upload logo."
+msgstr "Trebuie să salvezi setările înainte de a uploada logo nou."
+
+#: register-plus-redux.php:463
+msgid "Custom Logo will be shown on Registration and Login Forms in place of the default Wordpress logo. For the best results custom logo should not exceed 350px width."
+msgstr "Logo-ul customizat va fi afişat în paginile de Înregistrare şi de Login în locul logo-ului standard Wordpress. Pentru rezultate bune, nu ar trebui să depăşeascăi 350px lăţime."
+
+#: register-plus-redux.php:468
+msgid "Remove Logo"
+msgstr "Şterge logo"
+
+#: register-plus-redux.php:469
+msgid "You must Save Changes to remove logo."
+msgstr "Trebui să salvezi setările pentru a şterge logo-ul customizat."
+
+#: register-plus-redux.php:474
+msgid "Email Verification"
+msgstr "Verificare email"
+
+#: register-plus-redux.php:476
+msgid "Verify all new users email address..."
+msgstr "Verifică toate adresele de email la userii noi ..."
+
+#: register-plus-redux.php:477
+msgid "A verification code will be sent to any new users email address, new users will not be able to login or reset their password until they have completed the verification process. Administrators may authorize new users from the Unverified Users Page at their own discretion."
+msgstr "Un cod de verificare va fi trimis la emailurile utilizatorilor noi, iar aceştia nu se vor putea loga sau să schimbe parola până nu finalizează procesul de verificare a emailului. Administratorii pot autoriza utilizatorii noi din pagina de Useri Neverificaţi."
+
+#: register-plus-redux.php:479
+msgid "The following message will be shown to users after registering. You may include HTML in this message."
+msgstr "Următorul mesaj va fi afişat utilizatorilor după înregistrare. Poate conţine cod HTML."
+
+#: register-plus-redux.php:485
+msgid "Admin Verification"
+msgstr "Verificare făcută de admin"
+
+#: register-plus-redux.php:487
+msgid "Moderate all new user registrations..."
+msgstr "MOderează toate noile conturi..."
+
+#: register-plus-redux.php:488
+msgid "New users will not be able to login or reset their password until they have been authorized by an administrator from the Unverified Users Page. If both verification options are enabled, users will not be able to login until an administrator authorizes them, regardless of whether they complete the email verification process."
+msgstr "Noii utilizatori nu vor putea să se logheze sau să îşi schimbe parola până nu au fost autorizaţi de administrator în pagina de Useri Neverificaţi. Dacă ambele opţiuni de verificare sunt active, userii nu vor putea să se logheze până adminul nu îi autorizează, indiferent dacă au finalizat procesul de verificare a emailului."
+
+#: register-plus-redux.php:490
+msgid "The following message will be shown to users after registering (or verifying their email if both verification options are enabled). You may include HTML in this message."
+msgstr "Mesajul următor va fi arătat userilor dupa înregistrare (sau validarea emailului dacă ambele metode de verificare sunt active). Poţi include cod HTML."
+
+#: register-plus-redux.php:496
+msgid "Grace Period"
+msgstr "Perioadă de graţie"
+
+#: register-plus-redux.php:498
+msgid "days"
+msgstr "zile"
+
+#: register-plus-redux.php:499
+msgid "All unverified users will automatically be deleted after the Grace Period specified, to disable this process enter 0 to never automatically delete unverified users."
+msgstr "Toţi userii neverificaţi vor fi şterşi automat după Perioada de Graţie. Pentru a dezactiva ştergerea automată scrie 0 în acest câmp."
+
+#: register-plus-redux.php:503
+msgid "Registration Page"
+msgstr "Pagina de Înregistrare"
+
+#: register-plus-redux.php:504
+msgid "Select which fields to show on the Registration Page. Users will not be able to register without completing any fields marked required."
+msgstr "Selectează ce câmpuri să fie afişate în Pagina de Înregistrare. Userii nu pot să se înregistreze fără a completa câmpurile marcate ca obligatoriii."
+
+#: register-plus-redux.php:507
+msgid "Confirm Email"
+msgstr "Confirmă emailul"
+
+#: register-plus-redux.php:508
+msgid "Require new users to enter e-mail address twice during registration."
+msgstr "Obligă utilizatorii noi să îşi introducă de 2 ori emailul în timpul înregistrării."
+
+#: register-plus-redux.php:511
+msgid "Profile Fields"
+msgstr "Câmpuri de Profil"
+
+#: register-plus-redux.php:516
+msgid "Show"
+msgstr "Arată"
+
+#: register-plus-redux.php:517
+#: register-plus-redux.php:744
+msgid "Require"
+msgstr "Obligatoriu"
+
+#: register-plus-redux.php:523
+#: register-plus-redux.php:1546
+msgid "First Name"
+msgstr "Prenume"
+
+#: register-plus-redux.php:528
+#: register-plus-redux.php:1555
+msgid "Last Name"
+msgstr "Nume de familie"
+
+#: register-plus-redux.php:533
+#: register-plus-redux.php:1564
+msgid "Website"
+msgstr "Sit web"
+
+#: register-plus-redux.php:538
+#: register-plus-redux.php:1573
+msgid "AIM"
+msgstr "AIM"
+
+#: register-plus-redux.php:543
+#: register-plus-redux.php:1582
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: register-plus-redux.php:548
+#: register-plus-redux.php:1591
+msgid "Jabber / Google Talk"
+msgstr "Jabber/Google Talk:"
+
+#: register-plus-redux.php:553
+#: register-plus-redux.php:1600
+msgid "About Yourself"
+msgstr "Informaţii despre tine"
+
+#: register-plus-redux.php:562
+msgid "User Set Password"
+msgstr "Utilizatorul introduce parola"
+
+#: register-plus-redux.php:564
+msgid "Require new users enter a password during registration..."
+msgstr "Obligă utilizatorii noi să îşi introducă parola în timpul înregistrării..."
+
+#: register-plus-redux.php:566
+msgid "Minimum password length: "
+msgstr "Lungimea minină a parolei:"
+
+#: register-plus-redux.php:567
+msgid "Show password strength meter..."
+msgstr "Arată validatorul de putere pentru parolă..."
+
+#: register-plus-redux.php:571
+msgid "Empty"
+msgstr "Câmp gol"
+
+#: register-plus-redux.php:575
+msgid "Short"
+msgstr "Scurtă"
+
+#: register-plus-redux.php:579
+msgid "Bad"
+msgstr "Nu e validă"
+
+#: register-plus-redux.php:583
+msgid "Good"
+msgstr "Bună"
+
+#: register-plus-redux.php:587
+msgid "Strong"
+msgstr "Puternică"
+
+#: register-plus-redux.php:591
+msgid "Mismatch"
+msgstr "Neprotrivire"
+
+#: register-plus-redux.php:600
+#: register-plus-redux.php:1727
+#: register-plus-redux.php:1951
+msgid "Invitation Code"
+msgstr "Cod de invitaţie"
+
+#: register-plus-redux.php:602
+msgid "Use invitation codes to track or authorize new user registration..."
+msgstr "Foloseşte coduri unice pentru a urmări  sau autoriza înregistrarea noilor utilizatori..."
+
+#: register-plus-redux.php:604
+msgid "Require new user enter one of the following invitation codes to register."
+msgstr "Utilizatorii noi trebuie să introducă unul dintre următoarele coduri de invitaţie pentru a se înregistra."
+
+#: register-plus-redux.php:605
+msgid "Enforce case-sensitivity of invitation codes."
+msgstr "Forţează coduri cu caractere case-sensitive."
+
+#: register-plus-redux.php:606
+msgid "Show Invitation Code Tracking widget on Dashboard."
+msgstr "Arată widgetul cu urmărirea codurilor de invitaţii pe Panoul de Control (Dashboard)."
+
+#: register-plus-redux.php:615
+msgid "Add Code"
+msgstr "Adaugă cod"
+
+#: register-plus-redux.php:615
+msgid "Add a new invitation code"
+msgstr "Adaugă un nou cod de invitaţie"
+
+#: register-plus-redux.php:620
+msgid "Disclaimer"
+msgstr "Limitarea responsabilităţii"
+
+#: register-plus-redux.php:622
+msgid "Show Disclaimer during registration..."
+msgstr "Arată condiţiile de Limitare a responsabilităţii în timpul înregistrării..."
+
+#: register-plus-redux.php:627
+msgid "Disclaimer Title"
+msgstr "Titlu Disclaimer"
+
+#: register-plus-redux.php:635
+msgid "Disclaimer Content"
+msgstr "Conţinut disclaimer"
+
+#: register-plus-redux.php:641
+#: register-plus-redux.php:673
+#: register-plus-redux.php:705
+msgid "Require Agreement"
+msgstr "Consimţământ obligatoriu"
+
+#: register-plus-redux.php:652
+msgid "License Agreement"
+msgstr "Licenţă"
+
+#: register-plus-redux.php:654
+msgid "Show License Agreement during registration..."
+msgstr "Arată condiţiile de Licenţiere în timpul înregistrării..."
+
+#: register-plus-redux.php:659
+msgid "License Agreement Title"
+msgstr "Titlu condiţii de Licenţiere"
+
+#: register-plus-redux.php:667
+msgid "License Agreement Content"
+msgstr "Conţinutul condiţiilor de Licenţiere"
+
+#: register-plus-redux.php:684
+msgid "Privacy Policy"
+msgstr "Politica de intimitate"
+
+#: register-plus-redux.php:686
+msgid "Show Privacy Policy during registration..."
+msgstr "Arată politica de intimitate în timpul înregistrării..."
+
+#: register-plus-redux.php:691
+msgid "Privacy Policy Title"
+msgstr "Titlu Politică de Intimitate"
+
+#: register-plus-redux.php:699
+msgid "Privacy Policy Content"
+msgstr "Conţinutul politicii de intimitate"
+
+#: register-plus-redux.php:716
+msgid "Use Default Style Rules"
+msgstr "Foloseşte stilurile CSS standard"
+
+#: register-plus-redux.php:717
+msgid "Apply default Wordpress 3.0.1 styling to all fields."
+msgstr "Aplică stilurile standard Wordpress 3.0.1 la toate câmpurile."
+
+#: register-plus-redux.php:720
+msgid "Required Fields Style Rules"
+msgstr "Stiluri pentru câmpurile obligatorii"
+
+#: register-plus-redux.php:724
+msgid "Required Fields Asterisk"
+msgstr "Asterisc la câmpurile obligatorii"
+
+#: register-plus-redux.php:725
+msgid "Add asterisk to left of all required field's name."
+msgstr "Adaugă un asterisc la stânga mumelui câmpului obligatoriu."
+
+#: register-plus-redux.php:728
+msgid "Starting Tabindex"
+msgstr "Început Tabindex"
+
+#: register-plus-redux.php:731
+msgid "The first field added will have this tabindex, the tabindex will incriment by 1 for each additional field. Enter 0 to remove all tabindex's."
+msgstr "Primul câmp va avea acest Tabindex, apoi următoarele câmpuri vor avea index crescut cu 1. Scrie 0 pentru a elimina tabindexul."
+
+#: register-plus-redux.php:735
+msgid "Additional Fields"
+msgstr "Câmpuri adiţionale"
+
+#: register-plus-redux.php:736
+msgid "Enter additional fields to show on the User Profile and/or Registration Pages. Additional fields will be shown after existing profile fields on User Profile, and after selected profile fields on Registration Page but before Password, Invitation Code, Disclaimer, License Agreement, or Privacy Policy (if any of those fields are enabled). Options must be entered for Select, Checkbox, and Radio fields. Options should be entered with commas seperating each possible value. For example, a Radio field named \"Gender\" could have the following options, \"Male,Female\"."
+msgstr "Adaugă câmpuri adiţionale în Profilul Utilizatorului şi/sau în paginile de înregistrare. Aceste câmpuri vor fi afişate după câmpurile standard din pagina Profilului şi după câmpurile selectatea în pagina de Înregistrare, dar înainte de Parolă, Cod de Invitaţie, Disclaimer, Condiţii de Licenţiere sau Politica de Intimitate (dacă sunt activate). Opţiunile trebuie să fie de tipul Select, câmpuri Checkbox sau Radio. Opţionile trebuie introduse cu virgula între fiecare posibilă valoare. De exemplu, poate fi un câmp de tip Radio numit \"Sex\" care să aibă 2 opţiuni: \"Masculin,Feminin\"."
+
+#: register-plus-redux.php:739
+msgid "Name"
+msgstr "Nume"
+
+#: register-plus-redux.php:740
+msgid "Type"
+msgstr "Tip"
+
+#: register-plus-redux.php:741
+msgid "Options"
+msgstr "Opţiuni"
+
+#: register-plus-redux.php:742
+msgid "Profile"
+msgstr "Profil"
+
+#: register-plus-redux.php:743
+msgid "Registration"
+msgstr "Înregistrare"
+
+#: register-plus-redux.php:745
+msgid "Actions"
+msgstr "Acţiuni"
+
+#: register-plus-redux.php:806
+msgid "Add Field"
+msgstr "Adaugă câmp"
+
+#: register-plus-redux.php:806
+msgid "Add a new custom field."
+msgstr "Adaugă un câmp personalizat."
+
+#: register-plus-redux.php:809
+msgid "Date Field Settings"
+msgstr "Setări pentru câmpul Dată"
+
+#: register-plus-redux.php:811
+msgid "First Day of the Week"
+msgstr "Prima zi a săptămânii"
+
+#: register-plus-redux.php:813
+msgid "Monday"
+msgstr "Luni"
+
+#: register-plus-redux.php:814
+msgid "Tuesday"
+msgstr "Marţi"
+
+#: register-plus-redux.php:815
+msgid "Wednesday"
+msgstr "Miercuri"
+
+#: register-plus-redux.php:816
+msgid "Thursday"
+msgstr "Joi"
+
+#: register-plus-redux.php:817
+msgid "Friday"
+msgstr "Vineri"
+
+#: register-plus-redux.php:818
+msgid "Saturday"
+msgstr "Sâmbătă"
+
+#: register-plus-redux.php:819
+msgid "Sunday"
+msgstr "Duminică"
+
+#: register-plus-redux.php:821
+msgid "Date Format"
+msgstr "Formatul pentru dată"
+
+#: register-plus-redux.php:822
+msgid "First Selectable Date"
+msgstr "Prima dată selectabilă"
+
+#: register-plus-redux.php:823
+msgid "Default Year"
+msgstr "An preselectat"
+
+#: register-plus-redux.php:824
+msgid "Default Month"
+msgstr "Lună preselectată"
+
+#: register-plus-redux.php:826
+msgid "Current Month"
+msgstr "Luna curentă"
+
+#: register-plus-redux.php:827
+msgid "Jan"
+msgstr "Ian"
+
+#: register-plus-redux.php:828
+msgid "Feb"
+msgstr "Feb"
+
+#: register-plus-redux.php:829
+msgid "Mar"
+msgstr "Mar"
+
+#: register-plus-redux.php:830
+msgid "Apr"
+msgstr "Apr"
+
+#: register-plus-redux.php:831
+msgid "May"
+msgstr "Mai"
+
+#: register-plus-redux.php:832
+msgid "Jun"
+msgstr "Iun"
+
+#: register-plus-redux.php:833
+msgid "Jul"
+msgstr "Iul"
+
+#: register-plus-redux.php:834
+msgid "Aug"
+msgstr "Aug"
+
+#: register-plus-redux.php:835
+msgid "Sep"
+msgstr "Sept"
+
+#: register-plus-redux.php:836
+msgid "Oct"
+msgstr "Oct"
+
+#: register-plus-redux.php:837
+msgid "Nov"
+msgstr "Nov"
+
+#: register-plus-redux.php:838
+msgid "Dec"
+msgstr "Dec"
+
+#: register-plus-redux.php:843
+msgid "Auto-Complete Queries"
+msgstr "Auto completează query-urile"
+
+#: register-plus-redux.php:844
+msgid "You can now link to the registration page with queries to autocomplete specific fields for the user. I have included the query keys below and an example of a query URL."
+msgstr "Acum poţi avea un link spre pagina de înregistrare cu anumite query-uri ce vor autocompleta anumite câmpuri ale utilizatorului. Am inclus mai jos cheile pentru query-uri şi un URL ca şi exemplu."
+
+#: register-plus-redux.php:852
+msgid "For any custom fields, use your custom field label with the text all lowercase, using underscores instead of spaces. For example if your custom field was \"Middle Name\" your query key would be %middle_name%"
+msgstr "Pentru orice câmp customizat foloseşte eticheta câmpului cu textul scris cu litere mici, folosind underscore (caracterul liniuşă jos: _) în loc de spaţii. De exemplu dacă avem un câmp \"Nume Mijlociu\" cheia din query va fi %nume_mijlociu%"
+
+#: register-plus-redux.php:853
+msgid "Example Query URL"
+msgstr "Exemplu de URL cu Query"
+
+#: register-plus-redux.php:855
+msgid "New User Message Settings"
+msgstr "Setări pentru mesajul pentru userii noi"
+
+#: register-plus-redux.php:858
+msgid "New User Message"
+msgstr "Mesaj pentru userii noi"
+
+#: register-plus-redux.php:860
+msgid "Do NOT send user an email after they are registered"
+msgstr "NU trimite mail utilizatorilor după înregistrare"
+
+#: register-plus-redux.php:861
+msgid "Do NOT send user an email when created by an administrator"
+msgstr "NU trimite mail când contul a fost creat de administrator"
+
+#: register-plus-redux.php:865
+msgid "Custom New User Message"
+msgstr "Mesaj personalizat pentru userii noi"
+
+#: register-plus-redux.php:867
+#: register-plus-redux.php:905
+#: register-plus-redux.php:952
+msgid "Enable..."
+msgstr "Activează..."
+
+#: register-plus-redux.php:871
+#: register-plus-redux.php:909
+#: register-plus-redux.php:956
+msgid "From Email"
+msgstr "De la (email)"
+
+#: register-plus-redux.php:872
+#: register-plus-redux.php:876
+#: register-plus-redux.php:880
+#: register-plus-redux.php:885
+#: register-plus-redux.php:910
+#: register-plus-redux.php:914
+#: register-plus-redux.php:918
+#: register-plus-redux.php:923
+#: register-plus-redux.php:957
+#: register-plus-redux.php:961
+#: register-plus-redux.php:965
+#: register-plus-redux.php:970
+msgid "Restore Default"
+msgstr "Resezează valorile prestabilite"
+
+#: register-plus-redux.php:875
+#: register-plus-redux.php:913
+#: register-plus-redux.php:960
+msgid "From Name"
+msgstr "De la (nume)"
+
+#: register-plus-redux.php:879
+#: register-plus-redux.php:917
+#: register-plus-redux.php:964
+msgid "Subject"
+msgstr "Subiect"
+
+#: register-plus-redux.php:884
+#: register-plus-redux.php:922
+msgid "User Message"
+msgstr "Mesaj pentru utilizator"
+
+#: register-plus-redux.php:886
+#: register-plus-redux.php:924
+#: register-plus-redux.php:971
+msgid "Replacement Keywords"
+msgstr "Cuvinte cheie (vor fi înlocuite cu valorile lor)"
+
+#: register-plus-redux.php:887
+#: register-plus-redux.php:925
+#: register-plus-redux.php:972
+msgid "Send as HTML"
+msgstr "Trimite ca HTML"
+
+#: register-plus-redux.php:888
+#: register-plus-redux.php:926
+#: register-plus-redux.php:973
+msgid "Convert new lines to &lt;br /&gt; tags (HTML only)"
+msgstr "Converteşte caracterul de linie nouă în &lt;br /&gt; (doar dacă se trimite în format HTML)"
+
+#: register-plus-redux.php:892
+msgid "Login URL"
+msgstr "URL login"
+
+#: register-plus-redux.php:895
+msgid "This will redirect the users login after registration."
+msgstr "Redirecţionează la formularul de login după înregistrare."
+
+#: register-plus-redux.php:903
+msgid "Custom Verification Message"
+msgstr "Mesaj de validatre customizat"
+
+#: register-plus-redux.php:934
+#: register-plus-redux.php:981
+msgid "Summary"
+msgstr "Sumar"
+
+#: register-plus-redux.php:940
+msgid "Admin Notification Settings"
+msgstr "Setări de notificare a administratorului"
+
+#: register-plus-redux.php:943
+msgid "Admin Notification"
+msgstr "Notificare administrator"
+
+#: register-plus-redux.php:945
+msgid "Do NOT send administrator an email whenever a new user registers"
+msgstr "NU trimite emial administratorului când un utilizator nou a fost înregistrat"
+
+#: register-plus-redux.php:946
+msgid "Do NOT send administrator an email whenever a new user is created by an administrator"
+msgstr "NU trimite adminstratorului email când un nou utilizator a fost creat de administrator"
+
+#: register-plus-redux.php:950
+msgid "Custom Admin Notification"
+msgstr "Customizarea notificării către administrator"
+
+#: register-plus-redux.php:969
+msgid "Admin Message"
+msgstr "Mesaj"
+
+#: register-plus-redux.php:988
+msgid "Custom CSS for Register & Login Pages"
+msgstr "CSS personalizat pentru paginile de Înregistrare şi Login"
+
+#: register-plus-redux.php:989
+msgid "CSS Rule Example:"
+msgstr "Exemplu de regulă CSS:"
+
+#: register-plus-redux.php:992
+msgid "Custom Register CSS"
+msgstr "CSS personalizat pentru înregistrare "
+
+#: register-plus-redux.php:996
+msgid "Custom Login CSS"
+msgstr "CSS personalizat pentru login"
+
+#: register-plus-redux.php:1001
+msgid "Hacks & Fixes"
+msgstr "Hacks şi Corecţii"
+
+#: register-plus-redux.php:1004
+msgid "Non-English Custom Fields"
+msgstr "Câmpuri personalizate care nu sunt în Engleză"
+
+#: register-plus-redux.php:1006
+msgid "Do not sanitize keys."
+msgstr "Nu sanitiza (sanitize) cheilei."
+
+#: register-plus-redux.php:1007
+msgid "Custom fields with non-english characters may not work, this hack will stop sanitizing the custom field name which may resolve this issue."
+msgstr "Câmpurile personalizate în alte limbi decât Engleza s-ar putea să nu funcţioneze; acest hack va dezactiva sanitizarea numelor de câmpuri personalizate şi ar trebui să rezolve această problemă (Nota Tr. f@drumliber.ro bug raportat pentru limba rusă, dar probabil va fi la fel pt toate caracterele not ASCII)."
+
+#: register-plus-redux.php:1011
+msgid "URL File Access is Disabled"
+msgstr "URL-ul pentru accesul la fişiere este dezactivat"
+
+#: register-plus-redux.php:1013
+msgid "Do not open URL files."
+msgstr "Nu deschide fişiere URL."
+
+#: register-plus-redux.php:1014
+msgid "Some PHP configurations do not allow accessing URL objects like files (allow_url_fopen=disabled in php.ini), this hack will stop trying to open URL files as if they were local files. Custom logo must be exactly 326x67 with this hack enabled, otherwise it will be cropped."
+msgstr "Unele configuraţii PHP nu permit accesarea URL-ului unor obiecte ca şi fişierele (allow_url_fopen=disabled în php.ini); acest hack va încerca să încarce fişiere ca şi cum ar fi fişiere locale. Logo-ul personalizat trebuie să fie de fix 326x67 pixeli cu acest hack activat, altfel va fi decupat."
+
+#: register-plus-redux.php:1019
+msgid "Save Changes"
+msgstr "Salvează modificările"
+
+#: register-plus-redux.php:1020
+msgid "Preview Registraton Page"
+msgstr "Previzualizează pagina de Înregistrare"
+
+#: register-plus-redux.php:1174
+msgid "You cannot edit that user."
+msgstr "Nu poţi edita acest utilizator."
+
+#: register-plus-redux.php:1191
+msgid "Users approved."
+msgstr "Utilizatori aprobaţi."
+
+#: register-plus-redux.php:1194
+msgid "Verification emails sent."
+msgstr "Emailurile de verificare au fost trimise."
+
+#: register-plus-redux.php:1197
+msgid "Users deleted."
+msgstr "Utilizatori şterşi."
+
+#: register-plus-redux.php:1203
+msgid "Unverified Users"
+msgstr "Utilizatori neverificaţi"
+
+#: register-plus-redux.php:1208
+msgid "Bulk Actions"
+msgstr "Acţiuni în masă"
+
+#: register-plus-redux.php:1209
+msgid "Approve"
+msgstr "Aprobă"
+
+#: register-plus-redux.php:1210
+msgid "Send E-mail Verification"
+msgstr "Trimtie Email de verificare"
+
+#: register-plus-redux.php:1211
+#: register-plus-redux.php:1246
+msgid "Delete"
+msgstr "Şterge"
+
+#: register-plus-redux.php:1213
+msgid "Apply"
+msgstr "Aplică"
+
+#: register-plus-redux.php:1223
+msgid "Username"
+msgstr "Nume de utilizator"
+
+#: register-plus-redux.php:1224
+msgid "Temp Username"
+msgstr "Nume de utilizator temporar"
+
+#: register-plus-redux.php:1225
+msgid "E-mail"
+msgstr "Email"
+
+#: register-plus-redux.php:1226
+msgid "Registered"
+msgstr "Înregistraţi"
+
+#: register-plus-redux.php:1227
+msgid "Verification Sent"
+msgstr "Email de verificare trimis"
+
+#: register-plus-redux.php:1228
+msgid "Verified"
+msgstr "Verificaţi"
+
+#: register-plus-redux.php:1245
+msgid "Edit"
+msgstr "Modifică"
+
+#: register-plus-redux.php:1250
+msgid "E-mail: "
+msgstr "Email:"
+
+#: register-plus-redux.php:1261
+msgid "Approve Selected Users"
+msgstr "Aprobă utilizatorii selectaţi"
+
+#: register-plus-redux.php:1262
+msgid "Send E-mail Verification to Selected Users"
+msgstr "Trimite email de verificare utilizatorilor selectaţi"
+
+#: register-plus-redux.php:1263
+msgid "Delete Selected Users"
+msgstr "Şterge utilizatorii selectaţi"
+
+#: register-plus-redux.php:1536
+msgid "Confirm E-mail"
+msgstr "Confirmă emailul"
+
+#: register-plus-redux.php:1601
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr "Împărtăşeşte unele informaţii biografice pentru a completa profilul. Acest câmp ar putea fi făcut public."
+
+#: register-plus-redux.php:1708
+msgid "Password"
+msgstr "Parola"
+
+#: register-plus-redux.php:1714
+msgid "Confirm Password"
+msgstr "Confirmă parola"
+
+#: register-plus-redux.php:1720
+#, php-format
+msgid "Your password must be at least %d characters long. To make your password stronger, use upper and lower case letters, numbers, and the following symbols !@#$%%^&amp;*()"
+msgstr "Parola trebuie să aibă minim %d caractere. Pentru a avea o parolă puternică, folosește combinații de litere mici, litere MARI, numere şi simboluri din lista următoare  !@#$%%^&amp;*()"
+
+#: register-plus-redux.php:1732
+msgid "This website is currently closed to public registrations. You will need an invitation code to register."
+msgstr "Acest sit este închis înregistrărilor publice. Ai nevoie de invitaţie pentru a te înregistra."
+
+#: register-plus-redux.php:1734
+msgid "Have an invitation code? Enter it here. (This is not required)"
+msgstr "Ai un cod de invitaţie? Introdu-l aici (nu e obligatoriu)"
+
+#: register-plus-redux.php:1782
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr "<strong>EROARE/strong>: Acest nume de utilizator este deja înregistrat, alege altul."
+
+#: register-plus-redux.php:1787
+msgid "<strong>ERROR</strong>: Please confirm your e-mail address."
+msgstr "<strong>EROARE</strong>: Confirmă adresa de email."
+
+#: register-plus-redux.php:1789
+msgid "<strong>ERROR</strong>: Your e-mail address does not match."
+msgstr "<strong>EROARE</strong>: Adresele de email introduse nu coincid."
+
+#: register-plus-redux.php:1796
+msgid "<strong>ERROR</strong>: Please enter your first name."
+msgstr "<strong>EROARE</strong>: Introdu prenumele tău."
+
+#: register-plus-redux.php:1801
+msgid "<strong>ERROR</strong>: Please enter your last name."
+msgstr "<strong>EROARE</strong>: Introdu numele tău de familie."
+
+#: register-plus-redux.php:1806
+msgid "<strong>ERROR</strong>: Please enter your website URL."
+msgstr "<strong>EROARE</strong>: Introdu adresa URL a sitului tău."
+
+#: register-plus-redux.php:1811
+msgid "<strong>ERROR</strong>: Please enter your AIM username."
+msgstr "<strong>EROARE</strong>: Introdu numele de utilizator AIM."
+
+#: register-plus-redux.php:1816
+msgid "<strong>ERROR</strong>: Please enter your Yahoo IM username."
+msgstr "<strong>EROARE</strong>: Introdu numele de utilizator Yahoo IM."
+
+#: register-plus-redux.php:1821
+msgid "<strong>ERROR</strong>: Please enter your Jabber / Google Talk username."
+msgstr "<strong>EROARE</strong>: Introdu numele de utilizator Jabber / Google Talk."
+
+#: register-plus-redux.php:1826
+msgid "<strong>ERROR</strong>: Please enter some information about yourself."
+msgstr "<strong>EROARE</strong>: Introdu câteva informaţii despre tine."
+
+#: register-plus-redux.php:1835
+#, php-format
+msgid "<strong>ERROR</strong>: Please complete %s."
+msgstr "<strong>EROARE</strong>: Complezează %s."
+
+#: register-plus-redux.php:1841
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>EROARE/strong>: Introdu o parolă."
+
+#: register-plus-redux.php:1843
+msgid "<strong>ERROR</strong>: Your password does not match."
+msgstr "<strong>EROARE</strong>: Parola nu e corectă."
+
+#: register-plus-redux.php:1845
+#, php-format
+msgid "<strong>ERROR</strong>: Your password must be at least %d characters in length."
+msgstr "<strong>EROARE</strong>: Parola trebuie să aibă minim %d caractere."
+
+#: register-plus-redux.php:1852
+msgid "<strong>ERROR</strong>: Please enter an invitation code."
+msgstr "<strong>EROARE</strong>: Introdu un cod de invitaţie."
+
+#: register-plus-redux.php:1863
+msgid "<strong>ERROR</strong>: That invitation code is invalid."
+msgstr "<strong>EROARE</strong>: Codul tău de invitaţie nu e corect."
+
+#: register-plus-redux.php:1869
+#: register-plus-redux.php:1874
+#: register-plus-redux.php:1879
+#, php-format
+msgid "<strong>ERROR</strong>: Please accept the %s"
+msgstr "<strong>EROARE</strong>: Acceptă <b>%s</b>"
+
+#: register-plus-redux.php:1906
+#, php-format
+msgid "Thank you %s, your account has been verified, please login."
+msgstr "Mulţumesc %s, contul tău a fost validat. Poţi să intri în contul tău."
+
+#: register-plus-redux.php:1909
+#: register-plus-redux.php:2047
+msgid "Your account will be reviewed by an administrator and you will be notified when it is activated."
+msgstr "Contul tau va fi validat de un administrator şi vei fi anunţat când va fi activat."
+
+#: register-plus-redux.php:1947
+msgid "Additional Information"
+msgstr "Informaţii suplimentare"
+
+#: register-plus-redux.php:2045
+msgid "Please verify your account using the verification link sent to your email address."
+msgstr "Te rog să îţi validezi contul de email cu link-ul trimis într-un email la adresa introdusă de tine."
+
+#: register-plus-redux.php:2098
+msgid "Your Login Information"
+msgstr "Informaţiile tale de login"
+
+#: register-plus-redux.php:2106
+msgid "Verify Your Account"
+msgstr "Validează contul"
+
+#: register-plus-redux.php:2116
+msgid "New User Registered"
+msgstr "Un nou user s-a înregistrat"
+
+#: register-plus-redux.php:2250
+msgid "Settings"
+msgstr "Setări"
+
+#: register-plus-redux.php:2310
+msgid "There is another active plugin that is conflicting with Register Plus Redux. The conflicting plugin is creating its own wp_new_user_notification function, this function is used to alter the messages sent out following the creation of a new user. Please refer to <a href='http://radiok.info/blog/wp_new_user_notification-conflicts/'>http://radiok.info/blog/wp_new_user_notification-conflicts/</a> for help resolving this issue."
+msgstr "Există un conflict între Register Plus Redux şi un alt plugin. Pluginul ce face conflictul şi-a creat propria funcţie wp_new_user_notification, care e folosită pentru a modifica mesajele trimise la crearea de noi conturi. Intră la adresa <a href='http://radiok.info/blog/wp_new_user_notification-conflicts/'>http://radiok.info/blog/wp_new_user_notification-conflicts/</a> pentru mai multe informaţii."
+
+#: register-plus-redux.php:2315
+#, php-format
+msgid "Register Plus Redux requires WordPress 3.0 or greater. You are currently using WordPress %s, please upgrade or deactivate Register Plus Redux."
+msgstr "Register Plus Redux e compatibil doar cu WordPress 3.0 sau mai nou. Tu foloseşti WordPress %s. Fă upgrade sau dezactivează Register Plus Redux."
+
+#. Plugin Name of the plugin/theme
+msgid "Register Plus Redux"
+msgstr "Register Plus Redux"
+
+#. Plugin URI of the plugin/theme
+msgid "http://radiok.info/blog/category/register-plus-redux/"
+msgstr "http://radiok.info/blog/category/register-plus-redux/"
+
+#. Description of the plugin/theme
+msgid "Enhances the user registration process with complete customization and additional administration options."
+msgstr "Îmbunătăţeşte procesul de înregistrare a noilor utilizatori cu o personalizare completă şi opţiuni suplimentare de administrare."
+
+#. Author of the plugin/theme
+msgid "radiok"
+msgstr "radiok"
+
+#. Author URI of the plugin/theme
+msgid "http://radiok.info/"
+msgstr "http://radiok.info/"
+
+#~ msgid "Agreement Text"
+#~ msgstr "Testo consenso"
+
+#~ msgid "Previous year"
+#~ msgstr "Anno precedente"
+
+#~ msgid "Previous month"
+#~ msgstr "Mese precedente"
+
+#~ msgid "Next Month"
+#~ msgstr "Mese prossimo"
+
+#~ msgid "Close"
+#~ msgstr "Chiudi"
+
+#~ msgid "Choose Date"
+#~ msgstr "Scegli la data"
+
+#~ msgid "Mon"
+#~ msgstr "Lun"
+
+#~ msgid "Tue"
+#~ msgstr "Mar"
+
+#~ msgid "Wed"
+#~ msgstr "Mer"
+
+#~ msgid "Thu"
+#~ msgstr "Gio"
+
+#~ msgid "Fri"
+#~ msgstr "Ven"
+
+#~ msgid "Sat"
+#~ msgstr "Sab"
+
+#~ msgid "Sun"
+#~ msgstr "Dom"
+
+#~ msgid "January"
+#~ msgstr "Gennaio"
+
+#~ msgid "February"
+#~ msgstr "Febbraio"
+
+#~ msgid "March"
+#~ msgstr "Marzo"
+
+#~ msgid "June"
+#~ msgstr "Giugno"
+
+#~ msgid "July"
+#~ msgstr "Luglio"
+
+#~ msgid "August"
+#~ msgstr "Agosto"
+
+#~ msgid "September"
+#~ msgstr "Settembre"
+
+#~ msgid "October"
+#~ msgstr "Ottobre"
+
+#~ msgid "November"
+#~ msgstr "Novembre"
+
+#~ msgid "December"
+#~ msgstr "Dicembre"
+
+#~ msgid "[%s] Your username and password"
+#~ msgstr "[%s] Il tuo nome utente e password"
+
+#~ msgid "Allow New Registrations to set their own Password"
+#~ msgstr "Permetti alle nuove registrazioni di impostare una propria password"
+
+#~ msgid "Recommended logo should not exceed 358px width."
+#~ msgstr "La dimensione del logo non deve eccedere i 358px di larghezza."
+
+#~ msgid "New users will be sent an activation code via email."
+#~ msgstr "Verrà inviato via email ai nuovi utenti un codice invito."
+
+#~ msgid "Enable Invitation Code(s)"
+#~ msgstr "Attiva codice(i) invito"
+
+#~ msgid "Require Invitation Code to Register"
+#~ msgstr "l'utente dovrà fornire un codice invito affinché possa registrarsi"
+
+#~ msgid "Allow Duplicate Email Addresses"
+#~ msgstr "Permetti ripetizione indirizzi email"
+
+#~ msgid "Fields"
+#~ msgstr "Campi"
+
+#~ msgid "Enable Disclaimer"
+#~ msgstr "Attiva avviso di non responsabilità"
+
+#~ msgid "Enable License Agreement"
+#~ msgstr "Attiva consenso condizioni"
+
+#~ msgid "Enable Privacy Policy"
+#~ msgstr "Attiva informativa trattamento dati"
+
+#, fuzzy
+#~ msgid "Custom User Email Notification"
+#~ msgstr "Utilizza la versione email nuovo utente di SPF"
+
+#, fuzzy
+#~ msgid "Customize Admin Notification Email"
+#~ msgstr "(a) spunta \"Disattiva email amministratore..\""
+
+#~ msgid "Disable"
+#~ msgstr "Disattiva"
+
+#~ msgid "Verify Checked Users"
+#~ msgstr "Verifica utente selezionati"
+
+#~ msgid "Resend Verification E-mail"
+#~ msgstr "Reinvio email di verifica"
+
+#~ msgid "Unverified ID"
+#~ msgstr "ID non verificata"
+
+#~ msgid "Role"
+#~ msgstr "Ruolo"
+
+#~ msgid "e-mail: "
+#~ msgstr "e-mail: "
+
+#~ msgid "[%s] User Account Activated"
+#~ msgstr "[%s] Account utente attivato"
+
+#~ msgid ""
+#~ "You have another plugin installed that is conflicting with Register Plus "
+#~ "Redux. This other plugin is overriding the user notification emails. "
+#~ "Please see <a href=\"http://skullbit.com/news/register-plus-conflicts/"
+#~ "\">Register Plus Conflicts</a> for more information."
+#~ msgstr ""
+#~ "Hai installato un plugin che genera un conflitto con Register Plus Redux. "
+#~ "Questo plugin sta sovrascrivendo le email per la notifica utente. Per "
+#~ "ulteriori info, visita la pagina <a href=\"http://skullbit.com/news/"
+#~ "register-plus-conflicts/\">Register Plus Conflicts</a>."
+
+#~ msgid "[%s] Verify Account Link"
+#~ msgstr "[%s] Verifica link account"
+
+#~ msgid "<strong>Error:</strong> Please select a user to send emails to."
+#~ msgstr ""
+#~ "<strong>Errore:</strong> seleziona un utente a cui inviare le email."
+
+#~ msgid ""
+#~ "Please check your e-mail and click the verification link to activate your "
+#~ "account and complete your registration."
+#~ msgstr ""
+#~ "Controlla la tua email e clicca il link di verifica per attivare il tuo "
+#~ "account e completare la tua registrazione."
+
+#~ msgid "Password: %s"
+#~ msgstr "Password: %s"
+
+#~ msgid "New user registered on your site %s:"
+#~ msgstr "Nuova registrazione utente nel tuo sito %s:"
+
+#~ msgid "[%s] New User Registration"
+#~ msgstr "[%s] Nuova registrazione utente"
+
+#~ msgid ""
+#~ "Please use the above link to verify your email address and activate your "
+#~ "account"
+#~ msgstr ""
+#~ "Utilizza il link qui sopra per verificare il tuo indirizzo email ed "
+#~ "attivare il tuo account"

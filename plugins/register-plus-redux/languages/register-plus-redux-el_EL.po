@@ -1,0 +1,1116 @@
+# Translation of the WordPress plugin Register Plus Redux 3.6.21 by radiok.
+# Copyright (C) 2010 radiok
+# This file is distributed under the same license as the Register Plus Redux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Register Plus Redux 3.6.21\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/register-plus-redux\n"
+"POT-Creation-Date: 2011-03-29 17:46:16+00:00\n"
+"PO-Revision-Date: 2011-03-30 13:31+0200\n"
+"Last-Translator: Dionysios Zogas <wp@powersupport.gr>\n"
+"Language-Team: Dionysios Z. <info@powersupport.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: GREECE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: register-plus-redux.php:131
+#: register-plus-redux.php:473
+msgid "Register Plus Redux Settings"
+msgstr "Ρυθμίσεις Register Plus Redux"
+
+#: register-plus-redux.php:137
+#: register-plus-redux.php:1252
+msgid "Unverified Users"
+msgstr "Μη-Επιβεβαιωμένοι Χρήστες"
+
+#: register-plus-redux.php:160
+#: register-plus-redux.php:161
+#: register-plus-redux.php:651
+msgid "Remove Code"
+msgstr "Αφαίρεση Κώδικα"
+
+#: register-plus-redux.php:187
+#: register-plus-redux.php:796
+#: register-plus-redux.php:824
+msgid "Text Field"
+msgstr "Πεδίο Κειμένου"
+
+#: register-plus-redux.php:188
+#: register-plus-redux.php:797
+#: register-plus-redux.php:825
+msgid "Select Field"
+msgstr "Πεδίο Επιλογών"
+
+#: register-plus-redux.php:189
+#: register-plus-redux.php:798
+#: register-plus-redux.php:826
+msgid "Checkbox Fields"
+msgstr "Πεδία Checkbox"
+
+#: register-plus-redux.php:190
+#: register-plus-redux.php:799
+#: register-plus-redux.php:827
+msgid "Radio Fields"
+msgstr "Πεδία Radio"
+
+#: register-plus-redux.php:191
+#: register-plus-redux.php:800
+#: register-plus-redux.php:828
+msgid "Text Area"
+msgstr "Περιοχή Κειμένου"
+
+#: register-plus-redux.php:192
+#: register-plus-redux.php:801
+#: register-plus-redux.php:829
+msgid "Date Field"
+msgstr "Πεδίο Ημερ/νίας"
+
+#: register-plus-redux.php:193
+#: register-plus-redux.php:802
+#: register-plus-redux.php:830
+msgid "URL Field"
+msgstr "Πεδίο URL"
+
+#: register-plus-redux.php:194
+#: register-plus-redux.php:803
+#: register-plus-redux.php:831
+msgid "Hidden Field"
+msgstr "Κρυφό Πεδίο"
+
+#: register-plus-redux.php:195
+#: register-plus-redux.php:804
+#: register-plus-redux.php:832
+msgid "Static Text"
+msgstr "Στατικό Κείμενο"
+
+#: register-plus-redux.php:211
+#: register-plus-redux.php:808
+#: register-plus-redux.php:836
+msgid "No help available"
+msgstr "Δεν υπάρχει Βοήθεια"
+
+#: register-plus-redux.php:249
+#: register-plus-redux.php:250
+#: register-plus-redux.php:813
+#: register-plus-redux.php:841
+msgid "Remove Field"
+msgstr "Αφαίρεση Πεδίου"
+
+#: register-plus-redux.php:257
+#: register-plus-redux.php:258
+#: register-plus-redux.php:814
+#: register-plus-redux.php:842
+msgid "Move this Field Up"
+msgstr "Μετακίνηση του πεδίου επάνω"
+
+#: register-plus-redux.php:265
+#: register-plus-redux.php:266
+#: register-plus-redux.php:815
+#: register-plus-redux.php:843
+msgid "Move this Field Down"
+msgstr "Μετακίνηση του πεδίου κάτω"
+
+#: register-plus-redux.php:285
+msgid "The following message will be sent when a user is registered:"
+msgstr "Το παρακάτω μήνυμα θα σταλεί όταν ένας χρήστης κάνει εγγραφή:"
+
+#: register-plus-redux.php:298
+#: register-plus-redux.php:334
+#: register-plus-redux.php:370
+msgid "To: "
+msgstr "Προς: "
+
+#: register-plus-redux.php:299
+#: register-plus-redux.php:335
+#: register-plus-redux.php:371
+msgid "From: "
+msgstr "Από: "
+
+#: register-plus-redux.php:300
+#: register-plus-redux.php:336
+#: register-plus-redux.php:372
+msgid "Subject: "
+msgstr "Θέμα: "
+
+#: register-plus-redux.php:301
+#: register-plus-redux.php:337
+#: register-plus-redux.php:373
+msgid "Content-Type: "
+msgstr "Μήνυμα: "
+
+#: register-plus-redux.php:308
+msgid "No message will be sent to user whether they are registered or created by an administrator."
+msgstr "Δεν θα σταλεί μήνυμα στον χρήστη όταν κάνει εγγραφή ή δημιουργηθεί από τον διαχειριστή."
+
+#: register-plus-redux.php:311
+#: register-plus-redux.php:353
+msgid "The following message will be sent when a user is "
+msgstr "Το παρακάτω μήνυμα θα σταλλεί όταν ένας χρήστης "
+
+#: register-plus-redux.php:312
+#: register-plus-redux.php:354
+msgid "registered"
+msgstr "κάνει εγγραφή"
+
+#: register-plus-redux.php:313
+#: register-plus-redux.php:355
+msgid " or "
+msgstr " ή "
+
+#: register-plus-redux.php:314
+#: register-plus-redux.php:356
+msgid "created"
+msgstr "δημιουργηθεί"
+
+#: register-plus-redux.php:315
+msgid " after "
+msgstr " αφού "
+
+#: register-plus-redux.php:317
+msgid "the user has verified their email address"
+msgstr "ο χρήστης έχει επιβεβαιώσει την διεύθυνση email του"
+
+#: register-plus-redux.php:318
+msgid " and/or "
+msgstr " και/ή "
+
+#: register-plus-redux.php:320
+msgid "an administrator has approved the new user"
+msgstr " ένας διαχειριστής έχει εγκρίνει το νέο χρήστη "
+
+#: register-plus-redux.php:350
+msgid "No message will be sent to administrator whether a user is registered or created."
+msgstr "Δεν θα σταλεί μήνυμα στον διαχειριστή είτε όταν ένας χρήστης κάνει εγγραφή είτε δημιουργηθεί."
+
+#: register-plus-redux.php:469
+msgid "Settings Saved"
+msgstr "Οι Ρυθμίσεις ΣΣώθηκαν"
+
+#: register-plus-redux.php:479
+msgid "Custom Logo URL"
+msgstr "Διεύθυνση URL Προσαρμοσμένου Λογότυπου"
+
+#: register-plus-redux.php:482
+msgid "Upload a new logo:"
+msgstr "Μεταφορτώστε ένα νέο λογότυπο:"
+
+#: register-plus-redux.php:483
+msgid "You must Save Changes to upload logo."
+msgstr "Θα πρέπει να σώσετε τις αλλαγές για να μεταφορτώσετε ένα λογότυπο."
+
+#: register-plus-redux.php:484
+msgid "Custom Logo will be shown on Registration and Login Forms in place of the default Wordpress logo. For the best results custom logo should not exceed 350px width."
+msgstr "Το Προσαρμοσμένο Λογότυπο θα εμφανίζεται στις φόρμες Εγγραφής και Σύνδεσης στην θέση του προεπιλεγμένου λογότυπου Wordpress. Για καλύτερα αποτελέσματα, το Προσαρμοσμένο Λογότυπο δεν θα πρέπει να ξεπερνά τα 350px σε πλάτος."
+
+#: register-plus-redux.php:489
+msgid "Remove Logo"
+msgstr "Αφαίρεση Λογότυπου"
+
+#: register-plus-redux.php:490
+msgid "You must Save Changes to remove logo."
+msgstr "Θα πρέπει να σώσετε τις αλλαγές για να αφαιρέσετε το λογότυπο."
+
+#: register-plus-redux.php:495
+msgid "Email Verification"
+msgstr "Επιβεβαίωση Email"
+
+#: register-plus-redux.php:497
+msgid "Verify all new users email address..."
+msgstr "Να επιβεβαιώνεται η διεύθυνση email όλων των νέων χρηστών."
+
+#: register-plus-redux.php:498
+msgid "A verification code will be sent to any new users email address, new users will not be able to login or reset their password until they have completed the verification process. Administrators may authorize new users from the Unverified Users Page at their own discretion."
+msgstr "Ένας κωδικός επιβεβαίωσης θα σταλεί στην διεύθυνση email του νέου χρήστη. Οι νέοι χρήστες δεν θα μπορούν να συνδεθούν ή να αλλάξουν τον κωδικό τους μέχρι να ολοκληρώσουν την διαδικασία επιβεβαίωσης. Οι διαχειριστές μπορούν να εγκρίνουν νέους χρήστες από την Σελίδα Ανεπιβεβαίωτων Χρηστών κατά την κρίση τους."
+
+#: register-plus-redux.php:500
+msgid "The following message will be shown to users after registering. You may include HTML in this message."
+msgstr "Το παρακάτω μήνυμα θα εμφανίζεται στους χρήστες μετά την εγγραφή τους. Μπορείτε να συμπεριλάβετε HTML σε αυτό το μήνυμα."
+
+#: register-plus-redux.php:506
+msgid "Admin Verification"
+msgstr "Επιβεβαίωση Διαχειριστή"
+
+#: register-plus-redux.php:508
+msgid "Moderate all new user registrations..."
+msgstr "Να ελέγχονται και να εγκρίνονται όλες οι νέες εγγραφές χρηστών."
+
+#: register-plus-redux.php:509
+msgid "New users will not be able to login or reset their password until they have been authorized by an administrator from the Unverified Users Page. If both verification options are enabled, users will not be able to login until an administrator authorizes them, regardless of whether they complete the email verification process."
+msgstr "Οι νέοι χρήστες δεν θα μπορούν να συνδεθούν ή να αλλάξουν τον κωδικό τους μέχρι να εγκριθούν από έναν διαχειριστή από την Σελίδα Ανεπιβεβαίωτων Χρηστών. Εαν και οι δύο επιλογές επιβεβαίωσης είναι ενεργές, οι χρήστες δεν θα μπορούν να συνδεθούν ή να αλλάξουν τον κωδικό τους μέχρι να εγκριθούν από έναν διαχειριστή ακόμα και αν ολοκληρώσουν την διαδικασία επιβεβαίωσης email."
+
+#: register-plus-redux.php:511
+msgid "The following message will be shown to users after registering (or verifying their email if both verification options are enabled). You may include HTML in this message."
+msgstr "Το παρακάτω μήνυμα θα εμφανίζεται στους χρήστες αφού κάνουν εγγραφή (ή επιβεβαιώνουν το email τους, εαν και οι δύο επιλογές επιβεβαίωσης είναι ενεργές). Μπορείτε να συμπεριλάβετε κώδικα HTML σε αυτό το μήνυμα."
+
+#: register-plus-redux.php:517
+msgid "Grace Period"
+msgstr "Περίοδος Χάριτος"
+
+#: register-plus-redux.php:519
+msgid "days"
+msgstr "ημέρες"
+
+#: register-plus-redux.php:520
+msgid "All unverified users will automatically be deleted after the Grace Period specified, to disable this process enter 0 to never automatically delete unverified users."
+msgstr "Όλοι οι ανεπιβεβαίωτοι χρήστες θα διαγράφονται αυτόματα μετά την περίοδο χάριτος. Για να απενεργοποιήσετε αυτή την διαδικασία, εισάγετε 0 για να μην διαγράφονται οι ανεπιβεβαίωτοι χρήστες αυτόματα."
+
+#: register-plus-redux.php:524
+msgid "Registration Redirect"
+msgstr "Ανακατεύθυνση Σελίδας Εγγραφής"
+
+#: register-plus-redux.php:527
+msgid "By default, after registering, users will be sent to %s/wp-login.php?checkemail=registered, leave this value empty if you do not wish to change this behavior. You may enter another address here, however, if that address is not on the same domain, Wordpress will ignore the redirect."
+msgstr "Προεπιλεγμένα, μετά την εγγραφή, οι χρήστες θα ανακατευθύνονται στο  %s/wp-login.php?checkemail=registered. Αφήστε αυτό το πεδίο άδειο αν δεν θέλετε να αλλάξετε την συμπεριφορά αυτή. Μπορείτε να βάλετε μια διαφορετική διεύθυνση εδώ αλλά εαν δεν βρίσκεται στο ίδιο domain το Wordpress θα την αγνοήσει."
+
+#: register-plus-redux.php:531
+msgid "Verification Redirect"
+msgstr "Ανακατελυθυνση Επιβεβαίωσης"
+
+#: register-plus-redux.php:534
+msgid "By default, after verifing, users will be sent to %s/wp-login.php, leave this value empty if you do not wish to change this behavior. You may enter another address here, however, if that addresses is not on the same domain, Wordpress will ignore the redirect."
+msgstr "Προεπιλεγμένα, μετά την επιβεβαίωση, οι χρήστες θα ανακατευθύνονται στο  %s/wp-login.php. Αφήστε αυτό το πεδίο άδειο αν δεν θέλετε να αλλάξετε την συμπεριφορά αυτή. Μπορείτε να βάλετε μια διαφορετική διεύθυνση εδώ αλλά εαν δεν βρίσκεται στο ίδιο domain το Wordpress θα την αγνοήσει."
+
+#: register-plus-redux.php:538
+msgid "Registration Page"
+msgstr "Σελίδα Εγγραφής"
+
+#: register-plus-redux.php:539
+msgid "Select which fields to show on the Registration Page. Users will not be able to register without completing any fields marked required."
+msgstr "Επιλέξτε πιά πεδία θα εμφανίζονται στην Σελίδα Εγγραφής. Οι χρήστες δεν θα μπορούν να ολοκληρώσουν την διαδικασία χωρίς να συμπληρώσουν τα πεδία που είναι μαρκαρισμένα ως απαραίτητα."
+
+#: register-plus-redux.php:542
+msgid "Use Email as Username"
+msgstr "Χρησιμοποίηση Email για Όνομα Χρήστη"
+
+#: register-plus-redux.php:543
+msgid "New users will not be asked to enter a username, instead their email address will be used as their username."
+msgstr "Δεν θα ζητέιται από τους νέους χρήστες να εισάγουν όνομα χρήστη. Αντ' αυτού, το email τους θα χρησιμοποιείται ως όνομα χρήστη. "
+
+#: register-plus-redux.php:546
+msgid "Confirm Email"
+msgstr "Email Επιβεβαίωσης"
+
+#: register-plus-redux.php:547
+msgid "Require new users to enter e-mail address twice during registration."
+msgstr "Απαίτηση εισαγωγής του email δύο φορές από τους χρήστες κατά την εγγραφή."
+
+#: register-plus-redux.php:550
+msgid "Profile Fields"
+msgstr "Πεδιά Προφιλ"
+
+#: register-plus-redux.php:555
+msgid "Show"
+msgstr "Εμφάνισε"
+
+#: register-plus-redux.php:556
+#: register-plus-redux.php:784
+msgid "Require"
+msgstr "Απαραίτητο"
+
+#: register-plus-redux.php:562
+#: register-plus-redux.php:1597
+msgid "First Name"
+msgstr "Όνομα"
+
+#: register-plus-redux.php:567
+#: register-plus-redux.php:1605
+msgid "Last Name"
+msgstr "Επίθετο"
+
+#: register-plus-redux.php:572
+#: register-plus-redux.php:1613
+msgid "Website"
+msgstr "Ιστότοπος"
+
+#: register-plus-redux.php:577
+#: register-plus-redux.php:1621
+msgid "AIM"
+msgstr "AIM"
+
+#: register-plus-redux.php:582
+#: register-plus-redux.php:1629
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: register-plus-redux.php:587
+#: register-plus-redux.php:1637
+msgid "Jabber / Google Talk"
+msgstr "Jabber / Google Talk"
+
+#: register-plus-redux.php:592
+#: register-plus-redux.php:1645
+msgid "About Yourself"
+msgstr "Λίγα Λόγια για εσένα"
+
+#: register-plus-redux.php:601
+msgid "User Set Password"
+msgstr "Κωδικός Χρήστη"
+
+#: register-plus-redux.php:603
+msgid "Require new users enter a password during registration..."
+msgstr "Απαίτηση εισαγωγής κωδικού από τον χρήστη κατά την εγγραφή"
+
+#: register-plus-redux.php:605
+msgid "Minimum password length: "
+msgstr "Ελάχιστο μέγεθος κωδικού:"
+
+#: register-plus-redux.php:606
+msgid "Show password strength meter..."
+msgstr "Εμφάνιση μετρητή δύναμης κωδικού..."
+
+#: register-plus-redux.php:610
+msgid "Empty"
+msgstr "Άδειος"
+
+#: register-plus-redux.php:614
+msgid "Short"
+msgstr "Μικρός"
+
+#: register-plus-redux.php:618
+msgid "Bad"
+msgstr "Κακός"
+
+#: register-plus-redux.php:622
+msgid "Good"
+msgstr "Καλός"
+
+#: register-plus-redux.php:626
+msgid "Strong"
+msgstr "Δυνατός"
+
+#: register-plus-redux.php:630
+msgid "Mismatch"
+msgstr "Αναντιστοιχία Κωδικού"
+
+#: register-plus-redux.php:639
+#: register-plus-redux.php:1758
+#: register-plus-redux.php:2069
+msgid "Invitation Code"
+msgstr "Κωδικός Πρόσκλησης"
+
+#: register-plus-redux.php:641
+msgid "Use invitation codes to track or authorize new user registration..."
+msgstr "Χρησιμοποιήστε Κωδικούς Πρόσκλησης για να παρακολουθείτε ή να εγκρίνετε νέους χρήστες"
+
+#: register-plus-redux.php:643
+msgid "Require new user enter one of the following invitation codes to register."
+msgstr "Απαίτηση εισαγωγής ενός από τους παρακάτω κωδικούς πρόσκλησης, από τον χρήστη για να κάνει εγγραφή."
+
+#: register-plus-redux.php:644
+msgid "Enforce case-sensitivity of invitation codes."
+msgstr "Να επιβληθεί το case-sensitivity στους κωδικούς πρόσκλησης"
+
+#: register-plus-redux.php:645
+msgid "Show Invitation Code Tracking widget on Dashboard."
+msgstr "Εμφάνισε την Μονάδα Παρακολούθησης Κωδικών Πρόσκλησης στον Πίνακα Ελέγχου."
+
+#: register-plus-redux.php:654
+msgid "Add Code"
+msgstr "Πρόσθεσε Κωδικό"
+
+#: register-plus-redux.php:654
+msgid "Add a new invitation code"
+msgstr "Πρόσθεσε ένα νέο κωδικό πρόσκλησης"
+
+#: register-plus-redux.php:659
+msgid "Disclaimer"
+msgstr "Όροι Χρήσης"
+
+#: register-plus-redux.php:661
+msgid "Show Disclaimer during registration..."
+msgstr "Εμφάνισε Όρους Χρήσης κατά την εγγραφή..."
+
+#: register-plus-redux.php:666
+msgid "Disclaimer Title"
+msgstr "Τίτλος Όρων Χρήσεως."
+
+#: register-plus-redux.php:674
+msgid "Disclaimer Content"
+msgstr "Περιεχόμενο Όρων Χρήσης"
+
+#: register-plus-redux.php:680
+#: register-plus-redux.php:712
+#: register-plus-redux.php:744
+msgid "Require Agreement"
+msgstr "Απαίτηση συμφωνίας"
+
+#: register-plus-redux.php:691
+msgid "License Agreement"
+msgstr "Άδεια Χρήσης"
+
+#: register-plus-redux.php:693
+msgid "Show License Agreement during registration..."
+msgstr "Εμφάνιση της Άδεις Χρήσης κατά την εγγραφή"
+
+#: register-plus-redux.php:698
+msgid "License Agreement Title"
+msgstr "Τίτλος Άδειας Χρήσης"
+
+#: register-plus-redux.php:706
+msgid "License Agreement Content"
+msgstr "Περιεχόμενο Άδειας Χρήσης"
+
+#: register-plus-redux.php:723
+msgid "Privacy Policy"
+msgstr "Πολιτική Απορρήτου"
+
+#: register-plus-redux.php:725
+msgid "Show Privacy Policy during registration..."
+msgstr "Εμφάνιση Πολιτικής Απορρήτου κατά την εγγραφή...."
+
+#: register-plus-redux.php:730
+msgid "Privacy Policy Title"
+msgstr "Τίτλος Πολιτικής Απορρήτου"
+
+#: register-plus-redux.php:738
+msgid "Privacy Policy Content"
+msgstr "Περιεχόμενο Πολιτικής Απορρήτου"
+
+#: register-plus-redux.php:755
+msgid "Use Default Style Rules"
+msgstr "Χρησιμοποίησε τους προεπιλεγμένους κανόνες στυλ"
+
+#: register-plus-redux.php:756
+msgid "Apply default Wordpress 3.0.1 styling to all fields."
+msgstr "Εφάρμοσε το στυλ του Wordpress 3.0.1 σε όλα τα πεδία"
+
+#: register-plus-redux.php:759
+msgid "Required Fields Style Rules"
+msgstr "Απαιτουμενοι κανόνες για το στυλ των πεδίων"
+
+#: register-plus-redux.php:763
+msgid "Required Fields Asterisk"
+msgstr "Απαιτούμενοι Αστερίσκοι στα πεδία"
+
+#: register-plus-redux.php:764
+msgid "Add asterisk to left of all required field's name."
+msgstr "Πρόσθεσε έναν αστερίσκο στα αριστερά του όνόματος όλων των απαιτούμενων πεδίων."
+
+#: register-plus-redux.php:767
+msgid "Starting Tabindex"
+msgstr "Έναρξη Tabindex"
+
+#: register-plus-redux.php:770
+msgid "The first field added will have this tabindex, the tabindex will increment by 1 for each additional field. Enter 0 to remove all tabindex's."
+msgstr "Το πρώτο πεδίο θα έχει αυτό το tabindex. To tabindex θα αυξάνεται κατά ένα για κάθε προστιθέμενο πεδίο. Εισάγετε 0 για αφαίρεση όλων των tabindex's."
+
+#: register-plus-redux.php:774
+msgid "Additional Fields"
+msgstr "Επιπλέον Πεδία"
+
+#: register-plus-redux.php:775
+msgid "Enter additional fields to show on the User Profile and/or Registration Pages. Additional fields will be shown after existing profile fields on User Profile, and after selected profile fields on Registration Page but before Password, Invitation Code, Disclaimer, License Agreement, or Privacy Policy (if any of those fields are enabled). Options must be entered for Select, Checkbox, and Radio fields. Options should be entered with commas separating each possible value. For example, a Radio field named \"Gender\" could have the following options, \"Male,Female\"."
+msgstr "Εισάγετε πρόσθετα πεδία για να εμφανιστούν στο Προφίλ Χρήστη και/ ή στην σελίδα Εγγραφής. Τα Πρόσθετα πεδία θα εμφανιστούν μετά τα υπάρχοντα πεδία του προφίλ στην σελίδα του προφίλ χρήστη, και μετά από τα επιλεγμένα πεδία προφίλ για στην σελίδα εγγραφής, αλλά πριν από τον κωδικό, κώδικα πρόσκλησης,  Disclaimer, Άδεια Χρήσης, ή Πολιτική Προστασίας Προσωπικών Δεδομένων (αν κάποιο από αυτά τα πεδία είναι ενεργοποιημένα). Οι Επιλογές πρέπει να εισαχθούν για  τα πεδία είδους Select, Checkbox, και Radio.Οι  Επιλογές θα πρέπει να εισάχθούν με κόμματα ξεχωριστά για κάθε δυνατή τιμή. Για παράδειγμα, ένα πεδίο Radio όνομα \"Φύλο \" θα μπορούσε να έχει τις ακόλουθες επιλογές, \"Άντρας, Γυναίκα \"."
+
+#: register-plus-redux.php:778
+msgid "Name"
+msgstr "Όνομα"
+
+#: register-plus-redux.php:779
+msgid "Type"
+msgstr "Τύπος"
+
+#: register-plus-redux.php:780
+msgid "Options"
+msgstr "Επιλογές"
+
+#: register-plus-redux.php:782
+msgid "Profile"
+msgstr "Προφίλ"
+
+#: register-plus-redux.php:783
+msgid "Registration"
+msgstr "Εγγραφή"
+
+#: register-plus-redux.php:785
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: register-plus-redux.php:850
+msgid "Add Field"
+msgstr "Πρόσθεση Πεδίου"
+
+#: register-plus-redux.php:850
+msgid "Add a new custom field."
+msgstr "Προσθέστε ένα νέο προσαρμοσμένο πεδίο."
+
+#: register-plus-redux.php:853
+msgid "Date Field Settings"
+msgstr "Ρυθμίσεις Πεδίου Ημερ/νίας"
+
+#: register-plus-redux.php:855
+msgid "First Day of the Week"
+msgstr "Πρώτη μέρα της εβδομάδας"
+
+#: register-plus-redux.php:857
+msgid "Monday"
+msgstr "Δευτέρα"
+
+#: register-plus-redux.php:858
+msgid "Tuesday"
+msgstr "Τρίτη"
+
+#: register-plus-redux.php:859
+msgid "Wednesday"
+msgstr "Τετάρτη"
+
+#: register-plus-redux.php:860
+msgid "Thursday"
+msgstr "Πέμπτη"
+
+#: register-plus-redux.php:861
+msgid "Friday"
+msgstr "Παρασκευή"
+
+#: register-plus-redux.php:862
+msgid "Saturday"
+msgstr "Σάββατο"
+
+#: register-plus-redux.php:863
+msgid "Sunday"
+msgstr "Κυριακή"
+
+#: register-plus-redux.php:865
+msgid "Date Format"
+msgstr "Μορφή Ημερ/νίας"
+
+#: register-plus-redux.php:866
+msgid "First Selectable Date"
+msgstr "Πρώτη επιλεγμένη ημερ/ν'ια"
+
+#: register-plus-redux.php:867
+msgid "Default Year"
+msgstr "Προεπιλεγμένος Χρόνος"
+
+#: register-plus-redux.php:868
+msgid "Default Month"
+msgstr "Προεπιλεγμένος Μήνας"
+
+#: register-plus-redux.php:870
+msgid "Current Month"
+msgstr "Τρέχων Μήνας"
+
+#: register-plus-redux.php:871
+msgid "Jan"
+msgstr "Ιαν"
+
+#: register-plus-redux.php:872
+msgid "Feb"
+msgstr "Φεβρ"
+
+#: register-plus-redux.php:873
+msgid "Mar"
+msgstr "Μαρ"
+
+#: register-plus-redux.php:874
+msgid "Apr"
+msgstr "Απρ"
+
+#: register-plus-redux.php:875
+msgid "May"
+msgstr "Μαϊος"
+
+#: register-plus-redux.php:876
+msgid "Jun"
+msgstr "Ιουν"
+
+#: register-plus-redux.php:877
+msgid "Jul"
+msgstr "Ιουλ"
+
+#: register-plus-redux.php:878
+msgid "Aug"
+msgstr "Αυγ"
+
+#: register-plus-redux.php:879
+msgid "Sep"
+msgstr "Σεπτ"
+
+#: register-plus-redux.php:880
+msgid "Oct"
+msgstr "Οκτ"
+
+#: register-plus-redux.php:881
+msgid "Nov"
+msgstr "Νοε"
+
+#: register-plus-redux.php:882
+msgid "Dec"
+msgstr "Δεκ"
+
+#: register-plus-redux.php:887
+msgid "Auto-Complete Queries"
+msgstr "Αυτόματη συμπλήρωση ερευνών"
+
+#: register-plus-redux.php:888
+msgid "You can now link to the registration page with queries to autocomplete specific fields for the user. I have included the query keys below and an example of a query URL."
+msgstr "Μπορείτε τώρα να συνδέσετε την σελίδα εγγραφής με έρευνες για αυτόματη συμπλήρωση συγκεκριμένων πεδίων για τον χρήστη. Έχω συμπεριλάβει τα κλειδιά ερευνών παρακάτω καθως και ένα παράδειγμα από μια έρευνα URL."
+
+#: register-plus-redux.php:896
+msgid "For any custom fields, use your custom field label with the text all lowercase, using underscores instead of spaces. For example if your custom field was \"Middle Name\" your query key would be %middle_name%"
+msgstr "Για οποιαδήποτε προσαρμοσμένo πεδίo, χρησιμοποιήστε την προσαρμοσμένη ετικέτα του πεδίου με το κείμενο όλα πεζά, χρησιμοποιώντας underscores αντί για διαστήματα. Για παράδειγμα, αν το προσαρμοσμένο πεδίο σας ήταν \"Middle Name \" το κλειδί έρευνα σας θα είναι %middle_name%"
+
+#: register-plus-redux.php:897
+msgid "Example Query URL"
+msgstr "Παράδειγμα Έρευνας URL"
+
+#: register-plus-redux.php:899
+msgid "New User Message Settings"
+msgstr "Ρυθμίσεις Μηνύματος Νέου Χρήστη"
+
+#: register-plus-redux.php:902
+msgid "New User Message"
+msgstr "Μήνυμα Νέου Χρήστη"
+
+#: register-plus-redux.php:904
+msgid "Do NOT send user an email after they are registered"
+msgstr "ΜΗΝ στείλεις μήνυμα στον χρήστη αφού κάνει εγγραφή"
+
+#: register-plus-redux.php:905
+msgid "Do NOT send user an email when created by an administrator"
+msgstr "ΜΗΝ στείλεις μήνυμα στον χρήστη όταν αυτός δημιουργείται από τον Διαχειριστή."
+
+#: register-plus-redux.php:909
+msgid "Custom New User Message"
+msgstr "Προσαρμοσμένο Μήνυμα Νέου Χρήστη"
+
+#: register-plus-redux.php:911
+#: register-plus-redux.php:949
+#: register-plus-redux.php:996
+msgid "Enable..."
+msgstr "Ενεργοποίηση..."
+
+#: register-plus-redux.php:915
+#: register-plus-redux.php:953
+#: register-plus-redux.php:1000
+msgid "From Email"
+msgstr "Από Email"
+
+#: register-plus-redux.php:916
+#: register-plus-redux.php:920
+#: register-plus-redux.php:924
+#: register-plus-redux.php:929
+#: register-plus-redux.php:954
+#: register-plus-redux.php:958
+#: register-plus-redux.php:962
+#: register-plus-redux.php:967
+#: register-plus-redux.php:1001
+#: register-plus-redux.php:1005
+#: register-plus-redux.php:1009
+#: register-plus-redux.php:1014
+msgid "Restore Default"
+msgstr "Επαναφορά Προεπιλογής"
+
+#: register-plus-redux.php:919
+#: register-plus-redux.php:957
+#: register-plus-redux.php:1004
+msgid "From Name"
+msgstr "Από Όνομα"
+
+#: register-plus-redux.php:923
+#: register-plus-redux.php:961
+#: register-plus-redux.php:1008
+msgid "Subject"
+msgstr "Θέμα"
+
+#: register-plus-redux.php:928
+#: register-plus-redux.php:966
+msgid "User Message"
+msgstr "Μήνυμα Χρήστη"
+
+#: register-plus-redux.php:930
+#: register-plus-redux.php:968
+#: register-plus-redux.php:1015
+msgid "Replacement Keywords"
+msgstr "Αντικατάσταση Λέξεων-Κλειδιών"
+
+#: register-plus-redux.php:931
+#: register-plus-redux.php:969
+#: register-plus-redux.php:1016
+msgid "Send as HTML"
+msgstr "Αποστολή ως HTML"
+
+#: register-plus-redux.php:932
+#: register-plus-redux.php:970
+#: register-plus-redux.php:1017
+msgid "Convert new lines to &lt;br /&gt; tags (HTML only)"
+msgstr "Μετατροπή νέων γραμμών σε &lt;br /&gt; tags (μόνο για HTML)"
+
+#: register-plus-redux.php:936
+msgid "Login URL"
+msgstr "Διεύθυνση URL σελίδας Συνδεσης(login)"
+
+#: register-plus-redux.php:939
+msgid "This will redirect the users login after registration."
+msgstr "Αυτό θα ανακατευθύνει την συνδεση του χρήστη μετά την εγγραφή."
+
+#: register-plus-redux.php:947
+msgid "Custom Verification Message"
+msgstr "Προσαρμοσμένο Μήνυμα Επιβεβαίωσης"
+
+#: register-plus-redux.php:978
+#: register-plus-redux.php:1025
+msgid "Summary"
+msgstr "Περίληψη"
+
+#: register-plus-redux.php:984
+msgid "Admin Notification Settings"
+msgstr "Ρυθμίσεις Ενημερώσης Διαχειριστή"
+
+#: register-plus-redux.php:987
+msgid "Admin Notification"
+msgstr "Ενημέρωση Διαχειριστή"
+
+#: register-plus-redux.php:989
+msgid "Do NOT send administrator an email whenever a new user registers"
+msgstr "ΜΗΝ στείλεις μήνυμα στον διαχειριστή όταν ένας χρήστης κάνει εγγραφή"
+
+#: register-plus-redux.php:990
+msgid "Do NOT send administrator an email whenever a new user is created by an administrator"
+msgstr "ΜΗΝ στείλεις μήνυμα στον διαχειριστή όταν ένας χρήστης δημιουργέιται από έναν διαχειριστή"
+
+#: register-plus-redux.php:994
+msgid "Custom Admin Notification"
+msgstr "Προσαρμοσμένη Ενημέρωση Διαχειριστή"
+
+#: register-plus-redux.php:1013
+msgid "Admin Message"
+msgstr "Μήνυμα Διαχειριστή"
+
+#: register-plus-redux.php:1032
+msgid "Custom CSS for Register & Login Pages"
+msgstr "Προσαρμοσμένο CSS για τις σελίδες εγγραφής και Σύνδεσης"
+
+#: register-plus-redux.php:1033
+msgid "CSS Rule Example:"
+msgstr "Παράδειγμα Κανόνα CSS:"
+
+#: register-plus-redux.php:1036
+msgid "Custom Register CSS"
+msgstr "Προσαρμοσμένο CSS για την σελίδα Εγγραφής"
+
+#: register-plus-redux.php:1040
+msgid "Custom Login CSS"
+msgstr "Προσαρμοσμένο CSS για την σελίδα Σύνδεσης"
+
+#: register-plus-redux.php:1045
+msgid "Hacks & Fixes"
+msgstr "Διορθώσεις και Hacks"
+
+#: register-plus-redux.php:1048
+msgid "Non-English Custom Fields"
+msgstr "Μη-Αγγλικά Προσαρμοσμένα Πεδία"
+
+#: register-plus-redux.php:1050
+msgid "Do not sanitize keys."
+msgstr "Μην γίνει καθαρισμός των κλειδιών."
+
+#: register-plus-redux.php:1051
+msgid "Custom fields with non-english characters may not work, this hack will stop sanitizing the custom field name which may resolve this issue."
+msgstr "Προσαρμοσμένα Πεδία με μη-αγγλικούς χαρακτήρες μπορεί να μην δουλεύουν. Αυτό το hack θα σταματήσει τον καθαρισμό του ονόματος του πεδίου το οποίο μπορεί να λύσει το πρόβλημα. Ο \"καθαρισμός\" του ονόματος του πεδίου (sanitize) μετατρέπει το όνομα σε πεζά γράμματα και απορρίπτει  όλους τους άλλους χαρακτήρες εκτός από αριθμούς, την κάθετο ( / ) και το underscore."
+
+#: register-plus-redux.php:1055
+msgid "URL File Access is Disabled"
+msgstr "H Πρόσβαση Αρχείων μέσω URL είναι απενεργοποιημένη"
+
+#: register-plus-redux.php:1057
+msgid "Do not open URL files."
+msgstr "Μην Ανοίγεις τα Aρχεία URL"
+
+#: register-plus-redux.php:1058
+msgid "Some PHP configurations do not allow accessing URL objects like files (allow_url_fopen=disabled in php.ini), this hack will stop trying to open URL files as if they were local files. Custom logo must be exactly 326x67 with this hack enabled, otherwise it will be cropped."
+msgstr "Μερικές διαμορφώσεις PHP δεν επιτρέπουν την πρόσβαση σε αντικείμενα URL όπως τα αρχεία (allow_url_fopen = disabled στο php.ini), αυτό το hack θα σταματήσει να προσπαθεί να ανοίξει τα αρχεία URL σαν να ήταν τοπικά αρχεία. To Προσαρμοσμένο λογότυπο πρέπει να είναι ακριβώς 326x67 με αυτό το hack ενεργοποιημένo, αλλιώς θα κοπεί."
+
+#: register-plus-redux.php:1063
+msgid "Save Changes"
+msgstr "Αποθήκευση Αλλαγών"
+
+#: register-plus-redux.php:1064
+msgid "Preview Registration Page"
+msgstr "Προεπισκόπηση Σελίδας Εγγραφής"
+
+#: register-plus-redux.php:1220
+msgid "You cannot edit that user."
+msgstr "Δεν μπορείτε να επεξεργαστείτε αυτόν τον χρήστη"
+
+#: register-plus-redux.php:1240
+msgid "Users approved."
+msgstr "Εγκεκριμένοι Χρήστες"
+
+#: register-plus-redux.php:1243
+msgid "Verification emails sent."
+msgstr "Απεσταλμένα email επιβεβαίωσης"
+
+#: register-plus-redux.php:1246
+msgid "Users deleted."
+msgstr "Διαγραμμένοι Χρήστες"
+
+#: register-plus-redux.php:1257
+msgid "Bulk Actions"
+msgstr "Μαζικές Ενέργειες"
+
+#: register-plus-redux.php:1258
+msgid "Approve"
+msgstr "Έγκριση"
+
+#: register-plus-redux.php:1259
+msgid "Send E-mail Verification"
+msgstr "Αποστολή email Επιβεβαίωσης"
+
+#: register-plus-redux.php:1260
+#: register-plus-redux.php:1295
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: register-plus-redux.php:1262
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+#: register-plus-redux.php:1272
+msgid "Username"
+msgstr "Όνομα Χρήστη"
+
+#: register-plus-redux.php:1273
+msgid "Temp Username"
+msgstr "Προσωρινό Όνομα Χρήστη"
+
+#: register-plus-redux.php:1274
+msgid "E-mail"
+msgstr "E-mail"
+
+#: register-plus-redux.php:1275
+msgid "Registered"
+msgstr "Εγγεγραμμένος"
+
+#: register-plus-redux.php:1276
+msgid "Verification Sent"
+msgstr "Αποστολή Επιβεβαίωσης"
+
+#: register-plus-redux.php:1277
+msgid "Verified"
+msgstr "Εγγεκριμένος"
+
+#: register-plus-redux.php:1294
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: register-plus-redux.php:1299
+msgid "E-mail: "
+msgstr "E-mail: "
+
+#: register-plus-redux.php:1310
+msgid "Approve Selected Users"
+msgstr "Έγκριση Επιλεγμένων Χρηστών"
+
+#: register-plus-redux.php:1311
+msgid "Send E-mail Verification to Selected Users"
+msgstr "Αποστολή EMail Επιβεβάιωσης στους Επιλεγμένους Χρήστες"
+
+#: register-plus-redux.php:1312
+msgid "Delete Selected Users"
+msgstr "Διαγραφή Επιλεγμένων Χρηστών"
+
+#: register-plus-redux.php:1587
+msgid "Confirm E-mail"
+msgstr "Επιβεβαίωση E-Mail"
+
+#: register-plus-redux.php:1646
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr "Μοιραστείτε λίγα βιογραφικά στοιχεία για να συμπληρώσετε το προφίλ σας. Αυτό μπορεί να εμφανίζεται δημόσια."
+
+#: register-plus-redux.php:1741
+msgid "Password"
+msgstr "Κωδικός"
+
+#: register-plus-redux.php:1746
+msgid "Confirm Password"
+msgstr "Επιβεβαίωση Κωδικού"
+
+#: register-plus-redux.php:1751
+msgid "Your password must be at least %d characters long. To make your password stronger, use upper and lower case letters, numbers, and the following symbols !@#$%%^&amp;*()"
+msgstr "Ο κωδικός σας θα πρέπει να είναι τουλάχιστον %d χαρακτήρες. Για να κάνετε τον κωδικό σας πιο δύνατό, χρησιμοποιήστε κεφαλαία και πεζά γράμματα, νούμερα και κάποιο ή κάποια από τα παρακάτω σύμβολα !@#$%%^&amp;*()"
+
+#: register-plus-redux.php:1762
+msgid "This website is currently closed to public registrations. You will need an invitation code to register."
+msgstr "Ο ιστότοπος είναι κλειστός για δημόσιες εγγραφές. Θα χρειαστείτε έναν κωδικό πρόσκλησης για να εγγραφείτε."
+
+#: register-plus-redux.php:1764
+msgid "Have an invitation code? Enter it here. (This is not required)"
+msgstr "Έχετε ένα κώδικά πρόσκλησης; Καταχωρήστε τον εδώ. (Αυτό δεν είναι υποχρεωτικό)"
+
+#: register-plus-redux.php:1811
+msgid "<strong>ERROR</strong>: Email address is not appropriate as a username, please enter another email address."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Το email σας δεν είναι αποδεκτό ως Όνομα Χρήστη. Παρακαλώ εισάγετε κάποιο άλλο email."
+
+#: register-plus-redux.php:1817
+#: register-plus-redux.php:1926
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Το Όνομα Χρήστη που βάλατε χρησιμοποιείται ήδη. Παρακαλώ διαλέξτε κάποιο άλλο."
+
+#: register-plus-redux.php:1822
+#: register-plus-redux.php:1931
+msgid "<strong>ERROR</strong>: Please confirm your e-mail address."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ επιβεβαιώστε την διεύθυνση email σας."
+
+#: register-plus-redux.php:1824
+#: register-plus-redux.php:1933
+msgid "<strong>ERROR</strong>: Your e-mail address does not match."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Το email σας και η επιβεβαίωση του δεν ταιριάζουν."
+
+#: register-plus-redux.php:1831
+#: register-plus-redux.php:1940
+msgid "<strong>ERROR</strong>: Please enter your first name."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ εισάγετε το όνομα σας."
+
+#: register-plus-redux.php:1836
+#: register-plus-redux.php:1945
+msgid "<strong>ERROR</strong>: Please enter your last name."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ εισάγετε το επώνυμο σας."
+
+#: register-plus-redux.php:1841
+#: register-plus-redux.php:1950
+msgid "<strong>ERROR</strong>: Please enter your website URL."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ εισάγετε την διεύθυνση URL του ιστότοπου σας."
+
+#: register-plus-redux.php:1846
+#: register-plus-redux.php:1955
+msgid "<strong>ERROR</strong>: Please enter your AIM username."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ εισάγετε το ονομα χρήστη AIM."
+
+#: register-plus-redux.php:1851
+#: register-plus-redux.php:1960
+msgid "<strong>ERROR</strong>: Please enter your Yahoo IM username."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ εισάγετε το όνομα χρήστη Yahoo IM."
+
+#: register-plus-redux.php:1856
+#: register-plus-redux.php:1965
+msgid "<strong>ERROR</strong>: Please enter your Jabber / Google Talk username."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ εισάγετε το όνομα χρήστη Jabber / Google Talk."
+
+#: register-plus-redux.php:1861
+#: register-plus-redux.php:1970
+msgid "<strong>ERROR</strong>: Please enter some information about yourself."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ εισάγετε μερικές πληροφορίες για εσάς."
+
+#: register-plus-redux.php:1869
+#: register-plus-redux.php:1978
+msgid "<strong>ERROR</strong>: Please complete %s."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ συμπληρώστε το  %s."
+
+#: register-plus-redux.php:1872
+#: register-plus-redux.php:1981
+msgid "<strong>ERROR</strong>: Please enter new value for %s, value specified is not in the correct format."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ εισάγετε νέα στοιχεία για το %s. Τα στοιχεία που εισάγατε δεν είναι στην σωστή μορφή."
+
+#: register-plus-redux.php:1877
+#: register-plus-redux.php:1986
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ εισάγετε έναν κωδικό."
+
+#: register-plus-redux.php:1879
+#: register-plus-redux.php:1988
+msgid "<strong>ERROR</strong>: Your password does not match."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Οι κωδικοί δεν ταιριάζουν."
+
+#: register-plus-redux.php:1881
+#: register-plus-redux.php:1990
+msgid "<strong>ERROR</strong>: Your password must be at least %d characters in length."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Ο κωδικός θα πρέπει να είναι τουλάχιστον %d χαρακτήρες."
+
+#: register-plus-redux.php:1888
+#: register-plus-redux.php:1997
+msgid "<strong>ERROR</strong>: Please enter an invitation code."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ εισάγετε έναν κωδικό πρόσκλησης."
+
+#: register-plus-redux.php:1899
+#: register-plus-redux.php:2008
+msgid "<strong>ERROR</strong>: That invitation code is invalid."
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Ο κωδικός πρόσκλησης δεν είναι έγκυρος."
+
+#: register-plus-redux.php:1905
+#: register-plus-redux.php:1910
+#: register-plus-redux.php:1915
+#: register-plus-redux.php:2014
+#: register-plus-redux.php:2019
+#: register-plus-redux.php:2024
+msgid "<strong>ERROR</strong>: Please accept the %s"
+msgstr "<strong>ΣΦΑΛΜΑ</strong>: Παρακαλώ αποδεχθείτε το %s"
+
+#: register-plus-redux.php:2065
+msgid "Additional Information"
+msgstr "Επιπρόσθετες Πληροφορίες"
+
+#: register-plus-redux.php:2212
+msgid "Please verify your account using the verification link sent to your email address."
+msgstr "Παρακαλώ, επιβεβαιώστε ότι ο λογαριασμός σας χρησιμοποιεί τον σύνδεσμο επιβεβαίωσης που σας εστάλλει στο email σας."
+
+#: register-plus-redux.php:2214
+#: register-plus-redux.php:2477
+msgid "Your account will be reviewed by an administrator and you will be notified when it is activated."
+msgstr "Ο Λογαριασμός σας θα ελεχθεί από έναν διαχειριστή και θα ενημερωθείτε όταν εγκριθεί."
+
+#: register-plus-redux.php:2266
+msgid "Your Login Information"
+msgstr "Τα Στοιχεία Σύνδεσης σας"
+
+#: register-plus-redux.php:2274
+msgid "Verify Your Account"
+msgstr "Επιβεβαίωση του Λογαριασμού σας"
+
+#: register-plus-redux.php:2284
+msgid "New User Registered"
+msgstr "Εγγραφή Νέου Χρήστη"
+
+#: register-plus-redux.php:2444
+msgid "Invalid verification code."
+msgstr "Μη Έγκυρος Κωδικός Επιβεβαίωσης"
+
+#: register-plus-redux.php:2472
+msgid "Thank you %s, your account has been verified, your password will be emailed to you."
+msgstr "Ευχαριστούμε πολύ %s, ο λογαριασμός σας επιβεβαιώθηκε. Ο κωδικός σας θα σας σταλεί στο email σας."
+
+#: register-plus-redux.php:2474
+msgid "Thank you %s, your account has been verified, please login with the password you specified during registration."
+msgstr "Ευχαριστούμε πολύ %s, ο λογαριασμός σας επιβεβαιώθηκε. Παρακαλώ συνδεθείτε χρησιμοποιώντας τον κωδικό που εισάγατε κατά την εγγραφή σας στον ιστότοπο."
+
+#: register-plus-redux.php:2508
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: register-plus-redux.php:2557
+msgid "There is another active plugin that is conflicting with Register Plus Redux. The conflicting plugin is creating its own wp_new_user_notification function, this function is used to alter the messages sent out following the creation of a new user. Please refer to <a href=\"http://radiok.info/blog/wp_new_user_notification-conflicts/\">http://radiok.info/blog/wp_new_user_notification-conflicts/</a> for help resolving this issue."
+msgstr "Υπάρχει ένα άλλο ενεργό plugin που είναι σε διένεξη με Register Plus Redux. Τα συγκρουόμενο plugin δημιουργεί δική του λειτουργία wp_new_user_notification. Η λειτουργία αυτή χρησιμοποιείται για να αλλάξει τα μηνύματα που αποστέλλονται  μετά τη δημιουργία ενός νέου χρήστη. Ανατρέξτε στις <a href=\"http://radiok.info/blog/wp_new_user_notification-conflicts/\">http://radiok.info/blog/wp_new_user_notification-conflicts/</a> για να σας βοηθήσει στην επίλυση αυτού του ζητήματος."
+
+#: register-plus-redux.php:2562
+msgid "Register Plus Redux requires WordPress 3.0 or greater. You are currently using WordPress %s, please upgrade or deactivate Register Plus Redux."
+msgstr "Το Register Plus Redux απαιτεί WordPress 3.0 ή μεγαλύτερο. Εσείς χρησιμοποιείτε το  WordPress %s. Παρακαλώ αναβαθμίστε το ή απενεργοποιήστε το Register Plus Redux"
+
+#: dashboard_invitation_tracking_widget.php:9
+msgid "Invitation Code Tracking"
+msgstr "Παρακολούθηση Κώδικά Πρόσκλησης"
+
+#. Plugin Name of the plugin/theme
+msgid "Register Plus Redux"
+msgstr "Register Plus Redux - Ελληνική Έκδοση"
+
+#. Plugin URI of the plugin/theme
+msgid "http://radiok.info/category/register-plus-redux/"
+msgstr "http://radiok.info/category/register-plus-redux/"
+
+#. Description of the plugin/theme
+msgid "Enhances the user registration process with complete customization and additional administration options."
+msgstr "Ενισχύει τη διαδικασία εγγραφής χρήστη με πλήρεις δυνατότητες προσαρμογής και πρόσθετες επιλογές διαχείρησης."
+
+#. Author of the plugin/theme
+msgid "radiok"
+msgstr "radiok"
+
+#. Author URI of the plugin/theme
+msgid "http://radiok.info/"
+msgstr "http://radiok.info/"
+

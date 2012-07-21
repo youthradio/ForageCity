@@ -1,0 +1,1825 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Register Plus Redux in italiano\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-12 21:41+0300\n"
+"PO-Revision-Date: 2011-02-12 22:16+0300\n"
+"Last-Translator: Максим Козлов <max-man72@mail.ru>\n"
+"Language-Team: Gianni Diurno | gidibao.net <gidibao[at]gmail[dot]com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__;esc_html_e;esc_html__\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin-header.php:111
+msgid "Visit Site"
+msgstr "Посетите сайт"
+
+#: admin-header.php:115
+msgid "Your site is asking search engines not to index its content"
+msgstr "Содержание вашего сайта закрыто от индексирования поисковыми системами. Проверьте настройки."
+
+#: admin-header.php:115
+msgid "Search Engines Blocked"
+msgstr "SEO заблокировано"
+
+#: admin-header.php:125
+#, php-format
+msgid "Howdy, <a href=\"%1$s\" title=\"Edit your profile\">%2$s</a>"
+msgstr "Здравствуйте, <a href=\"%1$s\" title=\"отредактируйте свой профиль\">%2$s</a>"
+
+#: admin-header.php:126
+msgid "Log Out"
+msgstr "Выход"
+
+#: admin.php:141
+msgid "Invalid plugin page"
+msgstr "Invalid plugin page"
+
+#: admin.php:145
+#, php-format
+msgid "Cannot load %s."
+msgstr "Cannot load %s."
+
+#: admin.php:166
+msgid "You are not allowed to import."
+msgstr "You are not allowed to import."
+
+#: admin.php:180
+msgid "Import"
+msgstr "Import"
+
+#: archive.php:41
+#: archive.php:43
+#: archive.php:87
+#: page.php:21
+#: page_1.php:21
+#: page_2.php:21
+#: page_3.php:21
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: archive.php:45
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: archive.php:47
+msgid "F, Y"
+msgstr "F, Y"
+
+#: archive.php:49
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:51
+msgid "Author Archive"
+msgstr "Author Archive"
+
+#: archive.php:53
+msgid "Blog Archives"
+msgstr "Blog Archives"
+
+#: archive.php:58
+#: search.php:27
+msgid "Newer Entries &raquo;"
+msgstr "Newer Entries &raquo;"
+
+#: archive.php:59
+#: search.php:28
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Older Entries"
+
+#: archive.php:92
+msgid "[Редактировать]"
+msgstr "[Редактировать]"
+
+#: archive.php:104
+msgid "Читать далее"
+msgstr "Читать далее"
+
+#: archive.php:168
+#, php-format
+msgid "Sorry, but there aren't any posts in the %s category yet."
+msgstr "Sorry, but there aren't any posts in the %s category yet."
+
+#: archive.php:170
+msgid "Sorry, but there aren't any posts with this date."
+msgstr "Sorry, but there aren't any posts with this date."
+
+#: archive.php:173
+#, php-format
+msgid "Sorry, but there aren't any posts by %s yet."
+msgstr "Sorry, but there aren't any posts by %s yet."
+
+#: archive.php:175
+msgid "No posts found."
+msgstr "No posts found."
+
+#: archives.php:20
+msgid "Archives by Month:"
+msgstr "Archives by Month:"
+
+#: archives.php:22
+msgid "Archives by Subject:"
+msgstr "Archives by Subject:"
+
+#: dash_widget.php:11
+msgid "Invitation Code Tracking"
+msgstr "Отслеживание кода приглашений"
+
+#: functions.php:18
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+
+#: functions.php:292
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: functions.php:295
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: functions.php:296
+msgid "Edit"
+msgstr "Изменить"
+
+#: functions.php:575
+msgid "j F Y"
+msgstr "j F Y"
+
+#: header.php:16
+#, php-format
+msgid "%s RSS Feed"
+msgstr "%s RSS Feed"
+
+#: header.php:17
+#, php-format
+msgid "%s Atom Feed"
+msgstr "%s Atom Feed"
+
+#: index.php:24
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: index.php:29
+msgid "Welcome to your WordPress Dashboard! You will find helpful tips in the Help tab of each screen to assist you as you get to know the application."
+msgstr "Welcome to your WordPress Dashboard! You will find helpful tips in the Help tab of each screen to assist you as you get to know the application."
+
+#: index.php:30
+msgid "The left-hand navigation menu provides links to the administration screens in your WordPress application. You can expand or collapse navigation sections by clicking on the arrow that appears on the right side of each navigation item when you hover over it. You can also minimize the navigation menu to a narrow icon strip by clicking on the separator lines between navigation sections that end in double arrowheads; when minimized, the submenu items will be displayed on hover."
+msgstr "The left-hand navigation menu provides links to the administration screens in your WordPress application. You can expand or collapse navigation sections by clicking on the arrow that appears on the right side of each navigation item when you hover over it. You can also minimize the navigation menu to a narrow icon strip by clicking on the separator lines between navigation sections that end in double arrowheads; when minimized, the submenu items will be displayed on hover."
+
+#: index.php:31
+msgid "You can configure your dashboard by choosing which modules to display, how many columns to display them in, and where each module should be placed. You can hide/show modules and select the number of columns in the Screen Options tab. To rearrange the modules, drag and drop by clicking on the title bar of the selected module and releasing when you see a gray dotted-line box appear in the location you want to place the module. You can also expand or collapse each module by clicking once on the the module&#8217;s title bar. In addition, some modules are configurable, and will show a &#8220;Configure&#8221; link in the title bar when you hover over it."
+msgstr "You can configure your dashboard by choosing which modules to display, how many columns to display them in, and where each module should be placed. You can hide/show modules and select the number of columns in the Screen Options tab. To rearrange the modules, drag and drop by clicking on the title bar of the selected module and releasing when you see a gray dotted-line box appear in the location you want to place the module. You can also expand or collapse each module by clicking once on the the module&#8217;s title bar. In addition, some modules are configurable, and will show a &#8220;Configure&#8221; link in the title bar when you hover over it."
+
+#: index.php:32
+msgid "The modules on your Dashboard screen are:"
+msgstr "The modules on your Dashboard screen are:"
+
+#: index.php:33
+msgid "<strong>Right Now</strong> - Displays a summary of the content on your site and identifies which theme and version of WordPress you are using."
+msgstr "<strong>Right Now</strong> - Displays a summary of the content on your site and identifies which theme and version of WordPress you are using."
+
+#: index.php:34
+msgid "<strong>Recent Comments</strong> - Shows the most recent comments on your posts (configurable, up to 30) and allows you to moderate them."
+msgstr "<strong>Recent Comments</strong> - Shows the most recent comments on your posts (configurable, up to 30) and allows you to moderate them."
+
+#: index.php:35
+msgid "<strong>Incoming Links</strong> - Shows links to your site found by Google Blog Search."
+msgstr "<strong>Incoming Links</strong> - Shows links to your site found by Google Blog Search."
+
+#: index.php:36
+msgid "<strong>QuickPress</strong> - Allows you to create a new post and either publish it or save it as a draft."
+msgstr "<strong>QuickPress</strong> - Allows you to create a new post and either publish it or save it as a draft."
+
+#: index.php:37
+msgid "<strong>Recent Drafts</strong> - Displays links to the 5 most recent draft posts you&#8217;ve started."
+msgstr "<strong>Recent Drafts</strong> - Displays links to the 5 most recent draft posts you&#8217;ve started."
+
+#: index.php:38
+msgid "<strong>Other WordPress News</strong> - Shows the feed from <a href=\"http://planet.wordpress.org\" target=\"_blank\">WordPress Planet</a>. You can configure it to show a different feed of your choosing."
+msgstr "<strong>Other WordPress News</strong> - Shows the feed from <a href=\"http://planet.wordpress.org\" target=\"_blank\">WordPress Planet</a>. You can configure it to show a different feed of your choosing."
+
+#: index.php:39
+msgid "<strong>Plugins</strong> - Features the most popular, newest, and recently updated plugins from the WordPress.org Plugin Directory."
+msgstr "<strong>Plugins</strong> - Features the most popular, newest, and recently updated plugins from the WordPress.org Plugin Directory."
+
+#: index.php:40
+msgid "For more information:"
+msgstr "Для получения дополнительной информации"
+
+#: index.php:41
+msgid "<a href=\"http://codex.wordpress.org/Dashboard_SubPanel\" target=\"_blank\">Dashboard Documentation</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Dashboard_SubPanel\" target=\"_blank\">Dashboard Documentation</a>"
+
+#: index.php:42
+msgid "<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</a>"
+
+#: page.php:34
+#: page_1.php:34
+#: page_2.php:34
+#: page_3.php:34
+#: search.php:73
+msgid "Read the rest of this entry &raquo;"
+msgstr "Read the rest of this entry &raquo;"
+
+#: search.php:24
+msgid "Search Results"
+msgstr "Search Results"
+
+#: search.php:60
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Permanent Link to %s"
+
+#: search.php:147
+msgid "No posts found. Try a different search?"
+msgstr "No posts found. Try a different search?"
+
+#: sidebar1.php:46
+#: sidebar2.php:45
+#: sidebar3.php:44
+msgid "Bookmarks"
+msgstr "Bookmarks"
+
+#: sidebar2.php:18
+msgid "Categories"
+msgstr "Categories"
+
+#: single.php:113
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry, no posts matched your criteria."
+
+#: wp-login.php:87
+msgid "Powered by WordPress"
+msgstr "Powered by WordPress"
+
+#: wp-login.php:147
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "<strong>ОШИБКА</strong>: Введите имя пользователя или email."
+
+#: wp-login.php:152
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>ОШИБКА</strong>: Нет зарегистрированных пользователей с таким email."
+
+#: wp-login.php:164
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>ОШИБКА</strong>: Неправильное имя пользователя или email."
+
+#: wp-login.php:178
+msgid "Password reset is not allowed for this user"
+msgstr "Password reset is not allowed for this user"
+
+#: wp-login.php:190
+msgid "Someone has asked to reset the password for the following site and username."
+msgstr "Someone has asked to reset the password for the following site and username."
+
+#: wp-login.php:192
+#: wp-login.php:245
+#, php-format
+msgid "Username: %s"
+msgstr "Username: %s"
+
+#: wp-login.php:193
+msgid "To reset your password visit the following address, otherwise just ignore this email and nothing will happen."
+msgstr "To reset your password visit the following address, otherwise just ignore this email and nothing will happen."
+
+#: wp-login.php:204
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Password Reset"
+
+#: wp-login.php:210
+#: wp-login.php:262
+msgid "The e-mail could not be sent."
+msgstr "The e-mail could not be sent."
+
+#: wp-login.php:210
+#: wp-login.php:262
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "Possible reason: your host may have disabled the mail() function..."
+
+#: wp-login.php:229
+#: wp-login.php:232
+#: wp-login.php:236
+msgid "Invalid key"
+msgstr "Invalid key"
+
+#: wp-login.php:246
+#, php-format
+msgid "Password: %s"
+msgstr "Password: %s"
+
+#: wp-login.php:256
+#, php-format
+msgid "[%s] Your new password"
+msgstr "[%s] Your new password"
+
+#: wp-login.php:284
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>ОШИБКА</strong>: Введите имя пользователя."
+
+#: wp-login.php:286
+msgid "<strong>ERROR</strong>: This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr "<strong>ОШИБКА/strong>: Это имя пользователя недопустимо. Использованы недопустимые символы. Пожалуйста, введите имя пользователя."
+
+#: wp-login.php:289
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr "<strong>ОШИБКА/strong>: Пользователь с таким именем уже зарегистрирован, пожалуйста выберите другое."
+
+#: wp-login.php:294
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>ОШИБКА</strong>: Пожалуйста, введите ваш адрес электронной почты."
+
+#: wp-login.php:296
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>ОШИБКА</strong>: Электронный адрес не правильный."
+
+#: wp-login.php:299
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr "<strong>ОШИБКА/strong>: Пользователь с таким email уже зарегистрирован."
+
+#: wp-login.php:312
+#, php-format
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+
+#: wp-login.php:382
+msgid "Sorry, that key does not appear to be valid."
+msgstr "Sorry, that key does not appear to be valid."
+
+#: wp-login.php:386
+msgid "Lost Password"
+msgstr "Забыли пароль?"
+
+#: wp-login.php:386
+msgid "Please enter your username or e-mail address. You will receive a new password via e-mail."
+msgstr "Please enter your username or e-mail address. You will receive a new password via e-mail."
+
+#: wp-login.php:394
+msgid "Username or E-mail:"
+msgstr "Username or E-mail:"
+
+#: wp-login.php:399
+msgid "Get New Password"
+msgstr "Получить новый пароль"
+
+#: wp-login.php:404
+#: wp-login.php:407
+#: wp-login.php:486
+msgid "Log in"
+msgstr "Войти"
+
+#: wp-login.php:405
+#: wp-login.php:482
+#: wp-login.php:617
+msgid "Register"
+msgstr "Регистрация"
+
+#: wp-login.php:413
+#: wp-login.php:492
+#: wp-login.php:624
+msgid "Are you lost?"
+msgstr "Are you lost?"
+
+#: wp-login.php:413
+#: wp-login.php:492
+#: wp-login.php:624
+#, php-format
+msgid "&larr; Back to %s"
+msgstr "&larr; Back to %s"
+
+#: wp-login.php:466
+msgid "Registration Form"
+msgstr "Регистрационная форма"
+
+#: wp-login.php:466
+msgid "Register For This Site"
+msgstr "Register For This Site"
+
+#: wp-login.php:471
+#: wp-login.php:593
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: wp-login.php:475
+msgid "E-mail"
+msgstr "E-mail"
+
+#: wp-login.php:479
+msgid "A password will be e-mailed to you."
+msgstr "A password will be e-mailed to you."
+
+#: wp-login.php:487
+#: wp-login.php:618
+#: wp-login.php:620
+msgid "Password Lost and Found"
+msgstr "Password Lost and Found"
+
+#: wp-login.php:487
+#: wp-login.php:618
+#: wp-login.php:620
+msgid "Lost your password?"
+msgstr "Lost your password?"
+
+#: wp-login.php:542
+msgid "You have logged in successfully."
+msgstr "You have logged in successfully."
+
+#: wp-login.php:546
+msgid "Close"
+msgstr "Chiudi"
+
+#: wp-login.php:564
+msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href='http://www.google.com/cookies.html'>enable cookies</a> to use WordPress."
+msgstr "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href='http://www.google.com/cookies.html'>enable cookies</a> to use WordPress."
+
+#: wp-login.php:568
+msgid "You are now logged out."
+msgstr "You are now logged out."
+
+#: wp-login.php:570
+msgid "User registration is currently not allowed."
+msgstr "User registration is currently not allowed."
+
+#: wp-login.php:572
+msgid "Check your e-mail for the confirmation link."
+msgstr "Check your e-mail for the confirmation link."
+
+#: wp-login.php:574
+msgid "Check your e-mail for your new password."
+msgstr "Check your e-mail for your new password."
+
+#: wp-login.php:576
+msgid "Registration complete. Please check your e-mail."
+msgstr "Registration complete. Please check your e-mail."
+
+#: wp-login.php:578
+msgid "Your session has expired. Please log-in again."
+msgstr "Your session has expired. Please log-in again."
+
+#: wp-login.php:584
+#: wp-login.php:603
+msgid "Log In"
+msgstr "Log In"
+
+#: wp-login.php:597
+msgid "Password"
+msgstr "Пароль"
+
+#: wp-login.php:601
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: logika1_3/404.php:19
+#: logika1_3/index.php:88
+msgid "Not Found"
+msgstr "Not Found"
+
+#: logika1_3/404.php:25
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - Not Found"
+
+#: logika1_3/comments.php:22
+#: logika1_3/legacy.comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "This post is password protected. Enter the password to view comments."
+
+#: logika1_3/comments.php:58
+#: logika1_3/legacy.comments.php:24
+msgid "No Responses"
+msgstr "No Responses"
+
+#: logika1_3/comments.php:58
+#: logika1_3/legacy.comments.php:24
+msgid "One Response"
+msgstr "One Response"
+
+#: logika1_3/comments.php:58
+#: logika1_3/legacy.comments.php:24
+msgid "% Responses"
+msgstr "% Responses"
+
+#: logika1_3/comments.php:58
+#: logika1_3/legacy.comments.php:24
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "to &#8220;%s&#8221;"
+
+#: logika1_3/comments.php:166
+#: logika1_3/legacy.comments.php:125
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: logika1_3/comments.php:166
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "Leave a Reply for %s"
+
+#: logika1_3/comments.php:173
+#: logika1_3/legacy.comments.php:127
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment."
+
+#: logika1_3/comments.php:180
+#: logika1_3/legacy.comments.php:131
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Logged in as <a href=\"%1$s\">%2$s</a>."
+
+#: logika1_3/comments.php:180
+#: logika1_3/legacy.comments.php:132
+msgid "Log out of this account"
+msgstr "Log out of this account"
+
+#: logika1_3/comments.php:180
+#: logika1_3/legacy.comments.php:132
+msgid "Log out &raquo;"
+msgstr "Log out &raquo;"
+
+#: logika1_3/comments.php:185
+#: logika1_3/legacy.comments.php:135
+msgid "Name"
+msgstr "Желаемое имя"
+
+#: logika1_3/comments.php:185
+#: logika1_3/comments.php:188
+#: logika1_3/legacy.comments.php:135
+#: logika1_3/legacy.comments.php:137
+msgid "(required)"
+msgstr "Обязательное"
+
+#: logika1_3/comments.php:188
+#: logika1_3/legacy.comments.php:137
+msgid "Mail (will not be published)"
+msgstr "Mail (will not be published)"
+
+#: logika1_3/comments.php:191
+#: logika1_3/legacy.comments.php:139
+msgid "Website"
+msgstr "Сайт"
+
+#: logika1_3/comments.php:203
+#: logika1_3/legacy.comments.php:146
+msgid "Submit Comment"
+msgstr "Submit Comment"
+
+#: logika1_3/footer.php:25
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%d queries. %s seconds."
+
+#: logika1_3/functions.php:580
+msgid "Новости"
+msgstr "Новости"
+
+#: logika1_3/functions.php:580
+msgid "Рубрика"
+msgstr "Рубрика"
+
+#: logika1_3/index.php:89
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Sorry, but you are looking for something that isn&#8217;t here."
+
+#: logika1_3/legacy.comments.php:95
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: logika1_3/links.php:19
+msgid "Links:"
+msgstr "Links:"
+
+#: logika1_3/searchform.php:6
+msgid "Search"
+msgstr "Поиск"
+
+#: logika1_3_1_castom/archive.php:27
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Archive for the &#8216;%s&#8217; Category"
+
+#: logika1_3_1_castom/archive.php:29
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Posts Tagged &#8216;%s&#8217;"
+
+#: logika1_3_1_castom/sidebar1.php:48
+msgid "Archives"
+msgstr "Archives"
+
+#: logika1_3_1_castom/sidebar1.php:57
+#, php-format
+msgid "You are currently browsing the archives for the %s category."
+msgstr "You are currently browsing the archives for the %s category."
+
+#: logika1_3_1_castom/sidebar1.php:60
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the day %3$s."
+msgstr "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the day %3$s."
+
+#: logika1_3_1_castom/sidebar1.php:60
+msgid "l, F jS, Y"
+msgstr "l, F jS, Y"
+
+#: logika1_3_1_castom/sidebar1.php:63
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for %3$s."
+msgstr "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for %3$s."
+
+#: logika1_3_1_castom/sidebar1.php:66
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the year %3$s."
+msgstr "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the year %3$s."
+
+#: logika1_3_1_castom/sidebar1.php:69
+#, php-format
+msgid "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for <strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
+msgstr "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for <strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
+
+#: logika1_3_1_castom/sidebar1.php:72
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+msgstr "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+
+#: maxman/archive.php:76
+msgid "Author"
+msgstr "Author"
+
+#: maxman/archive.php:93
+#, php-format
+msgid "Posted in %s"
+msgstr "Posted in %s"
+
+#: maxman/archive.php:94
+msgid "Tags:"
+msgstr "Tags:"
+
+#: maxman/archive.php:95
+msgid "No Comments &#187;"
+msgstr "No Comments &#187;"
+
+#: maxman/archive.php:95
+msgid "1 Comment &#187;"
+msgstr "1 Comment &#187;"
+
+#: maxman/archive.php:95
+msgid "% Comments &#187;"
+msgstr "% Comments &#187;"
+
+#: maxman/archive.php:95
+msgid "Comments Closed"
+msgstr "Comments Closed"
+
+#: redux/register-plus-redux.php:147
+#: redux/register-plus-redux.php:148
+#: redux/register-plus-redux.php:612
+msgid "Remove Code"
+msgstr "Удалить код"
+
+#: redux/register-plus-redux.php:174
+#: redux/register-plus-redux.php:756
+#: redux/register-plus-redux.php:782
+msgid "Text Field"
+msgstr "Текстовое поле"
+
+#: redux/register-plus-redux.php:175
+#: redux/register-plus-redux.php:757
+#: redux/register-plus-redux.php:783
+msgid "Select Field"
+msgstr "Поле выбора (Select)"
+
+#: redux/register-plus-redux.php:176
+#: redux/register-plus-redux.php:758
+#: redux/register-plus-redux.php:784
+msgid "Checkbox Fields"
+msgstr "Чекбокс"
+
+#: redux/register-plus-redux.php:177
+#: redux/register-plus-redux.php:759
+#: redux/register-plus-redux.php:785
+msgid "Radio Fields"
+msgstr "Радио кнопка"
+
+#: redux/register-plus-redux.php:178
+#: redux/register-plus-redux.php:760
+#: redux/register-plus-redux.php:786
+msgid "Text Area"
+msgstr "Текст"
+
+#: redux/register-plus-redux.php:179
+#: redux/register-plus-redux.php:761
+#: redux/register-plus-redux.php:787
+msgid "Date Field"
+msgstr "Дата"
+
+#: redux/register-plus-redux.php:180
+#: redux/register-plus-redux.php:762
+#: redux/register-plus-redux.php:788
+msgid "URL Field"
+msgstr " URL"
+
+#: redux/register-plus-redux.php:181
+#: redux/register-plus-redux.php:763
+#: redux/register-plus-redux.php:789
+msgid "Hidden Field"
+msgstr "Hidden Field"
+
+#: redux/register-plus-redux.php:227
+#: redux/register-plus-redux.php:228
+#: redux/register-plus-redux.php:771
+#: redux/register-plus-redux.php:797
+msgid "Remove Field"
+msgstr "Удалить поле"
+
+#: redux/register-plus-redux.php:235
+#: redux/register-plus-redux.php:236
+#: redux/register-plus-redux.php:772
+#: redux/register-plus-redux.php:798
+msgid "Move this Field Up"
+msgstr "Переместить вверх"
+
+#: redux/register-plus-redux.php:243
+#: redux/register-plus-redux.php:244
+#: redux/register-plus-redux.php:773
+#: redux/register-plus-redux.php:799
+msgid "Move this Field Down"
+msgstr "Переместить вниз"
+
+#: redux/register-plus-redux.php:263
+msgid "The following message will be sent when a user is registered:"
+msgstr "После регистрации пользователю будет отправлено следующее сообщение:"
+
+#: redux/register-plus-redux.php:286
+msgid "No message will be sent to user whether they are registered or created by an administrator."
+msgstr "Не отправлять сообщение пользователю, независимо от того зарегистрировался он сам или был создан администратором."
+
+#: redux/register-plus-redux.php:289
+#: redux/register-plus-redux.php:331
+msgid "The following message will be sent when a user is "
+msgstr "Следующее сообщение будет отправлено, когда пользователь "
+
+#: redux/register-plus-redux.php:290
+#: redux/register-plus-redux.php:332
+msgid "registered"
+msgstr "зарегистрирован "
+
+#: redux/register-plus-redux.php:291
+#: redux/register-plus-redux.php:333
+msgid " or "
+msgstr "или "
+
+#: redux/register-plus-redux.php:292
+#: redux/register-plus-redux.php:334
+msgid "created"
+msgstr "создан "
+
+#: redux/register-plus-redux.php:293
+msgid " after "
+msgstr "после "
+
+#: redux/register-plus-redux.php:296
+msgid " and/or "
+msgstr "и/или "
+
+#: redux/register-plus-redux.php:298
+msgid "an administrator has approved the new user"
+msgstr "одобрения администратором"
+
+#: redux/register-plus-redux.php:312
+#: redux/register-plus-redux.php:348
+msgid "To: "
+msgstr "Куда:"
+
+#: redux/register-plus-redux.php:313
+#: redux/register-plus-redux.php:349
+msgid "From: "
+msgstr "От кого:"
+
+#: redux/register-plus-redux.php:314
+#: redux/register-plus-redux.php:350
+msgid "Subject: "
+msgstr "Тема:"
+
+#: redux/register-plus-redux.php:315
+#: redux/register-plus-redux.php:351
+msgid "Content-Type: "
+msgstr "Content-Type: "
+
+#: redux/register-plus-redux.php:328
+msgid "No message will be sent to administrator whether a user is registered or created."
+msgstr "Не отправлять сообщение администратору после регистрации или создания пользователя."
+
+#: redux/register-plus-redux.php:448
+msgid "Settings Saved"
+msgstr "Настройки сохранены"
+
+#: redux/register-plus-redux.php:452
+msgid "Register Plus Redux Settings"
+msgstr "Настройки Register Plus Redux"
+
+#: redux/register-plus-redux.php:458
+msgid "Custom Logo URL"
+msgstr "Адрес пользовательского логотипа"
+
+#: redux/register-plus-redux.php:461
+msgid "Upload a new logo:"
+msgstr "Загрузить новый логотип:"
+
+#: redux/register-plus-redux.php:462
+msgid "You must Save Changes to upload logo."
+msgstr "Сохраните изменения чтобы загрузить логотип."
+
+#: redux/register-plus-redux.php:463
+msgid "Custom Logo will be shown on Registration and Login Forms in place of the default Wordpress logo. For the best results custom logo should not exceed 350px width."
+msgstr "Пользовательский логотип будет показан на странице регистрации и странице входа,  вместо стандартного логотипа Wordpress. Для достижения наилучших результатов логотип не должен превышать 350 пикселей в ширину."
+
+#: redux/register-plus-redux.php:468
+msgid "Remove Logo"
+msgstr "Удалить логотип"
+
+#: redux/register-plus-redux.php:469
+msgid "You must Save Changes to remove logo."
+msgstr "Сохраните изменения для удаления логотипа."
+
+#: redux/register-plus-redux.php:474
+msgid "Email Verification"
+msgstr "Подтверждение адреса электронной почты."
+
+#: redux/register-plus-redux.php:476
+msgid "Verify all new users email address..."
+msgstr "Предотвращение регистраций с несуществующих email адресов."
+
+#: redux/register-plus-redux.php:477
+msgid "A verification code will be sent to any new users email address, new users will not be able to login or reset their password until they have completed the verification process. Administrators may authorize new users from the Unverified Users Page at their own discretion."
+msgstr "Для проверки адреса электронной почты на него будет выслан проверочный код. Новые пользователи не смогут войти или изменить пароль пока не завершат процесс проверки. Администратор может активировать любого пользователя по своему усмотрению."
+
+#: redux/register-plus-redux.php:479
+msgid "The following message will be shown to users after registering. You may include HTML in this message."
+msgstr "Следующее сообщение будет показано пользователям после регистрации. Вы можете включить HTML в этом сообщении."
+
+#: redux/register-plus-redux.php:485
+msgid "Admin Verification"
+msgstr "Проверка администратором"
+
+#: redux/register-plus-redux.php:487
+msgid "Moderate all new user registrations..."
+msgstr "Проверять всех новых пользователей..."
+
+#: redux/register-plus-redux.php:488
+msgid "New users will not be able to login or reset their password until they have been authorized by an administrator from the Unverified Users Page. If both verification options are enabled, users will not be able to login until an administrator authorizes them, regardless of whether they complete the email verification process."
+msgstr "Новые пользователи не смогут войти или сбросить свой пароль, пока они не были одобрены администратором. Если обе опции включены, пользователи не смогут войти, пока администратор не разрешит им, независимо от того, прошел ли электронный адрес проверку."
+
+#: redux/register-plus-redux.php:490
+msgid "The following message will be shown to users after registering (or verifying their email if both verification options are enabled). You may include HTML in this message."
+msgstr "Следующее сообщение будет показано пользователям после регистрации (или после проверки своей электронной почты, если обе опции включены). Вы можете включить HTML в этом сообщении."
+
+#: redux/register-plus-redux.php:496
+msgid "Grace Period"
+msgstr "Период действия кода активации"
+
+#: redux/register-plus-redux.php:498
+msgid "days"
+msgstr "дней"
+
+#: redux/register-plus-redux.php:499
+msgid "All unverified users will automatically be deleted after the Grace Period specified, to disable this process enter 0 to never automatically delete unverified users."
+msgstr "Все непроверенные пользователи будут автоматически удалены по истечении указанного периода активации, чтобы отключить этот процесс введите 0."
+
+#: redux/register-plus-redux.php:503
+msgid "Registration Page"
+msgstr "Страница регистрации"
+
+#: redux/register-plus-redux.php:504
+msgid "Select which fields to show on the Registration Page. Users will not be able to register without completing any fields marked required."
+msgstr "Выберите поля, для показа на странице регистрации. Пользователи не смогут зарегистрироваться без заполнения любого поля, отмеченного как обязательное."
+
+#: redux/register-plus-redux.php:507
+msgid "Confirm Email"
+msgstr "Подтвердите адрес электронной почты"
+
+#: redux/register-plus-redux.php:508
+msgid "Require new users to enter e-mail address twice during registration."
+msgstr "Требовать у пользователя вводить email дважды."
+
+#: redux/register-plus-redux.php:511
+msgid "Profile Fields"
+msgstr "Поля профиля"
+
+#: redux/register-plus-redux.php:516
+msgid "Show"
+msgstr "Показать"
+
+#: redux/register-plus-redux.php:517
+#: redux/register-plus-redux.php:744
+msgid "Require"
+msgstr "Обязательное"
+
+#: redux/register-plus-redux.php:523
+#: redux/register-plus-redux.php:1546
+msgid "First Name"
+msgstr "Имя"
+
+#: redux/register-plus-redux.php:528
+#: redux/register-plus-redux.php:1555
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: redux/register-plus-redux.php:538
+#: redux/register-plus-redux.php:1573
+msgid "AIM"
+msgstr "AIM"
+
+#: redux/register-plus-redux.php:543
+#: redux/register-plus-redux.php:1582
+msgid "Yahoo IM"
+msgstr "Yahoo IM"
+
+#: redux/register-plus-redux.php:548
+#: redux/register-plus-redux.php:1591
+msgid "Jabber / Google Talk"
+msgstr "Jabber / Google Talk"
+
+#: redux/register-plus-redux.php:553
+#: redux/register-plus-redux.php:1600
+msgid "About Yourself"
+msgstr "О себе"
+
+#: redux/register-plus-redux.php:562
+msgid "User Set Password"
+msgstr "Генерировать пароль для пользователя"
+
+#: redux/register-plus-redux.php:564
+msgid "Require new users enter a password during registration..."
+msgstr "Пользователь самостоятельно придумывает и вводит пароль."
+
+#: redux/register-plus-redux.php:566
+msgid "Minimum password length: "
+msgstr "Минимальная длина пароля:"
+
+#: redux/register-plus-redux.php:567
+msgid "Show password strength meter..."
+msgstr "Показать индикатор надежности пароля"
+
+#: redux/register-plus-redux.php:571
+msgid "Empty"
+msgstr "Пусто"
+
+#: redux/register-plus-redux.php:575
+msgid "Short"
+msgstr "Слишком короткий"
+
+#: redux/register-plus-redux.php:579
+msgid "Bad"
+msgstr "Плохой"
+
+#: redux/register-plus-redux.php:583
+msgid "Good"
+msgstr "Хороший"
+
+#: redux/register-plus-redux.php:587
+msgid "Strong"
+msgstr "Надежный"
+
+#: redux/register-plus-redux.php:591
+msgid "Mismatch"
+msgstr "Рассогласование"
+
+#: redux/register-plus-redux.php:600
+#: redux/register-plus-redux.php:1727
+#: redux/register-plus-redux.php:1951
+msgid "Invitation Code"
+msgstr "Код приглашения"
+
+#: redux/register-plus-redux.php:602
+msgid "Use invitation codes to track or authorize new user registration..."
+msgstr "Использовать код приглашения для отслеживания или регистрации нового пользователя..."
+
+#: redux/register-plus-redux.php:604
+msgid "Require new user enter one of the following invitation codes to register."
+msgstr "Требовать нового пользователя вводить код приглашения для регистрации."
+
+#: redux/register-plus-redux.php:605
+msgid "Enforce case-sensitivity of invitation codes."
+msgstr "Учитывать регистр букв в коде приглашения."
+
+#: redux/register-plus-redux.php:606
+msgid "Show Invitation Code Tracking widget on Dashboard."
+msgstr "Показать виджет отслеживания кода приглашений на рабочем столе."
+
+#: redux/register-plus-redux.php:615
+msgid "Add Code"
+msgstr "Добавить код"
+
+#: redux/register-plus-redux.php:615
+msgid "Add a new invitation code"
+msgstr "Добавить новый код приглашения"
+
+#: redux/register-plus-redux.php:620
+msgid "Disclaimer"
+msgstr "Ответсвенность"
+
+#: redux/register-plus-redux.php:622
+msgid "Show Disclaimer during registration..."
+msgstr "Показать ответственность."
+
+#: redux/register-plus-redux.php:627
+msgid "Disclaimer Title"
+msgstr "Заголовок"
+
+#: redux/register-plus-redux.php:635
+msgid "Disclaimer Content"
+msgstr "Содержание"
+
+#: redux/register-plus-redux.php:641
+#: redux/register-plus-redux.php:673
+#: redux/register-plus-redux.php:705
+msgid "Require Agreement"
+msgstr "Требовать принять соглашение"
+
+#: redux/register-plus-redux.php:652
+msgid "License Agreement"
+msgstr "Лицензионное соглашение"
+
+#: redux/register-plus-redux.php:654
+msgid "Show License Agreement during registration..."
+msgstr "Показать лицензионное соглашение при регистрации..."
+
+#: redux/register-plus-redux.php:659
+msgid "License Agreement Title"
+msgstr "Заголовок"
+
+#: redux/register-plus-redux.php:667
+msgid "License Agreement Content"
+msgstr "Содержание"
+
+#: redux/register-plus-redux.php:684
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: redux/register-plus-redux.php:686
+msgid "Show Privacy Policy during registration..."
+msgstr "Показывать политику конфиденциальности при регистрации..."
+
+#: redux/register-plus-redux.php:691
+msgid "Privacy Policy Title"
+msgstr "Заголовок"
+
+#: redux/register-plus-redux.php:699
+msgid "Privacy Policy Content"
+msgstr "Содержание"
+
+#: redux/register-plus-redux.php:716
+msgid "Use Default Style Rules"
+msgstr "Использовать стиль по умолчанию"
+
+#: redux/register-plus-redux.php:717
+msgid "Apply default Wordpress 3.0.1 styling to all fields."
+msgstr "применить к полям стиль по умолчанию Wordpress 3.0.1."
+
+#: redux/register-plus-redux.php:720
+msgid "Required Fields Style Rules"
+msgstr "Стиль обязательных полей"
+
+#: redux/register-plus-redux.php:724
+msgid "Required Fields Asterisk"
+msgstr "Звездочка для обязательных полей"
+
+#: redux/register-plus-redux.php:725
+msgid "Add asterisk to left of all required field's name."
+msgstr "Добавить звездочку слева от названия у всех обязательных полей"
+
+#: redux/register-plus-redux.php:728
+msgid "Starting Tabindex"
+msgstr "Использовать Tabindex"
+
+#: redux/register-plus-redux.php:731
+msgid "The first field added will have this tabindex, the tabindex will incriment by 1 for each additional field. Enter 0 to remove all tabindex's."
+msgstr "Первое добавленное поле будет иметь  этот TabIndex, TabIndex будет увеличиваться на 1 для каждого дополнительного поля. Введите 0, чтобы удалить все TabIndex's."
+
+#: redux/register-plus-redux.php:735
+msgid "Additional Fields"
+msgstr "Дополнительные поля"
+
+#: redux/register-plus-redux.php:736
+msgid "Enter additional fields to show on the User Profile and/or Registration Pages. Additional fields will be shown after existing profile fields on User Profile, and after selected profile fields on Registration Page but before Password, Invitation Code, Disclaimer, License Agreement, or Privacy Policy (if any of those fields are enabled). Options must be entered for Select, Checkbox, and Radio fields. Options should be entered with commas seperating each possible value. For example, a Radio field named \"Gender\" could have the following options, \"Male,Female\"."
+msgstr "Введите дополнительные поля для показа в профиле пользователя и / или странице регистрации. Дополнительные поля будут показаны после существующих полей профиля пользователя, и после выбранных полей профиля для страници регистрации, но до пароля, кода приглашения, \"Все права защищены\", лицензионного соглашения, или политики конфиденциальности (если любые из этих полей включены). Для  флажков и радио кнопок должны быть введены дополнительные значения. Значения разделяются запятыми. Например, радиокнопка с именем \"Пол\" может иметь следующие параметры \" мужчина, женщина\"."
+
+#: redux/register-plus-redux.php:740
+msgid "Type"
+msgstr "Тип"
+
+#: redux/register-plus-redux.php:741
+msgid "Options"
+msgstr "Опции"
+
+#: redux/register-plus-redux.php:742
+msgid "Profile"
+msgstr "Профиль"
+
+#: redux/register-plus-redux.php:743
+msgid "Registration"
+msgstr "Регистрация"
+
+#: redux/register-plus-redux.php:745
+msgid "Actions"
+msgstr "Действия"
+
+#: redux/register-plus-redux.php:806
+msgid "Add Field"
+msgstr "добавить поле"
+
+#: redux/register-plus-redux.php:806
+msgid "Add a new custom field."
+msgstr "Добавить новое поле."
+
+#: redux/register-plus-redux.php:809
+msgid "Date Field Settings"
+msgstr "Настройки поля даты"
+
+#: redux/register-plus-redux.php:811
+msgid "First Day of the Week"
+msgstr "Первый день недели"
+
+#: redux/register-plus-redux.php:813
+msgid "Monday"
+msgstr "Понедельник"
+
+#: redux/register-plus-redux.php:814
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: redux/register-plus-redux.php:815
+msgid "Wednesday"
+msgstr "Среда"
+
+#: redux/register-plus-redux.php:816
+msgid "Thursday"
+msgstr "Четверг"
+
+#: redux/register-plus-redux.php:817
+msgid "Friday"
+msgstr "Пятница"
+
+#: redux/register-plus-redux.php:818
+msgid "Saturday"
+msgstr "Суббота"
+
+#: redux/register-plus-redux.php:819
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: redux/register-plus-redux.php:821
+msgid "Date Format"
+msgstr "Формат даты"
+
+#: redux/register-plus-redux.php:822
+msgid "First Selectable Date"
+msgstr "Первый выбранный день"
+
+#: redux/register-plus-redux.php:823
+msgid "Default Year"
+msgstr "Год по умолчанию"
+
+#: redux/register-plus-redux.php:824
+msgid "Default Month"
+msgstr "Месяц по умолчанию"
+
+#: redux/register-plus-redux.php:826
+msgid "Current Month"
+msgstr "Текущий месяц"
+
+#: redux/register-plus-redux.php:827
+msgid "Jan"
+msgstr "Январь"
+
+#: redux/register-plus-redux.php:828
+msgid "Feb"
+msgstr "Февраль"
+
+#: redux/register-plus-redux.php:829
+msgid "Mar"
+msgstr "Март"
+
+#: redux/register-plus-redux.php:830
+msgid "Apr"
+msgstr "Апрель"
+
+#: redux/register-plus-redux.php:831
+msgid "May"
+msgstr "Май"
+
+#: redux/register-plus-redux.php:832
+msgid "Jun"
+msgstr "Июнь"
+
+#: redux/register-plus-redux.php:833
+msgid "Jul"
+msgstr "Июль"
+
+#: redux/register-plus-redux.php:834
+msgid "Aug"
+msgstr "Август"
+
+#: redux/register-plus-redux.php:835
+msgid "Sep"
+msgstr "Сентябрь"
+
+#: redux/register-plus-redux.php:836
+msgid "Oct"
+msgstr "Октябрь"
+
+#: redux/register-plus-redux.php:837
+msgid "Nov"
+msgstr "Ноябрь"
+
+#: redux/register-plus-redux.php:838
+msgid "Dec"
+msgstr "декабрь"
+
+#: redux/register-plus-redux.php:843
+msgid "Auto-Complete Queries"
+msgstr "Автозаполнение запросов"
+
+#: redux/register-plus-redux.php:844
+msgid "You can now link to the registration page with queries to autocomplete specific fields for the user. I have included the query keys below and an example of a query URL."
+msgstr "Ссылка на страницу регистрации с запросами для автозаполнения конкретных полей для пользователя. Я включил пример запроса ключей и пример запроса URL ниже."
+
+#: redux/register-plus-redux.php:852
+msgid "For any custom fields, use your custom field label with the text all lowercase, using underscores instead of spaces. For example if your custom field was \"Middle Name\" your query key would be %middle_name%"
+msgstr "Для любых пользовательских полей, использовать метки с текстом в нижнем регистре и символом подчеркивания вместо пробелов. Например, если пользовательское поле \"Middle name\" ключевой запрос будет %middle_name%"
+
+#: redux/register-plus-redux.php:853
+msgid "Example Query URL"
+msgstr "Пример запроса URL"
+
+#: redux/register-plus-redux.php:855
+msgid "New User Message Settings"
+msgstr "Настройки сообщения новому пользователю"
+
+#: redux/register-plus-redux.php:858
+msgid "New User Message"
+msgstr "Сообщение новому пользователю"
+
+#: redux/register-plus-redux.php:860
+msgid "Do NOT send user an email after they are registered"
+msgstr "Не отправлять письмо пользователю после регистрации"
+
+#: redux/register-plus-redux.php:861
+msgid "Do NOT send user an email when created by an administrator"
+msgstr "Не отправлять письмо пользователю если он был создан администратором"
+
+#: redux/register-plus-redux.php:865
+msgid "Custom New User Message"
+msgstr "Сообщение новому пользователю"
+
+#: redux/register-plus-redux.php:867
+#: redux/register-plus-redux.php:905
+#: redux/register-plus-redux.php:952
+msgid "Enable..."
+msgstr "Включить..."
+
+#: redux/register-plus-redux.php:871
+#: redux/register-plus-redux.php:909
+#: redux/register-plus-redux.php:956
+msgid "From Email"
+msgstr "От:"
+
+#: redux/register-plus-redux.php:872
+#: redux/register-plus-redux.php:876
+#: redux/register-plus-redux.php:880
+#: redux/register-plus-redux.php:885
+#: redux/register-plus-redux.php:910
+#: redux/register-plus-redux.php:914
+#: redux/register-plus-redux.php:918
+#: redux/register-plus-redux.php:923
+#: redux/register-plus-redux.php:957
+#: redux/register-plus-redux.php:961
+#: redux/register-plus-redux.php:965
+#: redux/register-plus-redux.php:970
+msgid "Restore Default"
+msgstr "Восстановить значения по умолчанию"
+
+#: redux/register-plus-redux.php:875
+#: redux/register-plus-redux.php:913
+#: redux/register-plus-redux.php:960
+msgid "From Name"
+msgstr "От:"
+
+#: redux/register-plus-redux.php:879
+#: redux/register-plus-redux.php:917
+#: redux/register-plus-redux.php:964
+msgid "Subject"
+msgstr "Тема:"
+
+#: redux/register-plus-redux.php:884
+#: redux/register-plus-redux.php:922
+msgid "User Message"
+msgstr "Сообщение"
+
+#: redux/register-plus-redux.php:886
+#: redux/register-plus-redux.php:924
+#: redux/register-plus-redux.php:971
+msgid "Replacement Keywords"
+msgstr "Замена слов"
+
+#: redux/register-plus-redux.php:887
+#: redux/register-plus-redux.php:925
+#: redux/register-plus-redux.php:972
+msgid "Send as HTML"
+msgstr "Отправить как HTML"
+
+#: redux/register-plus-redux.php:888
+#: redux/register-plus-redux.php:926
+#: redux/register-plus-redux.php:973
+msgid "Convert new lines to &lt;br /&gt; tags (HTML only)"
+msgstr "Преобразовать новые строки в  тег &lt;br /&gt; (только HTML)"
+
+#: redux/register-plus-redux.php:892
+msgid "Login URL"
+msgstr "URL страницы входа"
+
+#: redux/register-plus-redux.php:895
+msgid "This will redirect the users login after registration."
+msgstr "Перенаправлять пользователей после входа."
+
+#: redux/register-plus-redux.php:903
+msgid "Custom Verification Message"
+msgstr "Текст письма подтверждения"
+
+#: redux/register-plus-redux.php:934
+#: redux/register-plus-redux.php:981
+msgid "Summary"
+msgstr "Резюме"
+
+#: redux/register-plus-redux.php:940
+msgid "Admin Notification Settings"
+msgstr "Настройки уведомлений администратора"
+
+#: redux/register-plus-redux.php:943
+msgid "Admin Notification"
+msgstr "Уведомление администратора"
+
+#: redux/register-plus-redux.php:945
+msgid "Do NOT send administrator an email whenever a new user registers"
+msgstr "Не уведомлять администратора при регистрации нового пользователя"
+
+#: redux/register-plus-redux.php:946
+msgid "Do NOT send administrator an email whenever a new user is created by an administrator"
+msgstr "Не уведомлять администратора о регистрации пользователя, если пользователь создан самим администратором"
+
+#: redux/register-plus-redux.php:950
+msgid "Custom Admin Notification"
+msgstr "Пользовательское уведомление администратора"
+
+#: redux/register-plus-redux.php:969
+msgid "Admin Message"
+msgstr "Сообщение администратора"
+
+#: redux/register-plus-redux.php:988
+msgid "Custom CSS for Register & Login Pages"
+msgstr "Стили CSS для страницы регистрации и входа"
+
+#: redux/register-plus-redux.php:989
+msgid "CSS Rule Example:"
+msgstr "Пример стиля CSS:"
+
+#: redux/register-plus-redux.php:992
+msgid "Custom Register CSS"
+msgstr "Пользовательский стиль CSS для страницы регистрации"
+
+#: redux/register-plus-redux.php:996
+msgid "Custom Login CSS"
+msgstr "Пользовательский стиль CSS для страницы входа"
+
+#: redux/register-plus-redux.php:1001
+msgid "Hacks & Fixes"
+msgstr "Хаки и исправления"
+
+#: redux/register-plus-redux.php:1004
+msgid "Non-English Custom Fields"
+msgstr "Пользовательские поля, заполненные не на английском языке"
+
+#: redux/register-plus-redux.php:1006
+msgid "Do not sanitize keys."
+msgstr "Не проверять поля."
+
+#: redux/register-plus-redux.php:1007
+msgid "Custom fields with non-english characters may not work, this hack will stop sanitizing the custom field name which may resolve this issue."
+msgstr "Пользовательские поля с не английскими символами, не могут работать. Галочка в этом поле отключит проверку поля, в некоторых случаях это может решить проблему."
+
+#: redux/register-plus-redux.php:1011
+msgid "URL File Access is Disabled"
+msgstr "URL доступа к файлам"
+
+#: redux/register-plus-redux.php:1013
+msgid "Do not open URL files."
+msgstr "Не открывать URL файлы"
+
+#: redux/register-plus-redux.php:1014
+msgid "Some PHP configurations do not allow accessing URL objects like files (allow_url_fopen=disabled in php.ini), this hack will stop trying to open URL files as if they were local files. Custom logo must be exactly 326x67 with this hack enabled, otherwise it will be cropped."
+msgstr "Некоторые конфигурации PHP не позволяют доступ к URL объектов, такие как файлы (allow_url_fopen = отключен в php.ini). Этот хак будет останавливать попытки открыть URL файлов, как если бы они были локальными файлами. Собственный логотип должен иметь размер точно 326x67, иначе при включении этого приема логотип будет обрезан."
+
+#: redux/register-plus-redux.php:1019
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: redux/register-plus-redux.php:1020
+msgid "Preview Registraton Page"
+msgstr "Предпросмотр страницы регистрации"
+
+#: redux/register-plus-redux.php:1174
+msgid "You cannot edit that user."
+msgstr "Вы не можете редактировать этого пользователя."
+
+#: redux/register-plus-redux.php:1191
+msgid "Users approved."
+msgstr "Одобренные пользователи."
+
+#: redux/register-plus-redux.php:1194
+msgid "Verification emails sent."
+msgstr "Проверочное письмо отправлено."
+
+#: redux/register-plus-redux.php:1197
+msgid "Users deleted."
+msgstr "Пользователь удален."
+
+#: redux/register-plus-redux.php:1203
+msgid "Unverified Users"
+msgstr "Пользователи не подтвердившие регистрацию"
+
+#: redux/register-plus-redux.php:1208
+msgid "Bulk Actions"
+msgstr "Массовые действия"
+
+#: redux/register-plus-redux.php:1209
+msgid "Approve"
+msgstr "Утвердить"
+
+#: redux/register-plus-redux.php:1210
+msgid "Send E-mail Verification"
+msgstr "Отправить письмо проверки email"
+
+#: redux/register-plus-redux.php:1211
+#: redux/register-plus-redux.php:1246
+msgid "Delete"
+msgstr "Удалить"
+
+#: redux/register-plus-redux.php:1213
+msgid "Apply"
+msgstr "Применить"
+
+#: redux/register-plus-redux.php:1224
+msgid "Temp Username"
+msgstr "Временное имя пользователя"
+
+#: redux/register-plus-redux.php:1226
+msgid "Registered"
+msgstr "Зарегистрированные"
+
+#: redux/register-plus-redux.php:1227
+msgid "Verification Sent"
+msgstr "Ожидающие подтверждения"
+
+#: redux/register-plus-redux.php:1228
+msgid "Verified"
+msgstr "Подтвержденные"
+
+#: redux/register-plus-redux.php:1250
+msgid "E-mail: "
+msgstr "E-mail: "
+
+#: redux/register-plus-redux.php:1261
+msgid "Approve Selected Users"
+msgstr "Утвердить выбранных пользователей"
+
+#: redux/register-plus-redux.php:1262
+msgid "Send E-mail Verification to Selected Users"
+msgstr "Отправить письмо подтверждения выбранным пользователям"
+
+#: redux/register-plus-redux.php:1263
+msgid "Delete Selected Users"
+msgstr "Удалить выбранных пользователей"
+
+#: redux/register-plus-redux.php:1536
+msgid "Confirm E-mail"
+msgstr "E-mail подтвержден"
+
+#: redux/register-plus-redux.php:1601
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr "Напишите немного о себе, чтобы заполнить ваш профиль. Эти данные могут быть показаны публично."
+
+#: redux/register-plus-redux.php:1714
+msgid "Confirm Password"
+msgstr "Подтверждение пароля"
+
+#: redux/register-plus-redux.php:1720
+#, php-format
+msgid "Your password must be at least %d characters long. To make your password stronger, use upper and lower case letters, numbers, and the following symbols !@#$%%^&amp;*()"
+msgstr "Ваш пароль должен быть не менее %d символов. чтобы сделать пароль надежнее используйте прописные и заглавные буквы, цифры и символы !@#$%^&amp;*()"
+
+#: redux/register-plus-redux.php:1732
+msgid "This website is currently closed to public registrations. You will need an invitation code to register."
+msgstr "Свободная регистрация на сайте невозможна. Для регистрации у вас должен быть код приглашения."
+
+#: redux/register-plus-redux.php:1734
+msgid "Have an invitation code? Enter it here. (This is not required)"
+msgstr "У вас есть код приглашения? введите его здесь. (Не обязательно)"
+
+#: redux/register-plus-redux.php:1787
+msgid "<strong>ERROR</strong>: Please confirm your e-mail address."
+msgstr "<strong>ОШИБКА</strong>: Пожалуста подтвердите свой email."
+
+#: redux/register-plus-redux.php:1789
+msgid "<strong>ERROR</strong>: Your e-mail address does not match."
+msgstr "<strong>ОШИБКА</strong>: Ваш электронный адрес не совпадает."
+
+#: redux/register-plus-redux.php:1796
+msgid "<strong>ERROR</strong>: Please enter your first name."
+msgstr "<strong>ОШИБКА</strong>: Введите ваше имя."
+
+#: redux/register-plus-redux.php:1801
+msgid "<strong>ERROR</strong>: Please enter your last name."
+msgstr "<strong>ОШИБКА</strong>: Введите вашу фамилию."
+
+#: redux/register-plus-redux.php:1806
+msgid "<strong>ERROR</strong>: Please enter your website URL."
+msgstr "<strong>ОШИБКА</strong>: Укажите адрес веб сайта."
+
+#: redux/register-plus-redux.php:1811
+msgid "<strong>ERROR</strong>: Please enter your AIM username."
+msgstr "<strong>ОШИБКА</strong>: Укажите AIM."
+
+#: redux/register-plus-redux.php:1816
+msgid "<strong>ERROR</strong>: Please enter your Yahoo IM username."
+msgstr "<strong>ОШИБКА</strong>: укажите Yahoo IM."
+
+#: redux/register-plus-redux.php:1821
+msgid "<strong>ERROR</strong>: Please enter your Jabber / Google Talk username."
+msgstr "<strong>ОШИБКА</strong>: Введите Jabber / Google Talk."
+
+#: redux/register-plus-redux.php:1826
+msgid "<strong>ERROR</strong>: Please enter some information about yourself."
+msgstr "<strong>ОШИБКА</strong>: Напишите немного о себе."
+
+#: redux/register-plus-redux.php:1835
+#, php-format
+msgid "<strong>ERROR</strong>: Please complete %s."
+msgstr "<strong>ОШИБКА</strong>: Заполните %s."
+
+#: redux/register-plus-redux.php:1841
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>ОШИБКА/strong>: Не указан пароль."
+
+#: redux/register-plus-redux.php:1843
+msgid "<strong>ERROR</strong>: Your password does not match."
+msgstr "<strong>ОШИБКА</strong>: Пароли не совпадают."
+
+#: redux/register-plus-redux.php:1845
+#, php-format
+msgid "<strong>ERROR</strong>: Your password must be at least %d characters in length."
+msgstr "<strong>ОШИБКА</strong>: Пароль должен быть не менее %d символов."
+
+#: redux/register-plus-redux.php:1852
+msgid "<strong>ERROR</strong>: Please enter an invitation code."
+msgstr "<strong>ОШИБКА</strong>: Введите код приглашения."
+
+#: redux/register-plus-redux.php:1863
+msgid "<strong>ERROR</strong>: That invitation code is invalid."
+msgstr "<strong>ОШИБКА</strong>: Код приглашения недействителен."
+
+#: redux/register-plus-redux.php:1869
+#: redux/register-plus-redux.php:1874
+#: redux/register-plus-redux.php:1879
+#, php-format
+msgid "<strong>ERROR</strong>: Please accept the %s"
+msgstr "<strong>ОШИБКА</strong>: Примите %s"
+
+#: redux/register-plus-redux.php:1906
+#, php-format
+msgid "Thank you %s, your account has been verified, please login."
+msgstr "Спасибо %s, Ваш аккаунт был проверен. Теперь вы можете войти."
+
+#: redux/register-plus-redux.php:1909
+#: redux/register-plus-redux.php:2047
+msgid "Your account will be reviewed by an administrator and you will be notified when it is activated."
+msgstr "Ваш аккаунт будет проверен администратором. Вы получите уведомление о его проверке и активации."
+
+#: redux/register-plus-redux.php:1947
+msgid "Additional Information"
+msgstr "Дополнительная информация"
+
+#: redux/register-plus-redux.php:2045
+msgid "Please verify your account using the verification link sent to your email address."
+msgstr "Пожалуйста, проверьте свою почту. Ссылкa для подтверждения была отправлена на ваш email"
+
+#: redux/register-plus-redux.php:2098
+msgid "Your Login Information"
+msgstr "Ваши данные для входа"
+
+#: redux/register-plus-redux.php:2106
+msgid "Verify Your Account"
+msgstr "Проверка вашей учетной записи"
+
+#: redux/register-plus-redux.php:2116
+msgid "New User Registered"
+msgstr "Регистрация нового пользователя"
+
+#: redux/register-plus-redux.php:2250
+msgid "Settings"
+msgstr "Настройки"
+
+#: redux/register-plus-redux.php:2310
+msgid "There is another active plugin that is conflicting with Register Plus Redux. The conflicting plugin is creating its own wp_new_user_notification function, this function is used to alter the messages sent out following the creation of a new user. Please refer to <a href='http://radiok.info/blog/wp_new_user_notification-conflicts/'>http://radiok.info/blog/wp_new_user_notification-conflicts/</a> for help resolving this issue."
+msgstr "Существует еще один активный плагин, который конфликтует с Register Plus Redux. Конфликтующий плагин создает свою собственную функцию wp_new_user_notification, эта функция используется для изменения сообщения, отправляемого при регистрации нового пользователя. Пожалуйста, обратитесь к <a href='http://radiok.info/blog/wp_new_user_notification-conflicts/'> http://radiok.info/blog/wp_new_user_notification-conflicts/ </ A> за помощью в решении этого вопроса."
+
+#: redux/register-plus-redux.php:2315
+#, php-format
+msgid "Register Plus Redux requires WordPress 3.0 or greater. You are currently using WordPress %s, please upgrade or deactivate Register Plus Redux."
+msgstr "Register Plus Redux совместим с WordPress 3.0 или выше. Вы используете WordPress %s, пожалуйста обновитесь или деактивируйте Register Plus Redux."
+
+#~ msgid "Register Plus Redux"
+#~ msgstr "Register Plus Redux"
+
+#~ msgid "http://radiok.info/blog/category/register-plus-redux/"
+#~ msgstr "http://radiok.info/blog/category/register-plus-redux/"
+
+#~ msgid ""
+#~ "Enhances the user registration process with complete customization and "
+#~ "additional administration options."
+#~ msgstr ""
+#~ "Позволяет изменить стандартную регистрацию пользователей, добавив "
+#~ "дополнительные опции и настройки."
+
+#~ msgid "radiok"
+#~ msgstr "radiok"
+
+#~ msgid "http://radiok.info/"
+#~ msgstr "http://radiok.info/"
+
+#~ msgid "Agreement Text"
+#~ msgstr "Testo consenso"
+
+#~ msgid "Previous year"
+#~ msgstr "Anno precedente"
+
+#~ msgid "Previous month"
+#~ msgstr "Mese precedente"
+
+#~ msgid "Next Month"
+#~ msgstr "Mese prossimo"
+
+#~ msgid "Choose Date"
+#~ msgstr "Scegli la data"
+
+#~ msgid "Mon"
+#~ msgstr "Lun"
+
+#~ msgid "Tue"
+#~ msgstr "Mar"
+
+#~ msgid "Wed"
+#~ msgstr "Mer"
+
+#~ msgid "Thu"
+#~ msgstr "Gio"
+
+#~ msgid "Fri"
+#~ msgstr "Ven"
+
+#~ msgid "Sat"
+#~ msgstr "Sab"
+
+#~ msgid "Sun"
+#~ msgstr "Dom"
+
+#~ msgid "January"
+#~ msgstr "Gennaio"
+
+#~ msgid "February"
+#~ msgstr "Febbraio"
+
+#~ msgid "June"
+#~ msgstr "Giugno"
+
+#~ msgid "July"
+#~ msgstr "Luglio"
+
+#~ msgid "August"
+#~ msgstr "Agosto"
+
+#~ msgid "September"
+#~ msgstr "Settembre"
+
+#~ msgid "October"
+#~ msgstr "Ottobre"
+
+#~ msgid "November"
+#~ msgstr "Novembre"
+
+#~ msgid "Allow New Registrations to set their own Password"
+#~ msgstr "Permetti alle nuove registrazioni di impostare una propria password"
+
+#~ msgid "Recommended logo should not exceed 358px width."
+#~ msgstr "La dimensione del logo non deve eccedere i 358px di larghezza."
+
+#~ msgid "New users will be sent an activation code via email."
+#~ msgstr "Verrà inviato via email ai nuovi utenti un codice invito."
+
+#~ msgid "Enable Invitation Code(s)"
+#~ msgstr "Attiva codice(i) invito"
+
+#~ msgid "Require Invitation Code to Register"
+#~ msgstr "l'utente dovrà fornire un codice invito affinché possa registrarsi"
+
+#~ msgid "Allow Duplicate Email Addresses"
+#~ msgstr "Permetti ripetizione indirizzi email"
+
+#~ msgid "Fields"
+#~ msgstr "Campi"
+
+#~ msgid "Enable Disclaimer"
+#~ msgstr "Attiva avviso di non responsabilità"
+
+#~ msgid "Enable License Agreement"
+#~ msgstr "Attiva consenso condizioni"
+
+#~ msgid "Enable Privacy Policy"
+#~ msgstr "Attiva informativa trattamento dati"
+
+#, fuzzy
+#~ msgid "Custom User Email Notification"
+#~ msgstr "Utilizza la versione email nuovo utente di SPF"
+
+#, fuzzy
+#~ msgid "Customize Admin Notification Email"
+#~ msgstr "(a) spunta \"Disattiva email amministratore..\""
+
+#~ msgid "Disable"
+#~ msgstr "Disattiva"
+
+#~ msgid "Verify Checked Users"
+#~ msgstr "Verifica utente selezionati"
+
+#~ msgid "Resend Verification E-mail"
+#~ msgstr "Reinvio email di verifica"
+
+#~ msgid "Unverified ID"
+#~ msgstr "ID non verificata"
+
+#~ msgid "Role"
+#~ msgstr "Ruolo"
+
+#~ msgid "e-mail: "
+#~ msgstr "e-mail: "
+
+#~ msgid "[%s] User Account Activated"
+#~ msgstr "[%s] Account utente attivato"
+
+#~ msgid ""
+#~ "You have another plugin installed that is conflicting with Register Plus "
+#~ "Redux. This other plugin is overriding the user notification emails. "
+#~ "Please see <a href=\"http://skullbit.com/news/register-plus-conflicts/"
+#~ "\">Register Plus Conflicts</a> for more information."
+#~ msgstr ""
+#~ "Hai installato un plugin che genera un conflitto con Register Plus Redux. "
+#~ "Questo plugin sta sovrascrivendo le email per la notifica utente. Per "
+#~ "ulteriori info, visita la pagina <a href=\"http://skullbit.com/news/"
+#~ "register-plus-conflicts/\">Register Plus Conflicts</a>."
+
+#~ msgid "[%s] Verify Account Link"
+#~ msgstr "[%s] Verifica link account"
+
+#~ msgid "<strong>Error:</strong> Please select a user to send emails to."
+#~ msgstr ""
+#~ "<strong>Errore:</strong> seleziona un utente a cui inviare le email."
+
+#~ msgid ""
+#~ "Please check your e-mail and click the verification link to activate your "
+#~ "account and complete your registration."
+#~ msgstr ""
+#~ "Controlla la tua email e clicca il link di verifica per attivare il tuo "
+#~ "account e completare la tua registrazione."
+
+#~ msgid "New user registered on your site %s:"
+#~ msgstr "Nuova registrazione utente nel tuo sito %s:"
+
+#~ msgid "[%s] New User Registration"
+#~ msgstr "[%s] Nuova registrazione utente"
+
+#~ msgid ""
+#~ "Please use the above link to verify your email address and activate your "
+#~ "account"
+#~ msgstr ""
+#~ "Utilizza il link qui sopra per verificare il tuo indirizzo email ed "
+#~ "attivare il tuo account"

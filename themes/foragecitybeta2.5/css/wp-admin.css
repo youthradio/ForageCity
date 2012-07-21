@@ -1,0 +1,47 @@
+input.button_link {
+	border:0;
+	background:transparent;
+	color:#00A;
+	cursor:pointer;
+	padding:0 0 0 10px;
+	margin:0;
+}
+
+input.button_link:hover {
+	color:#901;
+}
+
+table.org-users-table {
+	border-collapse:collapse;
+	margin-top:1em;
+}
+
+table.org-users-table th {
+	text-align:left;
+	padding:0 5px;
+	background-color:#DDD;
+}
+
+table.org-users-table th,
+table.org-users-table td {
+	padding:2px 5px;
+	border:1px solid #777;
+}
+
+table.org-users-table td.no-border,
+table.org-users-table th.no-border {
+	background:transparent;
+	border:none;
+}
+
+#footer {
+	display:none;
+}
+
+td span.submit {
+	display:inline-block;
+	margin:0;
+	padding:0;
+	width:25em;
+	text-align:right;
+}
