@@ -1,0 +1,31 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #bce2ea;
+	color: #000000;
+	font-size:14pt;
+	text-align:left;
+}
+
+
+h1,h2,h3{
+	font-family: Coustard, Times, serif;
+	color: #000000;
+	font-size:18pt;
+	}
+
+}
+
+body p {
+	text-align:justify;
+}
+
+IMG.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+}
+
+h1.mobile {
+    text-align:center;
+}
